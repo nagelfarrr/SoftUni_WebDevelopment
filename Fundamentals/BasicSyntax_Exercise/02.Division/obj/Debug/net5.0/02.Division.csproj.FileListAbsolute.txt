@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\bin\Debug\net5.0\02.Division.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\bin\Debug\net5.0\02.Division.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\bin\Debug\net5.0\02.Division.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\bin\Debug\net5.0\02.Division.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\bin\Debug\net5.0\02.Division.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\bin\Debug\net5.0\ref\02.Division.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\bin\Debug\net5.0\02.Division.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\obj\Debug\net5.0\02.Division.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\obj\Debug\net5.0\02.Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\obj\Debug\net5.0\02.Division.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\obj\Debug\net5.0\02.Division.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\obj\Debug\net5.0\02.Division.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\obj\Debug\net5.0\02.Division.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\obj\Debug\net5.0\ref\02.Division.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\obj\Debug\net5.0\02.Division.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\02.Division\obj\Debug\net5.0\02.Division.genruntimeconfig.cache

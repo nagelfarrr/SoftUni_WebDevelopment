@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\bin\Debug\net5.0\ref\12.EvenNumber.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\obj\Debug\net5.0\ref\12.EvenNumber.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.genruntimeconfig.cache

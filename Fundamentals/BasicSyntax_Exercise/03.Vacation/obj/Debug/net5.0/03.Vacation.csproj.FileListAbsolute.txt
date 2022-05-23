@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\bin\Debug\net5.0\03.Vacation.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\bin\Debug\net5.0\03.Vacation.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\bin\Debug\net5.0\03.Vacation.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\bin\Debug\net5.0\03.Vacation.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\bin\Debug\net5.0\03.Vacation.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\bin\Debug\net5.0\ref\03.Vacation.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\bin\Debug\net5.0\03.Vacation.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\obj\Debug\net5.0\03.Vacation.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\obj\Debug\net5.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\obj\Debug\net5.0\03.Vacation.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\obj\Debug\net5.0\03.Vacation.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\obj\Debug\net5.0\03.Vacation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\obj\Debug\net5.0\03.Vacation.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\obj\Debug\net5.0\ref\03.Vacation.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\obj\Debug\net5.0\03.Vacation.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\03.Vacation\obj\Debug\net5.0\03.Vacation.genruntimeconfig.cache

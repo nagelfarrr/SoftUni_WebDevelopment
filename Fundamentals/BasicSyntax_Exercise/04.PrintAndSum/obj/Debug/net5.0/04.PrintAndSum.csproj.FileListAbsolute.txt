@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\bin\Debug\net5.0\ref\04.PrintAndSum.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\obj\Debug\net5.0\ref\04.PrintAndSum.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\02.EnglishNameOfTheLastDigit.exe
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\02.EnglishNameOfTheLastDigit.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\02.EnglishNameOfTheLastDigit.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\02.EnglishNameOfTheLastDigit.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\02.EnglishNameOfTheLastDigit.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\ref\02.EnglishNameOfTheLastDigit.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\02.EnglishNameOfTheLastDigit.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\02.EnglishNameOfTheLastDigit.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\02.EnglishNameOfTheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\02.EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\02.EnglishNameOfTheLastDigit.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\02.EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\02.EnglishNameOfTheLastDigit.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\ref\02.EnglishNameOfTheLastDigit.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\02.EnglishNameOfTheLastDigit.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\02.EnglishNameOfTheLastDigit.genruntimeconfig.cache

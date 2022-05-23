@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\bin\Debug\net5.0\ref\05.MonthPrinter.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\obj\Debug\net5.0\ref\05.MonthPrinter.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\bin\Debug\net5.0\07.TheatrePromotions.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\bin\Debug\net5.0\07.TheatrePromotions.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\bin\Debug\net5.0\07.TheatrePromotions.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\bin\Debug\net5.0\07.TheatrePromotions.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\bin\Debug\net5.0\07.TheatrePromotions.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\bin\Debug\net5.0\ref\07.TheatrePromotions.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\bin\Debug\net5.0\07.TheatrePromotions.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\obj\Debug\net5.0\07.TheatrePromotions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\obj\Debug\net5.0\07.TheatrePromotions.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\obj\Debug\net5.0\07.TheatrePromotions.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\obj\Debug\net5.0\07.TheatrePromotions.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\obj\Debug\net5.0\07.TheatrePromotions.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\obj\Debug\net5.0\ref\07.TheatrePromotions.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\obj\Debug\net5.0\07.TheatrePromotions.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\07.TheatrePromotions\obj\Debug\net5.0\07.TheatrePromotions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\bin\Debug\net5.0\ref\01.StudentInformation.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\obj\Debug\net5.0\ref\01.StudentInformation.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.genruntimeconfig.cache

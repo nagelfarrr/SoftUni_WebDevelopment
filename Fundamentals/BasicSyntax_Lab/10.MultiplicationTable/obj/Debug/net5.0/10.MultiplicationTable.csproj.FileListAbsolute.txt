@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\bin\Debug\net5.0\10.MultiplicationTable.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\bin\Debug\net5.0\10.MultiplicationTable.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\bin\Debug\net5.0\10.MultiplicationTable.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\bin\Debug\net5.0\10.MultiplicationTable.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\bin\Debug\net5.0\10.MultiplicationTable.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\bin\Debug\net5.0\ref\10.MultiplicationTable.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\bin\Debug\net5.0\10.MultiplicationTable.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\obj\Debug\net5.0\10.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\obj\Debug\net5.0\10.MultiplicationTable.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\obj\Debug\net5.0\10.MultiplicationTable.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\obj\Debug\net5.0\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\obj\Debug\net5.0\10.MultiplicationTable.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\obj\Debug\net5.0\ref\10.MultiplicationTable.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\obj\Debug\net5.0\10.MultiplicationTable.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\10.MultiplicationTable\obj\Debug\net5.0\10.MultiplicationTable.genruntimeconfig.cache

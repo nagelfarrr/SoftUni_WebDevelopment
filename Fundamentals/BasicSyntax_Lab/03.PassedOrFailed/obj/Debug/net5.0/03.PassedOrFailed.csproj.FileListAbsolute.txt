@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\bin\Debug\net5.0\ref\03.PassedOrFailed.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\obj\Debug\net5.0\ref\03.PassedOrFailed.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.genruntimeconfig.cache

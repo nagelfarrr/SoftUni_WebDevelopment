@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\bin\Debug\net5.0\ref\04.BackIn30Minutes.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\obj\Debug\net5.0\ref\04.BackIn30Minutes.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.genruntimeconfig.cache

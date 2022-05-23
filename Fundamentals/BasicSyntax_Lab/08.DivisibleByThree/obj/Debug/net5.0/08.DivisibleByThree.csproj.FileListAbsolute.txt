@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\bin\Debug\net5.0\08.DivisibleByThree.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\bin\Debug\net5.0\08.DivisibleByThree.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\bin\Debug\net5.0\08.DivisibleByThree.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\bin\Debug\net5.0\08.DivisibleByThree.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\bin\Debug\net5.0\08.DivisibleByThree.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\bin\Debug\net5.0\ref\08.DivisibleByThree.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\bin\Debug\net5.0\08.DivisibleByThree.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\obj\Debug\net5.0\08.DivisibleByThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\obj\Debug\net5.0\08.DivisibleByThree.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\obj\Debug\net5.0\08.DivisibleByThree.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\obj\Debug\net5.0\08.DivisibleByThree.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\obj\Debug\net5.0\08.DivisibleByThree.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\obj\Debug\net5.0\ref\08.DivisibleByThree.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\obj\Debug\net5.0\08.DivisibleByThree.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\08.DivisibleByThree\obj\Debug\net5.0\08.DivisibleByThree.genruntimeconfig.cache

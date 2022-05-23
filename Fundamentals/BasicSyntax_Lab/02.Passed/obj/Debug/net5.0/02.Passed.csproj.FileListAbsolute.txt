@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\bin\Debug\net5.0\02.Passed.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\bin\Debug\net5.0\02.Passed.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\bin\Debug\net5.0\02.Passed.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\bin\Debug\net5.0\02.Passed.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\bin\Debug\net5.0\02.Passed.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\bin\Debug\net5.0\ref\02.Passed.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\bin\Debug\net5.0\02.Passed.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\obj\Debug\net5.0\02.Passed.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\obj\Debug\net5.0\02.Passed.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\obj\Debug\net5.0\02.Passed.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\obj\Debug\net5.0\02.Passed.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\obj\Debug\net5.0\02.Passed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\obj\Debug\net5.0\02.Passed.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\obj\Debug\net5.0\ref\02.Passed.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\obj\Debug\net5.0\02.Passed.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\02.Passed\obj\Debug\net5.0\02.Passed.genruntimeconfig.cache

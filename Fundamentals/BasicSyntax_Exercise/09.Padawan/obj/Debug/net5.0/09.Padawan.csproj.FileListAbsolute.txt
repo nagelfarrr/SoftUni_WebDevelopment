@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\bin\Debug\net5.0\09.Padawan.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\bin\Debug\net5.0\09.Padawan.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\bin\Debug\net5.0\09.Padawan.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\bin\Debug\net5.0\09.Padawan.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\bin\Debug\net5.0\09.Padawan.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\bin\Debug\net5.0\ref\09.Padawan.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\bin\Debug\net5.0\09.Padawan.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\obj\Debug\net5.0\09.Padawan.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\obj\Debug\net5.0\09.Padawan.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\obj\Debug\net5.0\09.Padawan.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\obj\Debug\net5.0\09.Padawan.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\obj\Debug\net5.0\09.Padawan.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\obj\Debug\net5.0\ref\09.Padawan.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\obj\Debug\net5.0\09.Padawan.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\obj\Debug\net5.0\09.Padawan.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\09.Padawan\obj\Debug\net5.0\09.Padawan.csproj.AssemblyReference.cache

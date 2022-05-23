@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\bin\Debug\net5.0\ref\10.RageExpenses.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\obj\Debug\net5.0\ref\10.RageExpenses.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\bin\Debug\net5.0\ref\07.VendingMachine.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\obj\Debug\net5.0\ref\07.VendingMachine.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.csproj.AssemblyReference.cache

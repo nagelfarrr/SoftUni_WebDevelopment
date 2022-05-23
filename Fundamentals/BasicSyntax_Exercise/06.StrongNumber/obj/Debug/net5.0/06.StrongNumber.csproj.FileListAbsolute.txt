@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\bin\Debug\net5.0\ref\06.StrongNumber.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\obj\Debug\net5.0\ref\06.StrongNumber.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\bin\Debug\net5.0\08.TriangleOfNumbers.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\bin\Debug\net5.0\08.TriangleOfNumbers.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\bin\Debug\net5.0\08.TriangleOfNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\bin\Debug\net5.0\08.TriangleOfNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\bin\Debug\net5.0\08.TriangleOfNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\bin\Debug\net5.0\ref\08.TriangleOfNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\bin\Debug\net5.0\08.TriangleOfNumbers.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\obj\Debug\net5.0\08.TriangleOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\obj\Debug\net5.0\08.TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\obj\Debug\net5.0\08.TriangleOfNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\obj\Debug\net5.0\08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\obj\Debug\net5.0\08.TriangleOfNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\obj\Debug\net5.0\ref\08.TriangleOfNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\obj\Debug\net5.0\08.TriangleOfNumbers.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\08.TriangleOfNumbers\obj\Debug\net5.0\08.TriangleOfNumbers.genruntimeconfig.cache

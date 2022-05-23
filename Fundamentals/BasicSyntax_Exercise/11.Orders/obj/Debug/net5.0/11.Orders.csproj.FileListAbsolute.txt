@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\bin\Debug\net5.0\11.Orders.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\bin\Debug\net5.0\11.Orders.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\bin\Debug\net5.0\11.Orders.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\bin\Debug\net5.0\11.Orders.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\bin\Debug\net5.0\11.Orders.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\bin\Debug\net5.0\ref\11.Orders.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\bin\Debug\net5.0\11.Orders.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\obj\Debug\net5.0\11.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\obj\Debug\net5.0\11.Orders.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\obj\Debug\net5.0\11.Orders.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\obj\Debug\net5.0\11.Orders.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\obj\Debug\net5.0\11.Orders.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\obj\Debug\net5.0\ref\11.Orders.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\obj\Debug\net5.0\11.Orders.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Exercise\11.Orders\obj\Debug\net5.0\11.Orders.genruntimeconfig.cache

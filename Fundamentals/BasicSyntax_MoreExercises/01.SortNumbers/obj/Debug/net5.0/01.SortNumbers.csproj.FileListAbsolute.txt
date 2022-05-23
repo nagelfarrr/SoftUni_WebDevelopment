@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\bin\Debug\net5.0\01.SortNumbers.exe
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\bin\Debug\net5.0\01.SortNumbers.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\bin\Debug\net5.0\01.SortNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\bin\Debug\net5.0\01.SortNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\bin\Debug\net5.0\01.SortNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\bin\Debug\net5.0\ref\01.SortNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\bin\Debug\net5.0\01.SortNumbers.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\obj\Debug\net5.0\01.SortNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\obj\Debug\net5.0\01.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\obj\Debug\net5.0\01.SortNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\obj\Debug\net5.0\01.SortNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\obj\Debug\net5.0\01.SortNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\obj\Debug\net5.0\01.SortNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\obj\Debug\net5.0\ref\01.SortNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\obj\Debug\net5.0\01.SortNumbers.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\01.SortNumbers\obj\Debug\net5.0\01.SortNumbers.genruntimeconfig.cache

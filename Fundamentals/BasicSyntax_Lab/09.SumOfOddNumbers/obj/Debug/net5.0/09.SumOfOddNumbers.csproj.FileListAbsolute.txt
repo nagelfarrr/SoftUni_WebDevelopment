@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.exe
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\bin\Debug\net5.0\ref\09.SumOfOddNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\obj\Debug\net5.0\ref\09.SumOfOddNumbers.dll
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.genruntimeconfig.cache
