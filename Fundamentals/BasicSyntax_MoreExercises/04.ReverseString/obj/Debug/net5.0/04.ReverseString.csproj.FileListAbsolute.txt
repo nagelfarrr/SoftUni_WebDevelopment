@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\bin\Debug\net5.0\04.ReverseString.exe
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\bin\Debug\net5.0\04.ReverseString.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\bin\Debug\net5.0\04.ReverseString.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\bin\Debug\net5.0\04.ReverseString.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\bin\Debug\net5.0\04.ReverseString.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\bin\Debug\net5.0\ref\04.ReverseString.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\bin\Debug\net5.0\04.ReverseString.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\obj\Debug\net5.0\04.ReverseString.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\obj\Debug\net5.0\04.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\obj\Debug\net5.0\04.ReverseString.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\obj\Debug\net5.0\04.ReverseString.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\obj\Debug\net5.0\04.ReverseString.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\obj\Debug\net5.0\04.ReverseString.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\obj\Debug\net5.0\ref\04.ReverseString.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\obj\Debug\net5.0\04.ReverseString.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\04.ReverseString\obj\Debug\net5.0\04.ReverseString.genruntimeconfig.cache

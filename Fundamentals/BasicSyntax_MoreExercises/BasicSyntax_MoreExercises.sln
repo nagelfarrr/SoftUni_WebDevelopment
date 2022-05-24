@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EnglishNameOfTheLastDigi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GamingStore", "03.GamingStore\03.GamingStore.csproj", "{A4F07907-3C75-4F3D-98B8-C6CAF4F46586}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReverseString", "04.ReverseString\04.ReverseString.csproj", "{752FD91D-8103-4B69-BCA1-CDC35A912684}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A4F07907-3C75-4F3D-98B8-C6CAF4F46586}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4F07907-3C75-4F3D-98B8-C6CAF4F46586}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4F07907-3C75-4F3D-98B8-C6CAF4F46586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752FD91D-8103-4B69-BCA1-CDC35A912684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752FD91D-8103-4B69-BCA1-CDC35A912684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752FD91D-8103-4B69-BCA1-CDC35A912684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752FD91D-8103-4B69-BCA1-CDC35A912684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
