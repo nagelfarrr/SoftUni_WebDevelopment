@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\bin\Debug\net5.0\03.GamingStore.exe
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\bin\Debug\net5.0\03.GamingStore.deps.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\bin\Debug\net5.0\03.GamingStore.runtimeconfig.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\bin\Debug\net5.0\03.GamingStore.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\bin\Debug\net5.0\03.GamingStore.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\bin\Debug\net5.0\ref\03.GamingStore.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\bin\Debug\net5.0\03.GamingStore.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\obj\Debug\net5.0\03.GamingStore.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\obj\Debug\net5.0\03.GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\obj\Debug\net5.0\03.GamingStore.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\obj\Debug\net5.0\03.GamingStore.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\obj\Debug\net5.0\03.GamingStore.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\obj\Debug\net5.0\03.GamingStore.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\obj\Debug\net5.0\ref\03.GamingStore.dll
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\obj\Debug\net5.0\03.GamingStore.pdb
+D:\SoftUni\Fundamentals\BasicSyntax_MoreExercises\03.GamingStore\obj\Debug\net5.0\03.GamingStore.genruntimeconfig.cache
