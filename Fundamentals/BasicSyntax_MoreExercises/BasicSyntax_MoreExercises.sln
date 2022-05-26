@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GamingStore", "03.Gaming
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReverseString", "04.ReverseString\04.ReverseString.csproj", "{752FD91D-8103-4B69-BCA1-CDC35A912684}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Messages", "05.Messages\05.Messages.csproj", "{5F03E392-8CF9-4BF3-A944-89FB8C54BC2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{752FD91D-8103-4B69-BCA1-CDC35A912684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{752FD91D-8103-4B69-BCA1-CDC35A912684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{752FD91D-8103-4B69-BCA1-CDC35A912684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F03E392-8CF9-4BF3-A944-89FB8C54BC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F03E392-8CF9-4BF3-A944-89FB8C54BC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F03E392-8CF9-4BF3-A944-89FB8C54BC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F03E392-8CF9-4BF3-A944-89FB8C54BC2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\bin\Debug\net5.0\01.IntegerAndRealNumbers.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\bin\Debug\net5.0\01.IntegerAndRealNumbers.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\bin\Debug\net5.0\01.IntegerAndRealNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\bin\Debug\net5.0\01.IntegerAndRealNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\bin\Debug\net5.0\01.IntegerAndRealNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\bin\Debug\net5.0\ref\01.IntegerAndRealNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\bin\Debug\net5.0\01.IntegerAndRealNumbers.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\obj\Debug\net5.0\01.IntegerAndRealNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\obj\Debug\net5.0\01.IntegerAndRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\obj\Debug\net5.0\01.IntegerAndRealNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\obj\Debug\net5.0\01.IntegerAndRealNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\obj\Debug\net5.0\01.IntegerAndRealNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\obj\Debug\net5.0\01.IntegerAndRealNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\obj\Debug\net5.0\ref\01.IntegerAndRealNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\obj\Debug\net5.0\01.IntegerAndRealNumbers.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\01.IntegerAndRealNumbers\obj\Debug\net5.0\01.IntegerAndRealNumbers.genruntimeconfig.cache

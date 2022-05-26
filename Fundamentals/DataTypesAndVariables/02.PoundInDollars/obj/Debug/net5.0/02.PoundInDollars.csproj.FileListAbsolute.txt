@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\bin\Debug\net5.0\02.PoundInDollars.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\bin\Debug\net5.0\02.PoundInDollars.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\bin\Debug\net5.0\02.PoundInDollars.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\bin\Debug\net5.0\02.PoundInDollars.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\bin\Debug\net5.0\02.PoundInDollars.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\bin\Debug\net5.0\ref\02.PoundInDollars.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\bin\Debug\net5.0\02.PoundInDollars.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\obj\Debug\net5.0\02.PoundInDollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\obj\Debug\net5.0\02.PoundInDollars.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\obj\Debug\net5.0\02.PoundInDollars.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\obj\Debug\net5.0\02.PoundInDollars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\obj\Debug\net5.0\02.PoundInDollars.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\obj\Debug\net5.0\ref\02.PoundInDollars.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\obj\Debug\net5.0\02.PoundInDollars.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\02.PoundInDollars\obj\Debug\net5.0\02.PoundInDollars.genruntimeconfig.cache
