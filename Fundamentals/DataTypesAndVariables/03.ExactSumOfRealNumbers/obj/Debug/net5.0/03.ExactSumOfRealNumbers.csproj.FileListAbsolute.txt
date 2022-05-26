@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\net5.0\03.ExactSumOfRealNumbers.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\net5.0\03.ExactSumOfRealNumbers.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\net5.0\03.ExactSumOfRealNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\net5.0\03.ExactSumOfRealNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\net5.0\03.ExactSumOfRealNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\net5.0\ref\03.ExactSumOfRealNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\net5.0\03.ExactSumOfRealNumbers.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\net5.0\03.ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\net5.0\03.ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\net5.0\03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\net5.0\03.ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\net5.0\03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\net5.0\03.ExactSumOfRealNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\net5.0\ref\03.ExactSumOfRealNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\net5.0\03.ExactSumOfRealNumbers.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\net5.0\03.ExactSumOfRealNumbers.genruntimeconfig.cache

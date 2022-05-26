@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\net5.0\ref\05.SpecialNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\net5.0\ref\05.SpecialNumbers.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.genruntimeconfig.cache

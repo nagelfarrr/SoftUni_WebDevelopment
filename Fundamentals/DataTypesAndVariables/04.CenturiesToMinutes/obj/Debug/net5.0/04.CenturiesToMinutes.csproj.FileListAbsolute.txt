@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\net5.0\04.CenturiesToMinutes.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\net5.0\04.CenturiesToMinutes.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\net5.0\04.CenturiesToMinutes.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\net5.0\04.CenturiesToMinutes.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\net5.0\04.CenturiesToMinutes.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\net5.0\ref\04.CenturiesToMinutes.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\net5.0\04.CenturiesToMinutes.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\net5.0\04.CenturiesToMinutes.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\net5.0\04.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\net5.0\04.CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\net5.0\04.CenturiesToMinutes.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\net5.0\04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\net5.0\04.CenturiesToMinutes.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\net5.0\ref\04.CenturiesToMinutes.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\net5.0\04.CenturiesToMinutes.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\net5.0\04.CenturiesToMinutes.genruntimeconfig.cache
