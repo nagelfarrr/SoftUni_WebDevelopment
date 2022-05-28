@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\bin\Debug\net5.0\ref\06.ReversedChars.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\obj\Debug\net5.0\ref\06.ReversedChars.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.genruntimeconfig.cache

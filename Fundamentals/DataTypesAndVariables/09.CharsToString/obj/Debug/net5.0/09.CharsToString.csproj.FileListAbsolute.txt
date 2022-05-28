@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\bin\Debug\net5.0\09.CharsToString.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\bin\Debug\net5.0\09.CharsToString.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\bin\Debug\net5.0\09.CharsToString.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\bin\Debug\net5.0\09.CharsToString.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\bin\Debug\net5.0\09.CharsToString.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\bin\Debug\net5.0\ref\09.CharsToString.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\bin\Debug\net5.0\09.CharsToString.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\obj\Debug\net5.0\09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\obj\Debug\net5.0\09.CharsToString.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\obj\Debug\net5.0\09.CharsToString.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\obj\Debug\net5.0\09.CharsToString.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\obj\Debug\net5.0\09.CharsToString.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\obj\Debug\net5.0\ref\09.CharsToString.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\obj\Debug\net5.0\09.CharsToString.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\09.CharsToString\obj\Debug\net5.0\09.CharsToString.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\bin\Debug\net5.0\08.TownInfo.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\bin\Debug\net5.0\08.TownInfo.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\bin\Debug\net5.0\08.TownInfo.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\bin\Debug\net5.0\08.TownInfo.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\bin\Debug\net5.0\08.TownInfo.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\bin\Debug\net5.0\ref\08.TownInfo.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\bin\Debug\net5.0\08.TownInfo.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\obj\Debug\net5.0\08.TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\obj\Debug\net5.0\08.TownInfo.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\obj\Debug\net5.0\08.TownInfo.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\obj\Debug\net5.0\08.TownInfo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\obj\Debug\net5.0\08.TownInfo.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\obj\Debug\net5.0\ref\08.TownInfo.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\obj\Debug\net5.0\08.TownInfo.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables\08.TownInfo\obj\Debug\net5.0\08.TownInfo.genruntimeconfig.cache
