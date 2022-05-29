@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\bin\Debug\net5.0\07.WaterOverflow.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\bin\Debug\net5.0\07.WaterOverflow.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\bin\Debug\net5.0\07.WaterOverflow.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\bin\Debug\net5.0\07.WaterOverflow.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\bin\Debug\net5.0\07.WaterOverflow.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\bin\Debug\net5.0\ref\07.WaterOverflow.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\bin\Debug\net5.0\07.WaterOverflow.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\obj\Debug\net5.0\07.WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\obj\Debug\net5.0\07.WaterOverflow.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\obj\Debug\net5.0\07.WaterOverflow.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\obj\Debug\net5.0\07.WaterOverflow.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\obj\Debug\net5.0\07.WaterOverflow.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\obj\Debug\net5.0\ref\07.WaterOverflow.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\obj\Debug\net5.0\07.WaterOverflow.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\07.WaterOverflow\obj\Debug\net5.0\07.WaterOverflow.genruntimeconfig.cache

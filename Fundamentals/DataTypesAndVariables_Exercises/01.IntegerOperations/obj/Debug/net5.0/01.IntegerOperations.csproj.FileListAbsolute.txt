@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\obj\Debug\net5.0\01.IntegerOperations.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\obj\Debug\net5.0\01.IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\obj\Debug\net5.0\01.IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\obj\Debug\net5.0\01.IntegerOperations.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\obj\Debug\net5.0\01.IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\bin\Debug\net5.0\01.IntegerOperations.exe
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\bin\Debug\net5.0\01.IntegerOperations.deps.json
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\bin\Debug\net5.0\01.IntegerOperations.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\bin\Debug\net5.0\01.IntegerOperations.runtimeconfig.dev.json
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\bin\Debug\net5.0\01.IntegerOperations.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\bin\Debug\net5.0\ref\01.IntegerOperations.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\bin\Debug\net5.0\01.IntegerOperations.pdb
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\obj\Debug\net5.0\01.IntegerOperations.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\obj\Debug\net5.0\ref\01.IntegerOperations.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\obj\Debug\net5.0\01.IntegerOperations.pdb
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\01.IntegerOperations\obj\Debug\net5.0\01.IntegerOperations.genruntimeconfig.cache

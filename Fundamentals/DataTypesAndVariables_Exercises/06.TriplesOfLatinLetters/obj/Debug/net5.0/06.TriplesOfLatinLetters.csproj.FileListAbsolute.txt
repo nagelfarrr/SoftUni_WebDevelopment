@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.exe
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.deps.json
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\bin\Debug\net5.0\ref\06.TriplesOfLatinLetters.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.pdb
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\obj\Debug\net5.0\ref\06.TriplesOfLatinLetters.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.pdb
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.csproj.AssemblyReference.cache

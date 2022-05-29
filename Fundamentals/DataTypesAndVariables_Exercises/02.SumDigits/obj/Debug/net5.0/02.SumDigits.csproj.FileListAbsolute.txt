@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\bin\Debug\net5.0\02.SumDigits.exe
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\bin\Debug\net5.0\02.SumDigits.deps.json
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\bin\Debug\net5.0\02.SumDigits.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\bin\Debug\net5.0\02.SumDigits.runtimeconfig.dev.json
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\bin\Debug\net5.0\02.SumDigits.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\bin\Debug\net5.0\ref\02.SumDigits.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\bin\Debug\net5.0\02.SumDigits.pdb
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\obj\Debug\net5.0\02.SumDigits.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\obj\Debug\net5.0\02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\obj\Debug\net5.0\02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\obj\Debug\net5.0\02.SumDigits.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\obj\Debug\net5.0\02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\obj\Debug\net5.0\02.SumDigits.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\obj\Debug\net5.0\ref\02.SumDigits.dll
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\obj\Debug\net5.0\02.SumDigits.pdb
+C:\Users\User\source\repos\DataTypesAndVariables_Exercises\02.SumDigits\obj\Debug\net5.0\02.SumDigits.genruntimeconfig.cache

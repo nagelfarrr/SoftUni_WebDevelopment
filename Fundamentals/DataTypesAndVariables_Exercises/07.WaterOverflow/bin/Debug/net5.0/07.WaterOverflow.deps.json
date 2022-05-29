@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "07.WaterOverflow/1.0.0": {
+        "runtime": {
+          "07.WaterOverflow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07.WaterOverflow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

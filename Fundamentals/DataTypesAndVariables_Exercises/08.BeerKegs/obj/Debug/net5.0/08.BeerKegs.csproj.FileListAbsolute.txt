@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\bin\Debug\net5.0\08.BeerKegs.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\bin\Debug\net5.0\08.BeerKegs.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\bin\Debug\net5.0\08.BeerKegs.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\bin\Debug\net5.0\08.BeerKegs.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\bin\Debug\net5.0\08.BeerKegs.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\bin\Debug\net5.0\ref\08.BeerKegs.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\bin\Debug\net5.0\08.BeerKegs.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\obj\Debug\net5.0\08.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\obj\Debug\net5.0\08.BeerKegs.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\obj\Debug\net5.0\08.BeerKegs.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\obj\Debug\net5.0\08.BeerKegs.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\obj\Debug\net5.0\08.BeerKegs.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\obj\Debug\net5.0\ref\08.BeerKegs.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\obj\Debug\net5.0\08.BeerKegs.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\08.BeerKegs\obj\Debug\net5.0\08.BeerKegs.genruntimeconfig.cache
