@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\bin\Debug\net5.0\05.SumEvenNumbers.exe
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\bin\Debug\net5.0\05.SumEvenNumbers.deps.json
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\bin\Debug\net5.0\05.SumEvenNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\bin\Debug\net5.0\05.SumEvenNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\bin\Debug\net5.0\05.SumEvenNumbers.dll
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\bin\Debug\net5.0\ref\05.SumEvenNumbers.dll
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\bin\Debug\net5.0\05.SumEvenNumbers.pdb
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\obj\Debug\net5.0\05.SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\obj\Debug\net5.0\05.SumEvenNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\obj\Debug\net5.0\05.SumEvenNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\obj\Debug\net5.0\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\obj\Debug\net5.0\05.SumEvenNumbers.dll
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\obj\Debug\net5.0\ref\05.SumEvenNumbers.dll
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\obj\Debug\net5.0\05.SumEvenNumbers.pdb
+D:\SoftUni\Fundamentals\Arrays\05.SumEvenNumbers\obj\Debug\net5.0\05.SumEvenNumbers.genruntimeconfig.cache

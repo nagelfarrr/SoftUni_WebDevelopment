@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\bin\Debug\net5.0\07.EqualArrays.exe
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\bin\Debug\net5.0\07.EqualArrays.deps.json
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\bin\Debug\net5.0\07.EqualArrays.runtimeconfig.json
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\bin\Debug\net5.0\07.EqualArrays.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\bin\Debug\net5.0\07.EqualArrays.dll
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\bin\Debug\net5.0\ref\07.EqualArrays.dll
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\bin\Debug\net5.0\07.EqualArrays.pdb
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\obj\Debug\net5.0\07.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\obj\Debug\net5.0\07.EqualArrays.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\obj\Debug\net5.0\07.EqualArrays.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\obj\Debug\net5.0\07.EqualArrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\obj\Debug\net5.0\07.EqualArrays.dll
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\obj\Debug\net5.0\ref\07.EqualArrays.dll
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\obj\Debug\net5.0\07.EqualArrays.pdb
+D:\SoftUni\Fundamentals\Arrays\07.EqualArrays\obj\Debug\net5.0\07.EqualArrays.genruntimeconfig.cache

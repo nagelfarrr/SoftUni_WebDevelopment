@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net5.0\02.PrintNumbersInReverseOrder.exe
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net5.0\02.PrintNumbersInReverseOrder.deps.json
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net5.0\02.PrintNumbersInReverseOrder.runtimeconfig.json
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net5.0\02.PrintNumbersInReverseOrder.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net5.0\02.PrintNumbersInReverseOrder.dll
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net5.0\ref\02.PrintNumbersInReverseOrder.dll
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net5.0\02.PrintNumbersInReverseOrder.pdb
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net5.0\02.PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net5.0\02.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net5.0\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net5.0\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net5.0\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net5.0\02.PrintNumbersInReverseOrder.dll
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net5.0\ref\02.PrintNumbersInReverseOrder.dll
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net5.0\02.PrintNumbersInReverseOrder.pdb
+D:\SoftUni\Fundamentals\Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net5.0\02.PrintNumbersInReverseOrder.genruntimeconfig.cache

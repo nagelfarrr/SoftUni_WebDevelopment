@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\bin\Debug\net5.0\06.EvenAndOddSubtraction.exe
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\bin\Debug\net5.0\06.EvenAndOddSubtraction.deps.json
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\bin\Debug\net5.0\06.EvenAndOddSubtraction.runtimeconfig.json
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\bin\Debug\net5.0\06.EvenAndOddSubtraction.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\bin\Debug\net5.0\06.EvenAndOddSubtraction.dll
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\bin\Debug\net5.0\ref\06.EvenAndOddSubtraction.dll
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\bin\Debug\net5.0\06.EvenAndOddSubtraction.pdb
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\obj\Debug\net5.0\06.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\obj\Debug\net5.0\06.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\obj\Debug\net5.0\06.EvenAndOddSubtraction.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\obj\Debug\net5.0\06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\obj\Debug\net5.0\06.EvenAndOddSubtraction.dll
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\obj\Debug\net5.0\ref\06.EvenAndOddSubtraction.dll
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\obj\Debug\net5.0\06.EvenAndOddSubtraction.pdb
+D:\SoftUni\Fundamentals\Arrays\06.EvenAndOddSubtraction\obj\Debug\net5.0\06.EvenAndOddSubtraction.genruntimeconfig.cache

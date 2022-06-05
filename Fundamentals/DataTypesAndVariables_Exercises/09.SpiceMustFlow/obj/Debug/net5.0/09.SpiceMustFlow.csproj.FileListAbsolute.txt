@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\bin\Debug\net5.0\ref\09.SpiceMustFlow.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\obj\Debug\net5.0\ref\09.SpiceMustFlow.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.genruntimeconfig.cache

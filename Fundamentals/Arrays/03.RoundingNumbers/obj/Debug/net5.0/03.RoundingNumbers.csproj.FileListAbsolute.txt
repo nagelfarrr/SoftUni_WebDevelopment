@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.exe
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.deps.json
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.dll
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\bin\Debug\net5.0\ref\03.RoundingNumbers.dll
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.pdb
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.dll
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\obj\Debug\net5.0\ref\03.RoundingNumbers.dll
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.pdb
+D:\SoftUni\Fundamentals\Arrays\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.genruntimeconfig.cache

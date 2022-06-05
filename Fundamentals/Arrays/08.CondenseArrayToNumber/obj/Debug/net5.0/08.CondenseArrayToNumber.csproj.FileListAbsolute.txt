@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.exe
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.deps.json
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.runtimeconfig.json
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.dll
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\bin\Debug\net5.0\ref\08.CondenseArrayToNumber.dll
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.pdb
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.dll
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\obj\Debug\net5.0\ref\08.CondenseArrayToNumber.dll
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.pdb
+D:\SoftUni\Fundamentals\Arrays\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.genruntimeconfig.cache
