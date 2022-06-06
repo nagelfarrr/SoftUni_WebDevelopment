@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\bin\Debug\net5.0\10.PokeMon.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\bin\Debug\net5.0\10.PokeMon.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\bin\Debug\net5.0\10.PokeMon.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\bin\Debug\net5.0\10.PokeMon.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\bin\Debug\net5.0\10.PokeMon.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\bin\Debug\net5.0\ref\10.PokeMon.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\bin\Debug\net5.0\10.PokeMon.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\obj\Debug\net5.0\10.PokeMon.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\obj\Debug\net5.0\10.PokeMon.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\obj\Debug\net5.0\10.PokeMon.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\obj\Debug\net5.0\10.PokeMon.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\obj\Debug\net5.0\10.PokeMon.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\obj\Debug\net5.0\10.PokeMon.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\obj\Debug\net5.0\ref\10.PokeMon.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\obj\Debug\net5.0\10.PokeMon.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\10.PokeMon\obj\Debug\net5.0\10.PokeMon.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+D:\SoftUni\Fundamentals\Arrays_Exercises\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Arrays_Exercises\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Arrays_Exercises\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Arrays_Exercises\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.csproj.CoreCompileInputs.cache

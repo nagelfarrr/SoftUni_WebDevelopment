@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\bin\Debug\net5.0\11.Snowballs.exe
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\bin\Debug\net5.0\11.Snowballs.deps.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\bin\Debug\net5.0\11.Snowballs.runtimeconfig.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\bin\Debug\net5.0\11.Snowballs.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\bin\Debug\net5.0\11.Snowballs.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\bin\Debug\net5.0\ref\11.Snowballs.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\bin\Debug\net5.0\11.Snowballs.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\obj\Debug\net5.0\11.Snowballs.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\obj\Debug\net5.0\11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\obj\Debug\net5.0\11.Snowballs.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\obj\Debug\net5.0\11.Snowballs.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\obj\Debug\net5.0\11.Snowballs.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\obj\Debug\net5.0\11.Snowballs.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\obj\Debug\net5.0\ref\11.Snowballs.dll
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\obj\Debug\net5.0\11.Snowballs.pdb
+D:\SoftUni\Fundamentals\DataTypesAndVariables_Exercises\11.Snowballs\obj\Debug\net5.0\11.Snowballs.genruntimeconfig.cache

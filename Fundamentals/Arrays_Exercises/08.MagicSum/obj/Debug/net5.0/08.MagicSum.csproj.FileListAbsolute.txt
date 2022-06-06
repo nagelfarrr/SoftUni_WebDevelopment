@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\bin\Debug\net5.0\08.MagicSum.exe
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\bin\Debug\net5.0\08.MagicSum.deps.json
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\bin\Debug\net5.0\08.MagicSum.runtimeconfig.json
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\bin\Debug\net5.0\08.MagicSum.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\bin\Debug\net5.0\08.MagicSum.dll
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\bin\Debug\net5.0\ref\08.MagicSum.dll
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\bin\Debug\net5.0\08.MagicSum.pdb
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\obj\Debug\net5.0\08.MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\obj\Debug\net5.0\08.MagicSum.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\obj\Debug\net5.0\08.MagicSum.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\obj\Debug\net5.0\08.MagicSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\obj\Debug\net5.0\08.MagicSum.dll
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\obj\Debug\net5.0\ref\08.MagicSum.dll
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\obj\Debug\net5.0\08.MagicSum.pdb
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\obj\Debug\net5.0\08.MagicSum.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\Arrays_Exercises\08.MagicSum\obj\Debug\net5.0\08.MagicSum.csproj.AssemblyReference.cache

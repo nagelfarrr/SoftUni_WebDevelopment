@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\bin\Debug\net5.0\05.TopInteger.exe
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\bin\Debug\net5.0\05.TopInteger.deps.json
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\bin\Debug\net5.0\05.TopInteger.runtimeconfig.json
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\bin\Debug\net5.0\05.TopInteger.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\bin\Debug\net5.0\05.TopInteger.dll
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\bin\Debug\net5.0\ref\05.TopInteger.dll
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\bin\Debug\net5.0\05.TopInteger.pdb
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\obj\Debug\net5.0\05.TopInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\obj\Debug\net5.0\05.TopInteger.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\obj\Debug\net5.0\05.TopInteger.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\obj\Debug\net5.0\05.TopInteger.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\obj\Debug\net5.0\05.TopInteger.dll
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\obj\Debug\net5.0\ref\05.TopInteger.dll
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\obj\Debug\net5.0\05.TopInteger.pdb
+D:\SoftUni\Fundamentals\Arrays_Exercises\05.TopInteger\obj\Debug\net5.0\05.TopInteger.genruntimeconfig.cache
