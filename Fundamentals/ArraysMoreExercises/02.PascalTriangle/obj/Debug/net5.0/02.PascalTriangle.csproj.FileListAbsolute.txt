@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\bin\Debug\net5.0\02.PascalTriangle.exe
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\bin\Debug\net5.0\02.PascalTriangle.deps.json
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\bin\Debug\net5.0\02.PascalTriangle.runtimeconfig.json
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\bin\Debug\net5.0\02.PascalTriangle.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\bin\Debug\net5.0\02.PascalTriangle.dll
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\bin\Debug\net5.0\ref\02.PascalTriangle.dll
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\bin\Debug\net5.0\02.PascalTriangle.pdb
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\obj\Debug\net5.0\02.PascalTriangle.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\obj\Debug\net5.0\02.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\obj\Debug\net5.0\02.PascalTriangle.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\obj\Debug\net5.0\02.PascalTriangle.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\obj\Debug\net5.0\02.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\obj\Debug\net5.0\02.PascalTriangle.dll
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\obj\Debug\net5.0\ref\02.PascalTriangle.dll
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\obj\Debug\net5.0\02.PascalTriangle.pdb
+D:\SoftUni\Fundamentals\ArraysMoreExercises\02.PascalTriangle\obj\Debug\net5.0\02.PascalTriangle.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptSortAndPrintArray", "EncryptSortAndPrintArray\EncryptSortAndPrintArray.csproj", "{EE50B7A6-252A-40F7-863C-795C2FCA3A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PascalTriangle", "02.PascalTriangle\02.PascalTriangle.csproj", "{4AAF3AD9-0680-4CB5-B969-D38BC45FA6DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE50B7A6-252A-40F7-863C-795C2FCA3A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE50B7A6-252A-40F7-863C-795C2FCA3A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE50B7A6-252A-40F7-863C-795C2FCA3A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE50B7A6-252A-40F7-863C-795C2FCA3A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAF3AD9-0680-4CB5-B969-D38BC45FA6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAF3AD9-0680-4CB5-B969-D38BC45FA6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAF3AD9-0680-4CB5-B969-D38BC45FA6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAF3AD9-0680-4CB5-B969-D38BC45FA6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {650B06AC-DC97-494C-9A5A-AC47BFB139FA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.exe
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.deps.json
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.runtimeconfig.json
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.dll
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\bin\Debug\net5.0\ref\EncryptSortAndPrintArray.dll
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.pdb
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.dll
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\obj\Debug\net5.0\ref\EncryptSortAndPrintArray.dll
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.pdb
+D:\SoftUni\Fundamentals\ArraysMoreExercises\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.genruntimeconfig.cache
