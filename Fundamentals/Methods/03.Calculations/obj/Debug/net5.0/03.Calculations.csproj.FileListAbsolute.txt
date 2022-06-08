@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Methods\03.Calculations\bin\Debug\net5.0\03.Calculations.exe
+D:\SoftUni\Fundamentals\Methods\03.Calculations\bin\Debug\net5.0\03.Calculations.deps.json
+D:\SoftUni\Fundamentals\Methods\03.Calculations\bin\Debug\net5.0\03.Calculations.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods\03.Calculations\bin\Debug\net5.0\03.Calculations.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods\03.Calculations\bin\Debug\net5.0\03.Calculations.dll
+D:\SoftUni\Fundamentals\Methods\03.Calculations\bin\Debug\net5.0\ref\03.Calculations.dll
+D:\SoftUni\Fundamentals\Methods\03.Calculations\bin\Debug\net5.0\03.Calculations.pdb
+D:\SoftUni\Fundamentals\Methods\03.Calculations\obj\Debug\net5.0\03.Calculations.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Methods\03.Calculations\obj\Debug\net5.0\03.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods\03.Calculations\obj\Debug\net5.0\03.Calculations.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods\03.Calculations\obj\Debug\net5.0\03.Calculations.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods\03.Calculations\obj\Debug\net5.0\03.Calculations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods\03.Calculations\obj\Debug\net5.0\03.Calculations.dll
+D:\SoftUni\Fundamentals\Methods\03.Calculations\obj\Debug\net5.0\ref\03.Calculations.dll
+D:\SoftUni\Fundamentals\Methods\03.Calculations\obj\Debug\net5.0\03.Calculations.pdb
+D:\SoftUni\Fundamentals\Methods\03.Calculations\obj\Debug\net5.0\03.Calculations.genruntimeconfig.cache

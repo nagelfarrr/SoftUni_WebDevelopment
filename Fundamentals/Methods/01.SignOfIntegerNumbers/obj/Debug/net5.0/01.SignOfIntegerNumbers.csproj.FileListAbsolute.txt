@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\bin\Debug\net5.0\01.SignOfIntegerNumbers.exe
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\bin\Debug\net5.0\01.SignOfIntegerNumbers.deps.json
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\bin\Debug\net5.0\01.SignOfIntegerNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\bin\Debug\net5.0\01.SignOfIntegerNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\bin\Debug\net5.0\01.SignOfIntegerNumbers.dll
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\bin\Debug\net5.0\ref\01.SignOfIntegerNumbers.dll
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\bin\Debug\net5.0\01.SignOfIntegerNumbers.pdb
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\obj\Debug\net5.0\01.SignOfIntegerNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\obj\Debug\net5.0\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\obj\Debug\net5.0\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\obj\Debug\net5.0\01.SignOfIntegerNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\obj\Debug\net5.0\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\obj\Debug\net5.0\01.SignOfIntegerNumbers.dll
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\obj\Debug\net5.0\ref\01.SignOfIntegerNumbers.dll
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\obj\Debug\net5.0\01.SignOfIntegerNumbers.pdb
+D:\SoftUni\Fundamentals\Methods\01.SignOfIntegerNumbers\obj\Debug\net5.0\01.SignOfIntegerNumbers.genruntimeconfig.cache
