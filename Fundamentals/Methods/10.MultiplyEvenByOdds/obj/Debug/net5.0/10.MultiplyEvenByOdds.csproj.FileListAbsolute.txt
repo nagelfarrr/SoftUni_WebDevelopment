@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\bin\Debug\net5.0\10.MultiplyEvenByOdds.exe
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\bin\Debug\net5.0\10.MultiplyEvenByOdds.deps.json
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\bin\Debug\net5.0\10.MultiplyEvenByOdds.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\bin\Debug\net5.0\10.MultiplyEvenByOdds.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\bin\Debug\net5.0\10.MultiplyEvenByOdds.dll
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\bin\Debug\net5.0\ref\10.MultiplyEvenByOdds.dll
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\bin\Debug\net5.0\10.MultiplyEvenByOdds.pdb
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.dll
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\ref\10.MultiplyEvenByOdds.dll
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.pdb
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.genruntimeconfig.cache

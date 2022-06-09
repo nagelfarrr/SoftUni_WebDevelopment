@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Grades", "02.Grades\02.G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Calculations", "03.Calculations\03.Calculations.csproj", "{60AA9F8B-015D-4DD6-86EB-0C9E79A391A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PrintingTriangle", "04.PrintingTriangle\04.PrintingTriangle.csproj", "{30936DC7-60D8-4DB6-AEB5-F2A8692E3013}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PrintingTriangle", "04.PrintingTriangle\04.PrintingTriangle.csproj", "{30936DC7-60D8-4DB6-AEB5-F2A8692E3013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Orders", "05.Orders\05.Orders.csproj", "{FA670FD8-0E1F-4B3B-9D75-19379DD2075A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Orders", "05.Orders\05.Orders.csproj", "{FA670FD8-0E1F-4B3B-9D75-19379DD2075A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CalculateRectangleArea", "06.CalculateRectangleArea\06.CalculateRectangleArea.csproj", "{74CCC553-B403-4717-B928-D609980271DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.CalculateRectangleArea", "06.CalculateRectangleArea\06.CalculateRectangleArea.csproj", "{74CCC553-B403-4717-B928-D609980271DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.RepeatString", "07.RepeatString\07.RepeatString.csproj", "{7485EA6E-C020-4961-96F3-82DDCD1B8805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.RepeatString", "07.RepeatString\07.RepeatString.csproj", "{7485EA6E-C020-4961-96F3-82DDCD1B8805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MathPower", "08.MathPower\08.MathPower.csproj", "{73B4730F-E0CA-4C95-B988-1709D3E3457E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.MathPower", "08.MathPower\08.MathPower.csproj", "{73B4730F-E0CA-4C95-B988-1709D3E3457E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.GreaterOfTwoValues", "09.GreaterOfTwoValues\09.GreaterOfTwoValues.csproj", "{36038350-DD11-44BB-88D3-04745A0ACAFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.GreaterOfTwoValues", "09.GreaterOfTwoValues\09.GreaterOfTwoValues.csproj", "{36038350-DD11-44BB-88D3-04745A0ACAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.MultiplyEvenByOdds", "10.MultiplyEvenByOdds\10.MultiplyEvenByOdds.csproj", "{7B8FE522-AE1F-41D4-9621-1A57B02C8BF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{36038350-DD11-44BB-88D3-04745A0ACAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36038350-DD11-44BB-88D3-04745A0ACAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36038350-DD11-44BB-88D3-04745A0ACAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8FE522-AE1F-41D4-9621-1A57B02C8BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8FE522-AE1F-41D4-9621-1A57B02C8BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8FE522-AE1F-41D4-9621-1A57B02C8BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8FE522-AE1F-41D4-9621-1A57B02C8BF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
