@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\bin\Debug\net5.0\06.CalculateRectangleArea.exe
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\bin\Debug\net5.0\06.CalculateRectangleArea.deps.json
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\bin\Debug\net5.0\06.CalculateRectangleArea.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\bin\Debug\net5.0\06.CalculateRectangleArea.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\bin\Debug\net5.0\06.CalculateRectangleArea.dll
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\bin\Debug\net5.0\ref\06.CalculateRectangleArea.dll
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\bin\Debug\net5.0\06.CalculateRectangleArea.pdb
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\obj\Debug\net5.0\06.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\obj\Debug\net5.0\06.CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\obj\Debug\net5.0\06.CalculateRectangleArea.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\obj\Debug\net5.0\06.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\obj\Debug\net5.0\06.CalculateRectangleArea.dll
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\obj\Debug\net5.0\ref\06.CalculateRectangleArea.dll
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\obj\Debug\net5.0\06.CalculateRectangleArea.pdb
+D:\SoftUni\Fundamentals\Methods\06.CalculateRectangleArea\obj\Debug\net5.0\06.CalculateRectangleArea.genruntimeconfig.cache

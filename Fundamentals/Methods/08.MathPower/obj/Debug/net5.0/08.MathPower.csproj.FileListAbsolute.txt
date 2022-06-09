@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Methods\08.MathPower\bin\Debug\net5.0\08.MathPower.exe
+D:\SoftUni\Fundamentals\Methods\08.MathPower\bin\Debug\net5.0\08.MathPower.deps.json
+D:\SoftUni\Fundamentals\Methods\08.MathPower\bin\Debug\net5.0\08.MathPower.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods\08.MathPower\bin\Debug\net5.0\08.MathPower.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods\08.MathPower\bin\Debug\net5.0\08.MathPower.dll
+D:\SoftUni\Fundamentals\Methods\08.MathPower\bin\Debug\net5.0\ref\08.MathPower.dll
+D:\SoftUni\Fundamentals\Methods\08.MathPower\bin\Debug\net5.0\08.MathPower.pdb
+D:\SoftUni\Fundamentals\Methods\08.MathPower\obj\Debug\net5.0\08.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods\08.MathPower\obj\Debug\net5.0\08.MathPower.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods\08.MathPower\obj\Debug\net5.0\08.MathPower.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods\08.MathPower\obj\Debug\net5.0\08.MathPower.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods\08.MathPower\obj\Debug\net5.0\08.MathPower.dll
+D:\SoftUni\Fundamentals\Methods\08.MathPower\obj\Debug\net5.0\ref\08.MathPower.dll
+D:\SoftUni\Fundamentals\Methods\08.MathPower\obj\Debug\net5.0\08.MathPower.pdb
+D:\SoftUni\Fundamentals\Methods\08.MathPower\obj\Debug\net5.0\08.MathPower.genruntimeconfig.cache
