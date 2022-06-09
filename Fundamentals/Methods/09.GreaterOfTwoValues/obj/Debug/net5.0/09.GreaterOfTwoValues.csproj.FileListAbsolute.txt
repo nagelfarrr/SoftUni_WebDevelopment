@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\bin\Debug\net5.0\09.GreaterOfTwoValues.exe
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\bin\Debug\net5.0\09.GreaterOfTwoValues.deps.json
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\bin\Debug\net5.0\09.GreaterOfTwoValues.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\bin\Debug\net5.0\09.GreaterOfTwoValues.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\bin\Debug\net5.0\09.GreaterOfTwoValues.dll
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\bin\Debug\net5.0\ref\09.GreaterOfTwoValues.dll
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\bin\Debug\net5.0\09.GreaterOfTwoValues.pdb
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\obj\Debug\net5.0\09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\obj\Debug\net5.0\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\obj\Debug\net5.0\09.GreaterOfTwoValues.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\obj\Debug\net5.0\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\obj\Debug\net5.0\09.GreaterOfTwoValues.dll
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\obj\Debug\net5.0\ref\09.GreaterOfTwoValues.dll
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\obj\Debug\net5.0\09.GreaterOfTwoValues.pdb
+D:\SoftUni\Fundamentals\Methods\09.GreaterOfTwoValues\obj\Debug\net5.0\09.GreaterOfTwoValues.genruntimeconfig.cache
