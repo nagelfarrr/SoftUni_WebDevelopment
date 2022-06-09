@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.exe
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.deps.json
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.dll
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\bin\Debug\net5.0\ref\04.PrintingTriangle.dll
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.pdb
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.dll
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\obj\Debug\net5.0\ref\04.PrintingTriangle.dll
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.pdb
+D:\SoftUni\Fundamentals\Methods\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.genruntimeconfig.cache
