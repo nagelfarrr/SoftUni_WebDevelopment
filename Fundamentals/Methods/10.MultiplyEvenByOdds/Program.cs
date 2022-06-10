@@ -24,16 +24,17 @@ namespace _10.MultiplyEvenByOdds
         static int GetSumOfEvenDigits(int number)
         {
             int evenSum = 0;
+            int digits = number;
 
-            for (int i = number; i >= number; i--)
+            for (int i = digits; i >= 0; i--)
             {
-                int tempNum = number % 10;
+                int tempNum = digits % 10;
                 if (tempNum % 2 == 0)
                 {
                     evenSum += tempNum;
                 }
 
-                number /= 10;
+                digits /= 10;
             }
 
             return evenSum;
@@ -42,8 +43,8 @@ namespace _10.MultiplyEvenByOdds
         {
             
             int oddSum = 0;
-
-            for (int i = number; i >= number; i--)
+            int digits = number;
+            for (int i = number; i >= 0; i--)
             {
                 int tempNum = number % 10;
                 if (tempNum % 2 != 0)

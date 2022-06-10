@@ -13,3 +13,4 @@ D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.Multip
 D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\ref\10.MultiplyEvenByOdds.dll
 D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.pdb
 D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\Methods\10.MultiplyEvenByOdds\obj\Debug\net5.0\10.MultiplyEvenByOdds.csproj.AssemblyReference.cache

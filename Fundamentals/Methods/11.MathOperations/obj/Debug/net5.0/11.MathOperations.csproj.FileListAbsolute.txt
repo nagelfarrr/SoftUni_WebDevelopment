@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\bin\Debug\net5.0\11.MathOperations.exe
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\bin\Debug\net5.0\11.MathOperations.deps.json
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\bin\Debug\net5.0\11.MathOperations.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\bin\Debug\net5.0\11.MathOperations.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\bin\Debug\net5.0\11.MathOperations.dll
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\bin\Debug\net5.0\ref\11.MathOperations.dll
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\bin\Debug\net5.0\11.MathOperations.pdb
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\obj\Debug\net5.0\11.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\obj\Debug\net5.0\11.MathOperations.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\obj\Debug\net5.0\11.MathOperations.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\obj\Debug\net5.0\11.MathOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\obj\Debug\net5.0\11.MathOperations.dll
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\obj\Debug\net5.0\ref\11.MathOperations.dll
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\obj\Debug\net5.0\11.MathOperations.pdb
+D:\SoftUni\Fundamentals\Methods\11.MathOperations\obj\Debug\net5.0\11.MathOperations.genruntimeconfig.cache
