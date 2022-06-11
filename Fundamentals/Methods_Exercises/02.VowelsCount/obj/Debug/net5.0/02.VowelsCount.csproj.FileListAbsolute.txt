@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.exe
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.deps.json
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\bin\Debug\net5.0\ref\02.VowelsCount.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\obj\Debug\net5.0\ref\02.VowelsCount.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.genruntimeconfig.cache

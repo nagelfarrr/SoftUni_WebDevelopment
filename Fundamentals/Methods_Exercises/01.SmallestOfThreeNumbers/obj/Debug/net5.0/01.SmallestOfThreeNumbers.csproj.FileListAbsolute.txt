@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\bin\Debug\net5.0\01.SmallestOfThreeNumbers.exe
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\bin\Debug\net5.0\01.SmallestOfThreeNumbers.deps.json
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\bin\Debug\net5.0\01.SmallestOfThreeNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\bin\Debug\net5.0\01.SmallestOfThreeNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\bin\Debug\net5.0\01.SmallestOfThreeNumbers.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\bin\Debug\net5.0\ref\01.SmallestOfThreeNumbers.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\bin\Debug\net5.0\01.SmallestOfThreeNumbers.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\obj\Debug\net5.0\01.SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\obj\Debug\net5.0\01.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\obj\Debug\net5.0\01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\obj\Debug\net5.0\01.SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\obj\Debug\net5.0\01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\obj\Debug\net5.0\01.SmallestOfThreeNumbers.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\obj\Debug\net5.0\ref\01.SmallestOfThreeNumbers.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\obj\Debug\net5.0\01.SmallestOfThreeNumbers.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\01.SmallestOfThreeNumbers\obj\Debug\net5.0\01.SmallestOfThreeNumbers.genruntimeconfig.cache
