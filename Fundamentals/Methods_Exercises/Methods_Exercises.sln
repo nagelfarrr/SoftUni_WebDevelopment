@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.VowelsCount", "02.Vowels
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CharactersInRange", "03.CharactersInRange\03.CharactersInRange.csproj", "{A992C6AB-A684-49F0-8C79-67CD7E667C42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PasswordValidator", "04.PasswordValidator\04.PasswordValidator.csproj", "{44E9F888-40D1-4763-A7DD-D19B52F5FE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AddAndSubtract", "05.AddAndSubtract\05.AddAndSubtract.csproj", "{7F114616-2D2C-4C31-A4CD-A72C220F6C56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{A992C6AB-A684-49F0-8C79-67CD7E667C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A992C6AB-A684-49F0-8C79-67CD7E667C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A992C6AB-A684-49F0-8C79-67CD7E667C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E9F888-40D1-4763-A7DD-D19B52F5FE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E9F888-40D1-4763-A7DD-D19B52F5FE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E9F888-40D1-4763-A7DD-D19B52F5FE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E9F888-40D1-4763-A7DD-D19B52F5FE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F114616-2D2C-4C31-A4CD-A72C220F6C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F114616-2D2C-4C31-A4CD-A72C220F6C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F114616-2D2C-4C31-A4CD-A72C220F6C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F114616-2D2C-4C31-A4CD-A72C220F6C56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
