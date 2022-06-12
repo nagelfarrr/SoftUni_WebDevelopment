@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.exe
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.deps.json
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\bin\Debug\net5.0\ref\08.FactorialDivision.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\obj\Debug\net5.0\ref\08.FactorialDivision.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.genruntimeconfig.cache

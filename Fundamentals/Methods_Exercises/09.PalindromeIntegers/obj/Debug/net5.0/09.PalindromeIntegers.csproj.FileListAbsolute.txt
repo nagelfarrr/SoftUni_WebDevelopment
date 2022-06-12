@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\bin\Debug\net5.0\09.PalindromeIntegers.exe
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\bin\Debug\net5.0\09.PalindromeIntegers.deps.json
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\bin\Debug\net5.0\09.PalindromeIntegers.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\bin\Debug\net5.0\09.PalindromeIntegers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\bin\Debug\net5.0\09.PalindromeIntegers.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\bin\Debug\net5.0\ref\09.PalindromeIntegers.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\bin\Debug\net5.0\09.PalindromeIntegers.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\obj\Debug\net5.0\09.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\obj\Debug\net5.0\09.PalindromeIntegers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\obj\Debug\net5.0\09.PalindromeIntegers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\obj\Debug\net5.0\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\obj\Debug\net5.0\09.PalindromeIntegers.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\obj\Debug\net5.0\ref\09.PalindromeIntegers.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\obj\Debug\net5.0\09.PalindromeIntegers.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\09.PalindromeIntegers\obj\Debug\net5.0\09.PalindromeIntegers.genruntimeconfig.cache
