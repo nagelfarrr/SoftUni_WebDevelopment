@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\bin\Debug\net5.0\07.NxN_Matrix.exe
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\bin\Debug\net5.0\07.NxN_Matrix.deps.json
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\bin\Debug\net5.0\07.NxN_Matrix.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\bin\Debug\net5.0\07.NxN_Matrix.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\bin\Debug\net5.0\07.NxN_Matrix.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\bin\Debug\net5.0\ref\07.NxN_Matrix.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\bin\Debug\net5.0\07.NxN_Matrix.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\obj\Debug\net5.0\07.NxN_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\obj\Debug\net5.0\07.NxN_Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\obj\Debug\net5.0\07.NxN_Matrix.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\obj\Debug\net5.0\07.NxN_Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\obj\Debug\net5.0\07.NxN_Matrix.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\obj\Debug\net5.0\ref\07.NxN_Matrix.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\obj\Debug\net5.0\07.NxN_Matrix.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\07.NxN_Matrix\obj\Debug\net5.0\07.NxN_Matrix.genruntimeconfig.cache

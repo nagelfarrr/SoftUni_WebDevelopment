@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\bin\Debug\net5.0\05.AddAndSubtract.exe
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\bin\Debug\net5.0\05.AddAndSubtract.deps.json
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\bin\Debug\net5.0\05.AddAndSubtract.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\bin\Debug\net5.0\05.AddAndSubtract.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\bin\Debug\net5.0\05.AddAndSubtract.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\bin\Debug\net5.0\ref\05.AddAndSubtract.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\bin\Debug\net5.0\05.AddAndSubtract.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\obj\Debug\net5.0\05.AddAndSubtract.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\obj\Debug\net5.0\05.AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\obj\Debug\net5.0\05.AddAndSubtract.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\obj\Debug\net5.0\05.AddAndSubtract.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\obj\Debug\net5.0\05.AddAndSubtract.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\obj\Debug\net5.0\05.AddAndSubtract.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\obj\Debug\net5.0\ref\05.AddAndSubtract.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\obj\Debug\net5.0\05.AddAndSubtract.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\05.AddAndSubtract\obj\Debug\net5.0\05.AddAndSubtract.genruntimeconfig.cache
