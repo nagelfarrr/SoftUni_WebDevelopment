@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PasswordValidator", "04.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AddAndSubtract", "05.AddAndSubtract\05.AddAndSubtract.csproj", "{7F114616-2D2C-4C31-A4CD-A72C220F6C56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MiddleCharacters", "06.MiddleCharacters\06.MiddleCharacters.csproj", "{A17FD83A-A41D-4E04-A682-6DFA029112DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.MiddleCharacters", "06.MiddleCharacters\06.MiddleCharacters.csproj", "{A17FD83A-A41D-4E04-A682-6DFA029112DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.NxN_Matrix", "07.NxN_Matrix\07.NxN_Matrix.csproj", "{5D761566-A927-408B-AA5A-A1711EB30E0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.NxN_Matrix", "07.NxN_Matrix\07.NxN_Matrix.csproj", "{5D761566-A927-408B-AA5A-A1711EB30E0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.FactorialDivision", "08.FactorialDivision\08.FactorialDivision.csproj", "{646E81D1-387E-4179-8284-11106483240B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.FactorialDivision", "08.FactorialDivision\08.FactorialDivision.csproj", "{646E81D1-387E-4179-8284-11106483240B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PalindromeIntegers", "09.PalindromeIntegers\09.PalindromeIntegers.csproj", "{5BC9B1F7-D09D-464B-9496-FB0547B00BA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.PalindromeIntegers", "09.PalindromeIntegers\09.PalindromeIntegers.csproj", "{5BC9B1F7-D09D-464B-9496-FB0547B00BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TopNumber", "10.TopNumber\10.TopNumber.csproj", "{DF78EF9D-4C68-4C19-A5C6-AE4EED0BB522}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{5BC9B1F7-D09D-464B-9496-FB0547B00BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BC9B1F7-D09D-464B-9496-FB0547B00BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BC9B1F7-D09D-464B-9496-FB0547B00BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF78EF9D-4C68-4C19-A5C6-AE4EED0BB522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF78EF9D-4C68-4C19-A5C6-AE4EED0BB522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF78EF9D-4C68-4C19-A5C6-AE4EED0BB522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF78EF9D-4C68-4C19-A5C6-AE4EED0BB522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

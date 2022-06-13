@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\bin\Debug\net5.0\10.TopNumber.exe
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\bin\Debug\net5.0\10.TopNumber.deps.json
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\bin\Debug\net5.0\10.TopNumber.runtimeconfig.json
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\bin\Debug\net5.0\10.TopNumber.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\bin\Debug\net5.0\10.TopNumber.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\bin\Debug\net5.0\ref\10.TopNumber.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\bin\Debug\net5.0\10.TopNumber.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\obj\Debug\net5.0\10.TopNumber.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\obj\Debug\net5.0\10.TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\obj\Debug\net5.0\10.TopNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\obj\Debug\net5.0\10.TopNumber.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\obj\Debug\net5.0\10.TopNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\obj\Debug\net5.0\10.TopNumber.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\obj\Debug\net5.0\ref\10.TopNumber.dll
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\obj\Debug\net5.0\10.TopNumber.pdb
+D:\SoftUni\Fundamentals\Methods_Exercises\10.TopNumber\obj\Debug\net5.0\10.TopNumber.genruntimeconfig.cache
