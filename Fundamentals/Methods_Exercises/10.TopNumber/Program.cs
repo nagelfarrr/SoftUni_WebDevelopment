@@ -9,38 +9,39 @@ namespace _10.TopNumber
         static void Main(string[] args)
         {
             int number = int.Parse(Console.ReadLine());
-            IsSumDivisible(number);
-        }
+
+            bool isDigitOdd = false;
+            bool isSumDivisible = false;
 
 
-        static void IsSumDivisible(int number)
-        {
-            int divislbeNumber = 0;
-            int[] numbersArray = new int[0];
-            for (int i = 1; i <= number; i++)
+            int sum = 0;
+            for (int i = 15; i <= number; i++)
             {
                 int tempNumber = i;
+                tempNumber = tempNumber % 10;
 
-
-
-                if (tempNumber % 8 == 0)
+                if (tempNumber % 2 != 0)
                 {
-                    divislbeNumber = tempNumber;
-
-                    for (int j = 0; j < numbersArray.Length+1; j++)
+                    isDigitOdd = true;
+                    sum += tempNumber;
+                    if (sum % 8 == 0)
                     {
-                        int[] newArray = new int[j+1];
-                        newArray[j] = divislbeNumber;
-                        numbersArray = newArray;
+                        isSumDivisible = true;
+                        Console.WriteLine(i);
                     }
-
                 }
 
-
+                tempNumber = i;
+                tempNumber /= 10;
+               // sum = 0;
             }
-
-
         }
+
+
+
+
+
+
 
     }
 }
