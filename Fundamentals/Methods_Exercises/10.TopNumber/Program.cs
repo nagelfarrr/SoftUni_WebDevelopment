@@ -10,38 +10,39 @@ namespace _10.TopNumber
         {
             int number = int.Parse(Console.ReadLine());
 
-            bool isDigitOdd = false;
-            bool isSumDivisible = false;
+            PrintTopNumber(number);
+        }
 
-
-            int sum = 0;
-            for (int i = 15; i <= number; i++)
+        static void PrintTopNumber(int number)
+        {
+            for (int i = 1; i < number; i++)
             {
-                int tempNumber = i;
-                tempNumber = tempNumber % 10;
-
-                if (tempNumber % 2 != 0)
-                {
-                    isDigitOdd = true;
-                    sum += tempNumber;
-                    if (sum % 8 == 0)
-                    {
-                        isSumDivisible = true;
-                        Console.WriteLine(i);
-                    }
-                }
-
-                tempNumber = i;
-                tempNumber /= 10;
-               // sum = 0;
+                GetSum(i);
             }
         }
 
+        static void GetSum(int number)
+        {
+            int sum = 0;
+            int printNumber = number;
+            bool isNumberOdd = false;
 
+            while (number > 0)
+            {
+                int tempNumber = number % 10;
+                sum += tempNumber;
+                if (tempNumber % 2 != 0)
+                {
+                    isNumberOdd = true;
+                }
 
+                number /= 10;
+            }
 
-
-
-
+            if (sum % 8 == 0 && isNumberOdd)
+            {
+                Console.WriteLine(printNumber);
+            }
+        }
     }
 }
