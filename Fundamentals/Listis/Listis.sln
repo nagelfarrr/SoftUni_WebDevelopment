@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SumAdjecentEqualNumbers", "01.SumAdjecentEqualNumbers\01.SumAdjecentEqualNumbers.csproj", "{EC11B391-4AC1-47F2-9976-001DB9D64BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GaussTrick", "02.GaussTrick\02.GaussTrick.csproj", "{56999F28-ABBD-4470-BF9D-BC56A17742D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC11B391-4AC1-47F2-9976-001DB9D64BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC11B391-4AC1-47F2-9976-001DB9D64BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC11B391-4AC1-47F2-9976-001DB9D64BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC11B391-4AC1-47F2-9976-001DB9D64BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56999F28-ABBD-4470-BF9D-BC56A17742D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56999F28-ABBD-4470-BF9D-BC56A17742D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56999F28-ABBD-4470-BF9D-BC56A17742D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56999F28-ABBD-4470-BF9D-BC56A17742D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CA1568B-4AC0-4338-BC1C-F5BEF9EF5B1B}
+	EndGlobalSection
+EndGlobal

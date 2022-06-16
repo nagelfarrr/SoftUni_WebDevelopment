@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\bin\Debug\net5.0\01.SumAdjecentEqualNumbers.exe
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\bin\Debug\net5.0\01.SumAdjecentEqualNumbers.deps.json
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\bin\Debug\net5.0\01.SumAdjecentEqualNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\bin\Debug\net5.0\01.SumAdjecentEqualNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\bin\Debug\net5.0\01.SumAdjecentEqualNumbers.dll
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\bin\Debug\net5.0\ref\01.SumAdjecentEqualNumbers.dll
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\bin\Debug\net5.0\01.SumAdjecentEqualNumbers.pdb
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\obj\Debug\net5.0\01.SumAdjecentEqualNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\obj\Debug\net5.0\01.SumAdjecentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\obj\Debug\net5.0\01.SumAdjecentEqualNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\obj\Debug\net5.0\01.SumAdjecentEqualNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\obj\Debug\net5.0\01.SumAdjecentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\obj\Debug\net5.0\01.SumAdjecentEqualNumbers.dll
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\obj\Debug\net5.0\ref\01.SumAdjecentEqualNumbers.dll
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\obj\Debug\net5.0\01.SumAdjecentEqualNumbers.pdb
+D:\SoftUni\Fundamentals\Listis\01.SumAdjecentEqualNumbers\obj\Debug\net5.0\01.SumAdjecentEqualNumbers.genruntimeconfig.cache

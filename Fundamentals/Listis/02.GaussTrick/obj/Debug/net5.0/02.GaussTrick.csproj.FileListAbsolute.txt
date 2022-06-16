@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\bin\Debug\net5.0\02.GaussTrick.exe
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\bin\Debug\net5.0\02.GaussTrick.deps.json
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\bin\Debug\net5.0\02.GaussTrick.runtimeconfig.json
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\bin\Debug\net5.0\02.GaussTrick.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\bin\Debug\net5.0\02.GaussTrick.dll
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\bin\Debug\net5.0\ref\02.GaussTrick.dll
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\bin\Debug\net5.0\02.GaussTrick.pdb
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\obj\Debug\net5.0\02.GaussTrick.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\obj\Debug\net5.0\02.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\obj\Debug\net5.0\02.GaussTrick.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\obj\Debug\net5.0\02.GaussTrick.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\obj\Debug\net5.0\02.GaussTrick.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\obj\Debug\net5.0\02.GaussTrick.dll
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\obj\Debug\net5.0\ref\02.GaussTrick.dll
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\obj\Debug\net5.0\02.GaussTrick.pdb
+D:\SoftUni\Fundamentals\Listis\02.GaussTrick\obj\Debug\net5.0\02.GaussTrick.genruntimeconfig.cache
