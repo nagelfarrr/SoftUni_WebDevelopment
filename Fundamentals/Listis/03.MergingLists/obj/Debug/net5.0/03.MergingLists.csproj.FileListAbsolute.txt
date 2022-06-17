@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\bin\Debug\net5.0\03.MergingLists.exe
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\bin\Debug\net5.0\03.MergingLists.deps.json
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\bin\Debug\net5.0\03.MergingLists.runtimeconfig.json
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\bin\Debug\net5.0\03.MergingLists.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\bin\Debug\net5.0\03.MergingLists.dll
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\bin\Debug\net5.0\ref\03.MergingLists.dll
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\bin\Debug\net5.0\03.MergingLists.pdb
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\obj\Debug\net5.0\03.MergingLists.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\obj\Debug\net5.0\03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\obj\Debug\net5.0\03.MergingLists.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\obj\Debug\net5.0\03.MergingLists.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\obj\Debug\net5.0\03.MergingLists.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\obj\Debug\net5.0\03.MergingLists.dll
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\obj\Debug\net5.0\ref\03.MergingLists.dll
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\obj\Debug\net5.0\03.MergingLists.pdb
+D:\SoftUni\Fundamentals\Listis\03.MergingLists\obj\Debug\net5.0\03.MergingLists.genruntimeconfig.cache
