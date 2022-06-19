@@ -94,33 +94,33 @@ namespace _07.ListManipulationAdvanced
                         switch (tokens[1])
                         {
                             case "<":
-                                for (int i = 0; i < numbers.Count; i++)
+                                foreach (var t in numbers)
                                 {
-                                    if(numbers[i] < number) newList.Add(numbers[i]);
+                                    if(t < number) newList.Add(t);
                                 }
 
                                 Console.WriteLine(string.Join(" ",newList));
                                 break;
                             case ">":
-                                for (int i = 0; i < numbers.Count; i++)
+                                foreach (var t in numbers)
                                 {
-                                    if (numbers[i] > number) newList.Add(numbers[i]);
+                                    if (t > number) newList.Add(t);
                                 }
 
                                 Console.WriteLine(string.Join(" ", newList));
                                 break;
                             case ">=":
-                                for (int i = 0; i < numbers.Count; i++)
+                                foreach (var t in numbers)
                                 {
-                                    if (numbers[i] >= number) newList.Add(numbers[i]);
+                                    if (t >= number) newList.Add(t);
                                 }
 
                                 Console.WriteLine(string.Join(" ", newList));
                                 break;
                             case "<=":
-                                for (int i = 0; i < numbers.Count; i++)
+                                foreach (var t in numbers)
                                 {
-                                    if (numbers[i] <= number) newList.Add(numbers[i]);
+                                    if (t <= number) newList.Add(t);
                                 }
 
                                 Console.WriteLine(string.Join(" ", newList));
