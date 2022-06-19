@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.exe
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.deps.json
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.runtimeconfig.json
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.dll
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\bin\Debug\net5.0\ref\04.ListOfProducts.dll
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.pdb
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.dll
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\obj\Debug\net5.0\ref\04.ListOfProducts.dll
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.pdb
+D:\SoftUni\Fundamentals\Listis\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.genruntimeconfig.cache

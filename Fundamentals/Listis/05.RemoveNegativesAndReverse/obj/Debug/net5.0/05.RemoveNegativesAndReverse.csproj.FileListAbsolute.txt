@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\bin\Debug\net5.0\05.RemoveNegativesAndReverse.exe
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\bin\Debug\net5.0\05.RemoveNegativesAndReverse.deps.json
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\bin\Debug\net5.0\05.RemoveNegativesAndReverse.runtimeconfig.json
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\bin\Debug\net5.0\05.RemoveNegativesAndReverse.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\bin\Debug\net5.0\05.RemoveNegativesAndReverse.dll
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\bin\Debug\net5.0\ref\05.RemoveNegativesAndReverse.dll
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\bin\Debug\net5.0\05.RemoveNegativesAndReverse.pdb
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\obj\Debug\net5.0\05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\obj\Debug\net5.0\05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\obj\Debug\net5.0\05.RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\obj\Debug\net5.0\05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\obj\Debug\net5.0\05.RemoveNegativesAndReverse.dll
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\obj\Debug\net5.0\ref\05.RemoveNegativesAndReverse.dll
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\obj\Debug\net5.0\05.RemoveNegativesAndReverse.pdb
+D:\SoftUni\Fundamentals\Listis\05.RemoveNegativesAndReverse\obj\Debug\net5.0\05.RemoveNegativesAndReverse.genruntimeconfig.cache
