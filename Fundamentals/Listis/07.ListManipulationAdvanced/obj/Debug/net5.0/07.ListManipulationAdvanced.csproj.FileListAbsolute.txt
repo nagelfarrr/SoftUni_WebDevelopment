@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\bin\Debug\net5.0\07.ListManipulationAdvanced.exe
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\bin\Debug\net5.0\07.ListManipulationAdvanced.deps.json
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\bin\Debug\net5.0\07.ListManipulationAdvanced.runtimeconfig.json
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\bin\Debug\net5.0\07.ListManipulationAdvanced.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\bin\Debug\net5.0\07.ListManipulationAdvanced.dll
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\bin\Debug\net5.0\ref\07.ListManipulationAdvanced.dll
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\bin\Debug\net5.0\07.ListManipulationAdvanced.pdb
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\obj\Debug\net5.0\07.ListManipulationAdvanced.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\obj\Debug\net5.0\07.ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\obj\Debug\net5.0\07.ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\obj\Debug\net5.0\07.ListManipulationAdvanced.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\obj\Debug\net5.0\07.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\obj\Debug\net5.0\07.ListManipulationAdvanced.dll
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\obj\Debug\net5.0\ref\07.ListManipulationAdvanced.dll
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\obj\Debug\net5.0\07.ListManipulationAdvanced.pdb
+D:\SoftUni\Fundamentals\Listis\07.ListManipulationAdvanced\obj\Debug\net5.0\07.ListManipulationAdvanced.genruntimeconfig.cache

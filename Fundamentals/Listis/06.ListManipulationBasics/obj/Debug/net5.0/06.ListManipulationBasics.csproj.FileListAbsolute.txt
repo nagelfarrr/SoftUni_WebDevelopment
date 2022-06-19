@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\bin\Debug\net5.0\06.ListManipulationBasics.exe
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\bin\Debug\net5.0\06.ListManipulationBasics.deps.json
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\bin\Debug\net5.0\06.ListManipulationBasics.runtimeconfig.json
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\bin\Debug\net5.0\06.ListManipulationBasics.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\bin\Debug\net5.0\06.ListManipulationBasics.dll
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\bin\Debug\net5.0\ref\06.ListManipulationBasics.dll
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\bin\Debug\net5.0\06.ListManipulationBasics.pdb
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\obj\Debug\net5.0\06.ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\obj\Debug\net5.0\06.ListManipulationBasics.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\obj\Debug\net5.0\06.ListManipulationBasics.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\obj\Debug\net5.0\06.ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\obj\Debug\net5.0\06.ListManipulationBasics.dll
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\obj\Debug\net5.0\ref\06.ListManipulationBasics.dll
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\obj\Debug\net5.0\06.ListManipulationBasics.pdb
+D:\SoftUni\Fundamentals\Listis\06.ListManipulationBasics\obj\Debug\net5.0\06.ListManipulationBasics.genruntimeconfig.cache
