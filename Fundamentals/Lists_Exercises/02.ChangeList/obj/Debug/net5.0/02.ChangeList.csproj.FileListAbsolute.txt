@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\bin\Debug\net5.0\02.ChangeList.exe
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\bin\Debug\net5.0\02.ChangeList.deps.json
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\bin\Debug\net5.0\02.ChangeList.runtimeconfig.json
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\bin\Debug\net5.0\02.ChangeList.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\bin\Debug\net5.0\02.ChangeList.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\bin\Debug\net5.0\ref\02.ChangeList.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\bin\Debug\net5.0\02.ChangeList.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\obj\Debug\net5.0\02.ChangeList.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\obj\Debug\net5.0\02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\obj\Debug\net5.0\02.ChangeList.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\obj\Debug\net5.0\02.ChangeList.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\obj\Debug\net5.0\02.ChangeList.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\obj\Debug\net5.0\02.ChangeList.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\obj\Debug\net5.0\ref\02.ChangeList.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\obj\Debug\net5.0\02.ChangeList.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\02.ChangeList\obj\Debug\net5.0\02.ChangeList.genruntimeconfig.cache
