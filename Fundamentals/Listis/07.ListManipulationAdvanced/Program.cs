@@ -21,9 +21,30 @@ namespace _07.ListManipulationAdvanced
                 if (input == "end") break;
 
                 string[] tokens = input.Split();
-
-                switch (tokens[0])
+                string action = tokens[0];
+                switch (action)
                 {
+                    case "Add":
+                        int numberToAdd = int.Parse(tokens[1]);
+                        numbers.Add(numberToAdd);
+                        Console.WriteLine(string.Join(" ", numbers));
+                        break;
+                    case "Remove":
+                        int numberToRemove = int.Parse(tokens[1]);
+                        numbers.Remove(numberToRemove);
+                        Console.WriteLine(string.Join(" ", numbers));
+                        break;
+                    case "RemoveAt":
+                        int indexToRemove = int.Parse(tokens[1]);
+                        numbers.RemoveAt(indexToRemove);
+                        Console.WriteLine(string.Join(" ", numbers));
+                        break;
+                    case "Insert":
+                        int numberToInsert = int.Parse(tokens[1]);
+                        int indexToInsert = int.Parse(tokens[2]);
+                        numbers.Insert(indexToInsert, numberToInsert);
+                        Console.WriteLine(string.Join(" ", numbers));
+                        break;
                     case "Contains":
                         int containedNumber = int.Parse(tokens[1]);
                         if (numbers.Contains(containedNumber))
