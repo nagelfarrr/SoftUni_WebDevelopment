@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.exe
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.deps.json
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\bin\Debug\net5.0\ref\05.BombNumbers.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\obj\Debug\net5.0\ref\05.BombNumbers.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.genruntimeconfig.cache
