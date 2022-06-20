@@ -29,7 +29,7 @@ namespace _04.ListOperations
                     case "Insert":
                         int numberToInsert = int.Parse(tokens[1]);
                         int indexToInsert = int.Parse(tokens[2]);
-                        if (indexToInsert > numbers.Count)
+                        if (indexToInsert > numbers.Count-1 || indexToInsert < 0)
                         {
                             Console.WriteLine("Invalid index");
                         }
@@ -38,22 +38,34 @@ namespace _04.ListOperations
                         break;
                     case "Remove":
                         int indexToRemove = int.Parse(tokens[1]);
-                        if (indexToRemove > numbers.Count) Console.WriteLine("Invalid index");
-                        else numbers.Remove(indexToRemove);
+                        if (indexToRemove > numbers.Count-1 || indexToRemove<0) Console.WriteLine("Invalid index");
+                        else numbers.RemoveAt(indexToRemove);
                         break;
                     case "Shift":
                         switch (tokens[1])
                         {
                             case "left":
                                 int leftCountShifting = int.Parse(tokens[2]);
+                                for (int i = 0; i < leftCountShifting; i++)
+                                {
+                                    numbers.Add(numbers[0]);
+                                    numbers.RemoveAt(0);
+                                }
                                 break;
                             case "right":
                                 int rightCountShifting = int.Parse(tokens[2]);
+                                for (int i = 0; i < rightCountShifting; i++)
+                                {
+                                    numbers.Insert(0, numbers[numbers.Count-1]);
+                                    numbers.RemoveAt(numbers.Count - 1);
+                                }
                                 break;
                         }
                         break;
                 }
             }
+
+            Console.WriteLine(string.Join(" ", numbers));
         }
     }
 }
