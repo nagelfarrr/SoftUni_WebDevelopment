@@ -2,45 +2,38 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _05.BombNumbers
+namespace T05._Bomb_Numbers
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            List<int> sequence = Console.ReadLine()
-                .Split()
-                .Select(int.Parse)
-                .ToList();
+            var numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
+            int[] tokens = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            int bombNumber = tokens[0];
+            int power = tokens[1];
 
-            int[] bomb = Console.ReadLine()
-                .Split()
-                .Select(int.Parse)
-                .ToArray();
-
-            int numberToDetonate = bomb[0];
-            int bombPower = bomb[1];
-
-            for (int i = 0; i < sequence.Count; i++)
+            for (int i = 0; i < numbers.Count; i++)
             {
-                if (sequence.Contains(numberToDetonate))
+                int target = numbers[i];
+                if (target == bombNumber)
                 {
-                    int indexToDetonate = sequence.IndexOf(numberToDetonate);
-                    int explosion = 1 + bombPower + bombPower;
+                    BombNumber(numbers, power, i);
 
-                    if (explosion/2 > sequence.l)
-                    {
-                        sequence.RemoveRange(indexToDetonate - bombPower, explosion-sequence.Count);
-                    }
-
-
-                    else if (explosion < sequence.Count - 1)
-                        sequence.RemoveRange(indexToDetonate - bombPower, bombPower + bombPower + 1);
                 }
-
             }
 
-            Console.WriteLine(sequence.Sum());
+            Console.WriteLine(numbers.Sum());
+        }
+
+        private static void BombNumber(List<int> numbers, int power, int index)
+        {
+            int start = Math.Max(0, index - power);
+            int end = Math.Min(numbers.Count - 1, index + power);
+            for (int i = start; i <= end; i++)
+            {
+                numbers[i] = 0;
+            }
         }
     }
 }
