@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\bin\Debug\net5.0\06.CardGame.exe
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\bin\Debug\net5.0\06.CardGame.deps.json
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\bin\Debug\net5.0\06.CardGame.runtimeconfig.json
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\bin\Debug\net5.0\06.CardGame.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\bin\Debug\net5.0\06.CardGame.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\bin\Debug\net5.0\ref\06.CardGame.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\bin\Debug\net5.0\06.CardGame.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\obj\Debug\net5.0\06.CardGame.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\obj\Debug\net5.0\06.CardGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\obj\Debug\net5.0\06.CardGame.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\obj\Debug\net5.0\06.CardGame.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\obj\Debug\net5.0\06.CardGame.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\obj\Debug\net5.0\06.CardGame.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\obj\Debug\net5.0\ref\06.CardGame.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\obj\Debug\net5.0\06.CardGame.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\06.CardGame\obj\Debug\net5.0\06.CardGame.genruntimeconfig.cache
