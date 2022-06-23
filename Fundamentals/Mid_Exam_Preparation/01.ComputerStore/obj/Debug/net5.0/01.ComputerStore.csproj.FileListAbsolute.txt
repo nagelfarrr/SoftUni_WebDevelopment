@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\bin\Debug\net5.0\01.ComputerStore.exe
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\bin\Debug\net5.0\01.ComputerStore.deps.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\bin\Debug\net5.0\01.ComputerStore.runtimeconfig.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\bin\Debug\net5.0\01.ComputerStore.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\bin\Debug\net5.0\01.ComputerStore.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\bin\Debug\net5.0\ref\01.ComputerStore.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\bin\Debug\net5.0\01.ComputerStore.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\obj\Debug\net5.0\01.ComputerStore.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\obj\Debug\net5.0\01.ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\obj\Debug\net5.0\01.ComputerStore.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\obj\Debug\net5.0\01.ComputerStore.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\obj\Debug\net5.0\01.ComputerStore.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\obj\Debug\net5.0\01.ComputerStore.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\obj\Debug\net5.0\ref\01.ComputerStore.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\obj\Debug\net5.0\01.ComputerStore.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\01.ComputerStore\obj\Debug\net5.0\01.ComputerStore.genruntimeconfig.cache

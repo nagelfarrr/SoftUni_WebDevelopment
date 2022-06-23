@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\bin\Debug\net5.0\02.TheLift.exe
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\bin\Debug\net5.0\02.TheLift.deps.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\bin\Debug\net5.0\02.TheLift.runtimeconfig.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\bin\Debug\net5.0\02.TheLift.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\bin\Debug\net5.0\02.TheLift.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\bin\Debug\net5.0\ref\02.TheLift.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\bin\Debug\net5.0\02.TheLift.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\obj\Debug\net5.0\02.TheLift.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\obj\Debug\net5.0\02.TheLift.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\obj\Debug\net5.0\02.TheLift.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\obj\Debug\net5.0\02.TheLift.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\obj\Debug\net5.0\02.TheLift.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\obj\Debug\net5.0\02.TheLift.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\obj\Debug\net5.0\ref\02.TheLift.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\obj\Debug\net5.0\02.TheLift.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\02.TheLift\obj\Debug\net5.0\02.TheLift.genruntimeconfig.cache
