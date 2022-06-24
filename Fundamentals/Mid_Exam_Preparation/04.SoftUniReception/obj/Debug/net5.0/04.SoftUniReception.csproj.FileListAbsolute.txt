@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\bin\Debug\net5.0\04.SoftUniReception.exe
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\bin\Debug\net5.0\04.SoftUniReception.deps.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\bin\Debug\net5.0\04.SoftUniReception.runtimeconfig.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\bin\Debug\net5.0\04.SoftUniReception.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\bin\Debug\net5.0\04.SoftUniReception.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\bin\Debug\net5.0\ref\04.SoftUniReception.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\bin\Debug\net5.0\04.SoftUniReception.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\obj\Debug\net5.0\04.SoftUniReception.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\obj\Debug\net5.0\04.SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\obj\Debug\net5.0\04.SoftUniReception.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\obj\Debug\net5.0\04.SoftUniReception.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\obj\Debug\net5.0\04.SoftUniReception.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\obj\Debug\net5.0\04.SoftUniReception.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\obj\Debug\net5.0\ref\04.SoftUniReception.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\obj\Debug\net5.0\04.SoftUniReception.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\04.SoftUniReception\obj\Debug\net5.0\04.SoftUniReception.genruntimeconfig.cache

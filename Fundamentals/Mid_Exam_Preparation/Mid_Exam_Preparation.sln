@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ComputerStore", "01.ComputerStore\01.ComputerStore.csproj", "{9BF3B4DD-41BE-49C5-9249-2DCDAC26032E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ComputerStore", "01.ComputerStore\01.ComputerStore.csproj", "{9BF3B4DD-41BE-49C5-9249-2DCDAC26032E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TheLift", "02.TheLift\02.TheLift.csproj", "{70F1581C-876D-4A68-9037-719A537AB0AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.TheLift", "02.TheLift\02.TheLift.csproj", "{70F1581C-876D-4A68-9037-719A537AB0AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MemoryGame", "03.MemoryGame\03.MemoryGame.csproj", "{8A52F515-98F7-4D30-9582-862843F6899B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.MemoryGame", "03.MemoryGame\03.MemoryGame.csproj", "{8A52F515-98F7-4D30-9582-862843F6899B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SoftUniReception", "04.SoftUniReception\04.SoftUniReception.csproj", "{098FE3B1-F5C2-4D40-8DCF-C0EEB18014BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Numbers", "05.Numbers\05.Numbers.csproj", "{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{8A52F515-98F7-4D30-9582-862843F6899B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A52F515-98F7-4D30-9582-862843F6899B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A52F515-98F7-4D30-9582-862843F6899B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098FE3B1-F5C2-4D40-8DCF-C0EEB18014BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098FE3B1-F5C2-4D40-8DCF-C0EEB18014BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098FE3B1-F5C2-4D40-8DCF-C0EEB18014BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098FE3B1-F5C2-4D40-8DCF-C0EEB18014BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

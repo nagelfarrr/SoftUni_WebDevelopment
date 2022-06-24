@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\bin\Debug\net5.0\05.Numbers.exe
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\bin\Debug\net5.0\05.Numbers.deps.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\bin\Debug\net5.0\05.Numbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\bin\Debug\net5.0\05.Numbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\bin\Debug\net5.0\05.Numbers.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\bin\Debug\net5.0\ref\05.Numbers.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\bin\Debug\net5.0\05.Numbers.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\obj\Debug\net5.0\05.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\obj\Debug\net5.0\05.Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\obj\Debug\net5.0\05.Numbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\obj\Debug\net5.0\05.Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\obj\Debug\net5.0\05.Numbers.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\obj\Debug\net5.0\ref\05.Numbers.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\obj\Debug\net5.0\05.Numbers.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\05.Numbers\obj\Debug\net5.0\05.Numbers.genruntimeconfig.cache
