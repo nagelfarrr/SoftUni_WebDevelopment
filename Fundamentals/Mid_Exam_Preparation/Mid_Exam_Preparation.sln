@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ComputerStore", "01.Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TheLift", "02.TheLift\02.TheLift.csproj", "{70F1581C-876D-4A68-9037-719A537AB0AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MemoryGame", "03.MemoryGame\03.MemoryGame.csproj", "{8A52F515-98F7-4D30-9582-862843F6899B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{70F1581C-876D-4A68-9037-719A537AB0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70F1581C-876D-4A68-9037-719A537AB0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70F1581C-876D-4A68-9037-719A537AB0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A52F515-98F7-4D30-9582-862843F6899B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A52F515-98F7-4D30-9582-862843F6899B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A52F515-98F7-4D30-9582-862843F6899B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A52F515-98F7-4D30-9582-862843F6899B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

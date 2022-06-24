@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\bin\Debug\net5.0\03.MemoryGame.exe
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\bin\Debug\net5.0\03.MemoryGame.deps.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\bin\Debug\net5.0\03.MemoryGame.runtimeconfig.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\bin\Debug\net5.0\03.MemoryGame.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\bin\Debug\net5.0\03.MemoryGame.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\bin\Debug\net5.0\ref\03.MemoryGame.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\bin\Debug\net5.0\03.MemoryGame.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\obj\Debug\net5.0\03.MemoryGame.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\obj\Debug\net5.0\03.MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\obj\Debug\net5.0\03.MemoryGame.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\obj\Debug\net5.0\03.MemoryGame.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\obj\Debug\net5.0\03.MemoryGame.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\obj\Debug\net5.0\03.MemoryGame.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\obj\Debug\net5.0\ref\03.MemoryGame.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\obj\Debug\net5.0\03.MemoryGame.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\03.MemoryGame\obj\Debug\net5.0\03.MemoryGame.genruntimeconfig.cache
