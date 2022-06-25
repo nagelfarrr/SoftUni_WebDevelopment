@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\bin\Debug\net5.0\06.ArrayModifier.exe
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\bin\Debug\net5.0\06.ArrayModifier.deps.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\bin\Debug\net5.0\06.ArrayModifier.runtimeconfig.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\bin\Debug\net5.0\06.ArrayModifier.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\bin\Debug\net5.0\06.ArrayModifier.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\bin\Debug\net5.0\ref\06.ArrayModifier.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\bin\Debug\net5.0\06.ArrayModifier.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\obj\Debug\net5.0\06.ArrayModifier.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\obj\Debug\net5.0\06.ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\obj\Debug\net5.0\06.ArrayModifier.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\obj\Debug\net5.0\06.ArrayModifier.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\obj\Debug\net5.0\06.ArrayModifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\obj\Debug\net5.0\06.ArrayModifier.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\obj\Debug\net5.0\ref\06.ArrayModifier.dll
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\obj\Debug\net5.0\06.ArrayModifier.pdb
+D:\SoftUni\Fundamentals\Mid_Exam_Preparation\06.ArrayModifier\obj\Debug\net5.0\06.ArrayModifier.genruntimeconfig.cache

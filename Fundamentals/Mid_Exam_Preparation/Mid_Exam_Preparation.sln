@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.TheLift", "02.TheLift\02
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.MemoryGame", "03.MemoryGame\03.MemoryGame.csproj", "{8A52F515-98F7-4D30-9582-862843F6899B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SoftUniReception", "04.SoftUniReception\04.SoftUniReception.csproj", "{098FE3B1-F5C2-4D40-8DCF-C0EEB18014BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SoftUniReception", "04.SoftUniReception\04.SoftUniReception.csproj", "{098FE3B1-F5C2-4D40-8DCF-C0EEB18014BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Numbers", "05.Numbers\05.Numbers.csproj", "{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Numbers", "05.Numbers\05.Numbers.csproj", "{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ArrayModifier", "06.ArrayModifier\06.ArrayModifier.csproj", "{15C0EB6F-5FB3-479B-A341-881C0E1E5E5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA492D12-83CD-40DE-83DD-ABCA63E6BE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C0EB6F-5FB3-479B-A341-881C0E1E5E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C0EB6F-5FB3-479B-A341-881C0E1E5E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C0EB6F-5FB3-479B-A341-881C0E1E5E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C0EB6F-5FB3-479B-A341-881C0E1E5E5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
