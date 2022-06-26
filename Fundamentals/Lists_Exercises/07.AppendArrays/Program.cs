@@ -8,7 +8,24 @@ namespace _07.AppendArrays
     {
         static void Main(string[] args)
         {
-            
-        }
+            List<string> firstList = Console.ReadLine()
+                .Split("|")
+                .ToList();
+
+            List<string> tempList = new List<string>();
+            List<string> finalList = new List<string>();
+            foreach (var arr in firstList)
+            {
+                
+                tempList = arr.Split(" ",StringSplitOptions.RemoveEmptyEntries).ToList();
+                tempList.Reverse();
+                finalList.AddRange(tempList);
+                
+
+            }
+
+            finalList.Reverse();
+            Console.WriteLine(string.Join(" ", finalList));
+        } 
     }
 }

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.exe
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.deps.json
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.runtimeconfig.json
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\bin\Debug\net5.0\ref\07.AppendArrays.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\obj\Debug\net5.0\ref\07.AppendArrays.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.genruntimeconfig.cache
