@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0IcL/UuUFp7GWfTaR7e2FHdgwG1FqWps53DywsdDyvcql0mHpsimZTi4UYTRJlplPEb3CWHQ/F9rsfzZ5uA31A==",
+  "dgSpecHash": "MhaVJjc3KzNcrSsfLauTejyYuWMDSZv1+e13sdyiNY01fwyyp2G0RAxjXYxmVTHvttP2a1NkXvdqKgj794qquw==",
   "success": true,
   "projectFilePath": "D:\\SoftUni\\Fundamentals\\Lists_Exercises\\02.ChangeList\\02.ChangeList.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

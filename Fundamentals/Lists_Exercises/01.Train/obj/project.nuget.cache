@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mlD6PXXbpUFQptSv+zlTy7DYrU0fd7Ya49ZasIoBh5JovkmCaRn8vWdddMJOaud7DrdZ6rsMJQK/njh3tw2oAg==",
+  "dgSpecHash": "sH58ueLfORVjUFzxrRQWoYjK8R9bkIVCifieykf+o6P8mT7sdAlBf2REPJAJA/e5PXuuqag2hfxuKRRp9ZB1YQ==",
   "success": true,
   "projectFilePath": "D:\\SoftUni\\Fundamentals\\Lists_Exercises\\01.Train\\01.Train.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

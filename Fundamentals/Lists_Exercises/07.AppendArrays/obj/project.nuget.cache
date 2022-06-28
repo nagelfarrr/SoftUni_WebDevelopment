@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8wbmxsPqc3y/vgBP+xHY6KKp0DXzUKQBP2tsPkvJdqSyceQPMKHLUwc+6B6803Jp4mjA9tBtX6dlfXucBS9aSQ==",
+  "dgSpecHash": "tUwD2b9LYgDW9ilpEg16CnvdTRx4NMofQ9dFQHuYxGttDtOTlBoUjgPKttP9QGYMnMxE67GVf0+D1PnEUakwew==",
   "success": true,
   "projectFilePath": "D:\\SoftUni\\Fundamentals\\Lists_Exercises\\07.AppendArrays\\07.AppendArrays.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -23,7 +23,7 @@ namespace _07.AppendArrays
                 
 
             }
-
+            
             finalList.Reverse();
             Console.WriteLine(string.Join(" ", finalList));
         } 

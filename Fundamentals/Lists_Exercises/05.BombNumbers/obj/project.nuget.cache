@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4MHqJiE1c4O9mN+jyJVGehsZFTkkKBeuJCE2WsfdppAA5KqRaxxAszPPZRh+wOUrx5TJZs9bcptdL9sum5lXbg==",
+  "dgSpecHash": "bp5Xc4aHAUSqjT0WbYD70oxBljz/oH2WNVHPm/3LkM/6CT2kxZdsHDalSy2NzynE9icdWopxDjA5i/PggBwFwA==",
   "success": true,
   "projectFilePath": "D:\\SoftUni\\Fundamentals\\Lists_Exercises\\05.BombNumbers\\05.BombNumbers.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
