@@ -43,12 +43,15 @@ namespace _08.AnonymousThreat
 
         static List<string> Merge(List<string> dataList, int startIndex, int endIndex)
         {
+            if (endIndex > dataList.Count - 1 || endIndex < 0) endIndex = dataList.Count - 1;
+            if (startIndex < 0 || startIndex > dataList.Count - 1) startIndex = 0;
+
             string newString = String.Empty;
-            if (endIndex > dataList.Count) endIndex = dataList.Count;
+            
 
             for (int i = startIndex; i < endIndex; i++)
             {
-                
+
                 newString += dataList[i];
             }
 
@@ -59,19 +62,27 @@ namespace _08.AnonymousThreat
 
         static List<string> Divide(List<string> dataList, int index, int partitions)
         {
+           // if (index > dataList.Count - 1 || index < 0) index = dataList.Count - 1;
+           // if (index < 0 || index > dataList.Count - 1) index = 0;
             string newString = dataList[index];
-            string[] dividedString = new string[partitions];
-            char[] charArray = newString.ToCharArray();
-            for (int i = 0; i < dividedString.Length; i++)
+            int chunkSize = newString.Length / partitions;
+            var dividedList = new List<string>();
+            for (int i = 0; i < partitions; i++)
             {
-                string temp = newString.Substring(i, dataList[index].Length/partitions);
-                
-
-                dividedString[i] = temp;
+                if (i == partitions - 1)
+                {
+                    dividedList.Add(newString.Substring(i * chunkSize));
+                }
+                else
+                {
+                    dividedList.Add(newString.Substring(i * chunkSize, chunkSize));
+                }
             }
             dataList.RemoveAt(index);
-            dataList.AddRange(dividedString);
+            dataList.InsertRange(index, dividedList);
             return dataList;
         }
+
+       
     }
 }
