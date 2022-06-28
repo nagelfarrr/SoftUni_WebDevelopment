@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MPx5Uj+MQ9LWOKA/Yzdx7B7h84mNlsJ9E2P8A7+qqvAubFaZTt9U1WnWEaN5EAEWkTxkh0bc/G9+QHBcQ27qPg==",
+  "dgSpecHash": "Ai6GcJiHH5xXui626ZYV8Glp+T5bROe+J18atVd1APfB4Ai0uqC6RVQzHw4I7wQ+66l5Y1wvzscg7s7yN1ZeAA==",
   "success": true,
   "projectFilePath": "D:\\SoftUni\\Fundamentals\\Lists_Exercises\\06.CardGame\\06.CardGame.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

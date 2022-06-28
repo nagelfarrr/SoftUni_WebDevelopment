@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hS6RoPVGCW0EIfu5IT59VV+AXtGfTi73/iVO8XkTKN9A5qMC+XmGC87F1vdKgfoeB3KYveurtGv7o609BSMvLA==",
+  "dgSpecHash": "vXB+E9FY9t+W5tcz8UO+U3XT5uc+X4oZ3TNLHHqK1lylBjs/ZE0bY+2jj/cPjSiPagJ+QcSn9KLB3CsCYeJMNA==",
   "success": true,
   "projectFilePath": "D:\\SoftUni\\Fundamentals\\Lists_Exercises\\04.ListOperations\\04.ListOperations.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

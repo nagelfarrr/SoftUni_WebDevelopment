@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aJ55kDFzvptek0a1QYzfqd0gNIfEH3679nE7GFgfhJnuDiVngHZDpsgGoELRfRDVr6tePYW3CR2nIfCPvtiVcQ==",
+  "dgSpecHash": "TMoeeClJe/6NxwpO2vGWkyhgfnHK3vEZ37d3VpM/kfEQN0Vr5N6aOMu+HUlqQ4GzACewCN+Vus4nOfvC3o+MDA==",
   "success": true,
   "projectFilePath": "D:\\SoftUni\\Fundamentals\\Lists_Exercises\\03.HouseParty\\03.HouseParty.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

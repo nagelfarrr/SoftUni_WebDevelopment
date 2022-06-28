@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31911.196
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Train", "01.Train\01.Train.csproj", "{3D82FEAC-336E-4D5A-8A4B-7DF13F9A4C18}"
 EndProject
@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ListOperations", "04.Lis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.BombNumbers", "05.BombNumbers\05.BombNumbers.csproj", "{D331D376-A9DF-4A44-897A-2B4F1389BFD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CardGame", "06.CardGame\06.CardGame.csproj", "{2BB9BCAB-BB71-498A-9193-708446740020}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.CardGame", "06.CardGame\06.CardGame.csproj", "{2BB9BCAB-BB71-498A-9193-708446740020}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.AppendArrays", "07.AppendArrays\07.AppendArrays.csproj", "{1C622576-AD68-4797-BEAE-EB80B858F8DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.AppendArrays", "07.AppendArrays\07.AppendArrays.csproj", "{1C622576-AD68-4797-BEAE-EB80B858F8DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AnonymousThreat", "08.AnonymousThreat\08.AnonymousThreat.csproj", "{91A41614-89D8-4632-A875-5C4065861BCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1C622576-AD68-4797-BEAE-EB80B858F8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C622576-AD68-4797-BEAE-EB80B858F8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C622576-AD68-4797-BEAE-EB80B858F8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A41614-89D8-4632-A875-5C4065861BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A41614-89D8-4632-A875-5C4065861BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A41614-89D8-4632-A875-5C4065861BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A41614-89D8-4632-A875-5C4065861BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
