@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\bin\Debug\net6.0\00.Demo.exe
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\bin\Debug\net6.0\00.Demo.deps.json
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\bin\Debug\net6.0\00.Demo.runtimeconfig.json
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\bin\Debug\net6.0\00.Demo.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\bin\Debug\net6.0\00.Demo.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\00.Demo.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\00.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\00.Demo.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\00.Demo.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\00.Demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\00.Demo.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\refint\00.Demo.dll
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\00.Demo.pdb
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\00.Demo.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\Lists_Exercises\00.Demo\obj\Debug\net6.0\ref\00.Demo.dll

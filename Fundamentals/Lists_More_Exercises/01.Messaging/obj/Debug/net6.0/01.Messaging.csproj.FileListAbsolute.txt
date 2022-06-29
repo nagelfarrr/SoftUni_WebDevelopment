@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\bin\Debug\net6.0\01.Messaging.exe
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\bin\Debug\net6.0\01.Messaging.deps.json
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\bin\Debug\net6.0\01.Messaging.runtimeconfig.json
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\bin\Debug\net6.0\01.Messaging.dll
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\bin\Debug\net6.0\01.Messaging.pdb
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\01.Messaging.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\01.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\01.Messaging.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\01.Messaging.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\01.Messaging.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\01.Messaging.dll
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\refint\01.Messaging.dll
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\01.Messaging.pdb
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\01.Messaging.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\01.Messaging\obj\Debug\net6.0\ref\01.Messaging.dll

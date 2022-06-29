@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\bin\Debug\net6.0\02.CarRace.exe
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\bin\Debug\net6.0\02.CarRace.deps.json
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\bin\Debug\net6.0\02.CarRace.runtimeconfig.json
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\bin\Debug\net6.0\02.CarRace.dll
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\bin\Debug\net6.0\02.CarRace.pdb
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\02.CarRace.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\02.CarRace.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\02.CarRace.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\02.CarRace.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\02.CarRace.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\02.CarRace.dll
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\refint\02.CarRace.dll
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\02.CarRace.pdb
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\02.CarRace.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\02.CarRace\obj\Debug\net6.0\ref\02.CarRace.dll
