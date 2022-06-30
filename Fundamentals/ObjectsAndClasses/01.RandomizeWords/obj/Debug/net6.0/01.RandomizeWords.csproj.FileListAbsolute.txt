@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\refint\01.RandomizeWords.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\ref\01.RandomizeWords.dll

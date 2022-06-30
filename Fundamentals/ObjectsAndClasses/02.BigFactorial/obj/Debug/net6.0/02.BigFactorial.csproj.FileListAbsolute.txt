@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\refint\02.BigFactorial.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\02.BigFactorial\obj\Debug\net6.0\ref\02.BigFactorial.dll
