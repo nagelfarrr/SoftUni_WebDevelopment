@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RandomizeWords", "01.RandomizeWords\01.RandomizeWords.csproj", "{BE2D1F58-DC4A-4431-BE8B-CC725DBFB22F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.RandomizeWords", "01.RandomizeWords\01.RandomizeWords.csproj", "{BE2D1F58-DC4A-4431-BE8B-CC725DBFB22F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BigFactorial", "02.BigFactorial\02.BigFactorial.csproj", "{1D9AE427-9492-4FC8-9714-7DC21F7A6F01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BigFactorial", "02.BigFactorial\02.BigFactorial.csproj", "{1D9AE427-9492-4FC8-9714-7DC21F7A6F01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Songs", "03.Songs\03.Songs.csproj", "{DC8E41E8-1E3C-4E24-8816-B17BEAF15647}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Songs", "03.Songs\03.Songs.csproj", "{DC8E41E8-1E3C-4E24-8816-B17BEAF15647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Students", "04.Students\04.Students.csproj", "{76E420CD-2AF4-4D9D-A486-6529F1BCC8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsVol2", "StudentsVol2\StudentsVol2.csproj", "{551D5FA8-383E-418F-B9B2-27C7EABAF995}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{DC8E41E8-1E3C-4E24-8816-B17BEAF15647}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC8E41E8-1E3C-4E24-8816-B17BEAF15647}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC8E41E8-1E3C-4E24-8816-B17BEAF15647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E420CD-2AF4-4D9D-A486-6529F1BCC8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E420CD-2AF4-4D9D-A486-6529F1BCC8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E420CD-2AF4-4D9D-A486-6529F1BCC8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E420CD-2AF4-4D9D-A486-6529F1BCC8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551D5FA8-383E-418F-B9B2-27C7EABAF995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551D5FA8-383E-418F-B9B2-27C7EABAF995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551D5FA8-383E-418F-B9B2-27C7EABAF995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551D5FA8-383E-418F-B9B2-27C7EABAF995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

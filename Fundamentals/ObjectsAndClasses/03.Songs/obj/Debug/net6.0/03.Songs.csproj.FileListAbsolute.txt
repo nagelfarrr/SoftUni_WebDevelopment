@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\bin\Debug\net6.0\03.Songs.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\bin\Debug\net6.0\03.Songs.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\bin\Debug\net6.0\03.Songs.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\bin\Debug\net6.0\03.Songs.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\bin\Debug\net6.0\03.Songs.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\03.Songs.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\03.Songs.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\03.Songs.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\03.Songs.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\03.Songs.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\refint\03.Songs.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\03.Songs.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\03.Songs.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\03.Songs\obj\Debug\net6.0\ref\03.Songs.dll
