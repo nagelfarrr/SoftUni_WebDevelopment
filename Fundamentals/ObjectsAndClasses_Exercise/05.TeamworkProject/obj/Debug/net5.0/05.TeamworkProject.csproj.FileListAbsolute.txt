@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\bin\Debug\net5.0\05.TeamworkProject.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\bin\Debug\net5.0\05.TeamworkProject.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\bin\Debug\net5.0\05.TeamworkProject.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\bin\Debug\net5.0\05.TeamworkProject.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\bin\Debug\net5.0\05.TeamworkProject.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\bin\Debug\net5.0\05.TeamworkProject.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\05.TeamworkProject.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\05.TeamworkProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\05.TeamworkProject.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\05.TeamworkProject.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\05.TeamworkProject.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\05.TeamworkProject.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\refint\05.TeamworkProject.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\05.TeamworkProject.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\05.TeamworkProject.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\05.TeamworkProject\obj\Debug\net5.0\ref\05.TeamworkProject.dll
