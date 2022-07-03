@@ -9,10 +9,10 @@ namespace _06.VehicleCatalogue
         static void Main(string[] args)
         {
             List<Vehicle> vehicles = new List<Vehicle>();
-            int averageTrucksHp = 0;
             List<Vehicle> trucks = new List<Vehicle>();
             List<Vehicle> cars = new List<Vehicle>();
-            int averageCarsHp = 0;
+            double averageTrucksHp = 0;
+            double averageCarsHp = 0;
 
             while (true)
             {
@@ -28,15 +28,8 @@ namespace _06.VehicleCatalogue
                     Horsepower = int.Parse(tokens[3])
                 };
                 vehicles.Add(vehicle);
-                if (vehicle.Type == "truck")
-                {
-                    averageTrucksHp += vehicle.Horsepower;
-                }
-                else
-                {
-                    averageCarsHp += vehicle.Horsepower;
-                }
-                
+
+
             }
 
             while (true)
@@ -48,16 +41,54 @@ namespace _06.VehicleCatalogue
                 {
                     if (input == vehicle.Model)
                     {
-                        Console.WriteLine($"Type: {vehicle.Type}\nModel: {vehicle.Model}\nColor: {vehicle.Color}\nHorsepower: {vehicle.Horsepower}");
+                        
+                        Console.WriteLine($"Type: {FirstLetterToUpper(vehicle.Type)}\nModel: {vehicle.Model}\nColor: {vehicle.Color}\nHorsepower: {vehicle.Horsepower}");
                     }
                 }
             }
 
+            foreach (var vehicle in vehicles)
+            {
+                if (vehicle.Type == "truck")
+                {
+                    averageTrucksHp += vehicle.Horsepower;
+                    trucks.Add(vehicle);
+                }
+                else if(vehicle.Type == "car")
+                {
+                    averageCarsHp += vehicle.Horsepower;
+                    cars.Add(vehicle);
+                }
+            }
 
-            averageTrucksHp = averageTrucksHp / trucks.Count;
             averageCarsHp = averageCarsHp / cars.Count;
-            Console.WriteLine($"Cars have average horsepower of: {averageCarsHp}.");
-            Console.WriteLine($"Trucks have average horsepower of: {averageTrucksHp}.");
+            averageTrucksHp = averageTrucksHp / trucks.Count;
+
+            if (cars.Count > 0)
+            {
+                Console.WriteLine($"Cars have average horsepower of: {averageCarsHp:f2}.");
+            }
+            else
+            {
+                Console.WriteLine($"Cars have average horsepower of: {0:f2}.");
+            }
+
+            if (trucks.Count > 0)
+            {
+                Console.WriteLine($"Trucks have average horsepower of: {averageTrucksHp:f2}.");
+            }
+            else
+            {
+                Console.WriteLine($"Trucks have average horsepower of: {0:f2}.");
+            }
+
+
+
+        }
+
+        public static string FirstLetterToUpper(string str)
+        {
+            return char.ToUpper(str[0]) + str.Substring(1);
         }
     }
 

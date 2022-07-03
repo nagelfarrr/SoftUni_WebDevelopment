@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\refint\07.OrderByAge.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\07.OrderByAge\obj\Debug\net5.0\ref\07.OrderByAge.dll
