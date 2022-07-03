@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Fundamentals\\ObjectsAndClasses\\StudentsVol2\\05.StudentsVol2.csproj",
-      "projectName": "05.StudentsVol2",
-      "projectPath": "D:\\SoftUni\\Fundamentals\\ObjectsAndClasses\\StudentsVol2\\05.StudentsVol2.csproj",
+      "projectUniqueName": "D:\\SoftUni\\Fundamentals\\ObjectsAndClasses\\06.StoreBoxes\\06.StoreBoxes.csproj",
+      "projectName": "06.StoreBoxes",
+      "projectPath": "D:\\SoftUni\\Fundamentals\\ObjectsAndClasses\\06.StoreBoxes\\06.StoreBoxes.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Fundamentals\\ObjectsAndClasses\\StudentsVol2\\obj\\",
+      "outputPath": "D:\\SoftUni\\Fundamentals\\ObjectsAndClasses\\06.StoreBoxes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

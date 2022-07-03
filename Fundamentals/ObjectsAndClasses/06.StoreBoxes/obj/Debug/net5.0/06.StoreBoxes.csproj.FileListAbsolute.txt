@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\refint\06.StoreBoxes.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\ref\06.StoreBoxes.dll
