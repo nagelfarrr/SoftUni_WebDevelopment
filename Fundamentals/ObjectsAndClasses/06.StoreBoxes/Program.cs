@@ -31,7 +31,7 @@ namespace _06.StoreBoxes
             foreach (var box in orderedBoxes)
             {
                 Console.WriteLine(box.SerialNumber);
-                Console.WriteLine($"-- {box.Item.Name} – ${box.Item.Price:f2}: {box.ItemQuantity}");
+                Console.WriteLine($"-- {box.Item.Name} - ${box.Item.Price:f2}: {box.ItemQuantity}");
                 Console.WriteLine($"-- ${box.PriceForABox:f2}");
             }
         }

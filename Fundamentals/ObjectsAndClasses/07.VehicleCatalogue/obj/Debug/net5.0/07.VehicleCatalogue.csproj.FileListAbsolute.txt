@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\refint\07.VehicleCatalogue.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\ref\07.VehicleCatalogue.dll

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\refint\01.AdvertisementMessage.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\01.AdvertisementMessage\obj\Debug\net5.0\ref\01.AdvertisementMessage.dll
