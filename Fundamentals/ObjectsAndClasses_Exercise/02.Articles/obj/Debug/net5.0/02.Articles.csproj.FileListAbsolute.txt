@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\bin\Debug\net5.0\02.Articles.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\bin\Debug\net5.0\02.Articles.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\bin\Debug\net5.0\02.Articles.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\bin\Debug\net5.0\02.Articles.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\bin\Debug\net5.0\02.Articles.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\bin\Debug\net5.0\02.Articles.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\02.Articles.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\02.Articles.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\02.Articles.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\02.Articles.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\02.Articles.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\refint\02.Articles.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\02.Articles.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\02.Articles.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_Exercise\02.Articles\obj\Debug\net5.0\ref\02.Articles.dll
