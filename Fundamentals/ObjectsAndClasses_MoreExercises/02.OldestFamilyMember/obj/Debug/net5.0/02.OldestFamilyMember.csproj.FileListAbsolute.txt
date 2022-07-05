@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\bin\Debug\net5.0\02.OldestFamilyMember.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\bin\Debug\net5.0\02.OldestFamilyMember.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\bin\Debug\net5.0\02.OldestFamilyMember.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\bin\Debug\net5.0\02.OldestFamilyMember.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\bin\Debug\net5.0\02.OldestFamilyMember.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\bin\Debug\net5.0\02.OldestFamilyMember.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\02.OldestFamilyMember.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\02.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\02.OldestFamilyMember.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\02.OldestFamilyMember.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\02.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\02.OldestFamilyMember.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\refint\02.OldestFamilyMember.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\02.OldestFamilyMember.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\02.OldestFamilyMember.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\02.OldestFamilyMember\obj\Debug\net5.0\ref\02.OldestFamilyMember.dll

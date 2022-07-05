@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\bin\Debug\net5.0\03.SpeedRacing.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\bin\Debug\net5.0\03.SpeedRacing.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\bin\Debug\net5.0\03.SpeedRacing.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\bin\Debug\net5.0\03.SpeedRacing.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\bin\Debug\net5.0\03.SpeedRacing.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\bin\Debug\net5.0\03.SpeedRacing.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\03.SpeedRacing.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\03.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\03.SpeedRacing.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\03.SpeedRacing.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\03.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\03.SpeedRacing.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\refint\03.SpeedRacing.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\03.SpeedRacing.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\03.SpeedRacing.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\03.SpeedRacing\obj\Debug\net5.0\ref\03.SpeedRacing.dll

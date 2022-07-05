@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\bin\Debug\net5.0\01.CompanyRoster.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\bin\Debug\net5.0\01.CompanyRoster.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\bin\Debug\net5.0\01.CompanyRoster.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\bin\Debug\net5.0\01.CompanyRoster.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\bin\Debug\net5.0\01.CompanyRoster.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\bin\Debug\net5.0\01.CompanyRoster.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\01.CompanyRoster.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\01.CompanyRoster.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\01.CompanyRoster.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\01.CompanyRoster.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\01.CompanyRoster.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\01.CompanyRoster.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\refint\01.CompanyRoster.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\01.CompanyRoster.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\01.CompanyRoster.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\01.CompanyRoster\obj\Debug\net5.0\ref\01.CompanyRoster.dll
