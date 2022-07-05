@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\bin\Debug\net5.0\04.RawData.exe
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\bin\Debug\net5.0\04.RawData.deps.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\bin\Debug\net5.0\04.RawData.runtimeconfig.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\bin\Debug\net5.0\04.RawData.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\bin\Debug\net5.0\04.RawData.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\bin\Debug\net5.0\04.RawData.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\04.RawData.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\04.RawData.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\04.RawData.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\04.RawData.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\04.RawData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\04.RawData.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\refint\04.RawData.dll
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\04.RawData.pdb
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\04.RawData.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\ObjectsAndClasses_MoreExercises\04.RawData\obj\Debug\net5.0\ref\04.RawData.dll

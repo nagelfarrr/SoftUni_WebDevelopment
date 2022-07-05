@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _03.SpeedRacing
 {
@@ -7,10 +8,10 @@ namespace _03.SpeedRacing
     {
         static void Main(string[] args)
         {
-            List<Car> cars = new List<Car>();
-
             int numberOfCars = int.Parse(Console.ReadLine());
-            double traveledDistance = 0;
+
+            var cars = new List<Car>();
+
             for (int i = 0; i < numberOfCars; i++)
             {
                 string[] input = Console.ReadLine().Split(' ');
@@ -24,59 +25,51 @@ namespace _03.SpeedRacing
 
             while (true)
             {
-                string cmd = Console.ReadLine();
-                if (cmd == "End") break;
-                string[] cmdArray = cmd.Split();
-                string model = cmdArray[1];
-                double amountOfKm = double.Parse(cmdArray[2]);
-                
-                foreach (var car in cars)
+                string[] input = Console.ReadLine().Split(' ');
+                if (input[0] == "End") break;
+                else
                 {
-                    if (car.Model == model)
-                    {
-                        amountOfKm = 
-                        car.TraveledDistance(amountOfKm, car.FuelConsumption, car.FuelAmount);
-                        traveledDistance += amountOfKm;
-                    }
+                    string model = input[1];
+                    int amountOfKm = int.Parse(input[2]);
+                    var car = cars.FirstOrDefault(c => c.Model == model);
+                    car.DriveCar(amountOfKm);
                 }
             }
 
             foreach (var car in cars)
             {
-                Console.WriteLine($"{car.Model} {car.FuelAmount:f2} {traveledDistance}");
+                Console.WriteLine($"{car.Model} {car.FuelAmount:f2} {car.TraveledDistance}");
             }
         }
     }
 
     public class Car
     {
-
         public Car(string model, double fuelAmount, double fuelConsumption)
         {
             this.Model = model;
             this.FuelAmount = fuelAmount;
             this.FuelConsumption = fuelConsumption;
+            this.TraveledDistance = 0;
         }
+
         public string Model { get; set; }
         public double FuelAmount { get; set; }
         public double FuelConsumption { get; set; }
+        public double TraveledDistance { get; set; }
 
 
-        public double TraveledDistance(double amountOfKm, double fuelConsumption, double fuelAmount)
+        public void DriveCar(int amountOfKm)
         {
-            
-            if (fuelConsumption*amountOfKm <= amountOfKm)
-            {
-                double traveledDistance = fuelConsumption * amountOfKm;
-                fuelAmount = fuelAmount - traveledDistance;
+            double fuelNeeded = FuelConsumption * amountOfKm;
 
-            }
+            if(fuelNeeded > FuelAmount) Console.WriteLine("Insufficient fuel for the drive");
             else
             {
-                Console.WriteLine("Insufficient fuel for the drive");
+                FuelAmount -= fuelNeeded;
+                TraveledDistance += amountOfKm;
             }
 
-            return fuelAmount;
         }
     }
 }
