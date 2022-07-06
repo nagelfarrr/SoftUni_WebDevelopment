@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\bin\Debug\net6.0\03.Take_SkipRope.exe
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\bin\Debug\net6.0\03.Take_SkipRope.deps.json
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\bin\Debug\net6.0\03.Take_SkipRope.runtimeconfig.json
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\bin\Debug\net6.0\03.Take_SkipRope.dll
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\bin\Debug\net6.0\03.Take_SkipRope.pdb
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\03.Take_SkipRope.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\03.Take_SkipRope.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\03.Take_SkipRope.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\03.Take_SkipRope.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\03.Take_SkipRope.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\03.Take_SkipRope.dll
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\refint\03.Take_SkipRope.dll
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\03.Take_SkipRope.pdb
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\03.Take_SkipRope.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\Lists_More_Exercises\03.Take_SkipRope\obj\Debug\net6.0\ref\03.Take_SkipRope.dll

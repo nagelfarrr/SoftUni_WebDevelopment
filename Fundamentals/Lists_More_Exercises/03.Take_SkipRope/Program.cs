@@ -11,36 +11,25 @@ namespace _03.Take_SkipRope
             string encryptedMessage = Console.ReadLine();
 
             List<int> digits = new List<int>();
-            List<char> characters = new List<char>();
+            List<char> chars = new List<char>();
 
-            foreach (var chr in encryptedMessage)
+            for (int i = 0; i < encryptedMessage.Length; i++)
             {
-                if (chr > 0 && chr < 9)
+                
+                if (encryptedMessage[i] >= 48 && encryptedMessage[i] <= 57)
                 {
-                    digits.Add(chr);
-                }
-                else characters.Add(chr);
-            }
-            List<int> takeList = new List<int>();
-            List<int> skipList = new List<int>();
-            for (int i = 0; i < digits.Count; i++)
-            {
-                if(i%2 == 0) takeList.Add(digits[i]);
-                else skipList.Add(digits[i]);
-            }
+                    int digit = int.Parse(encryptedMessage[i]);
+                    digits.Add(digit);
 
-            var result = string.Empty;
-            for (int i = 0; i < skipList.Count; i++)
-            {
-                int skipCount = skipList[i];
-                result += characters.Skip(skipCount).ToString();
-                for (int j = 0; j < takeList.Count; j++)
+                }
+                else
                 {
-                    int takeCount = takeList[j];
-                    result += characters.AddRange(takeCount);
+                    chars.Add(encryptedMessage[i]);
                 }
-
             }
+
+            Console.WriteLine(string.Join(" ", digits));
+            Console.WriteLine(string.Join(' ', chars));
         }
     }
 }
