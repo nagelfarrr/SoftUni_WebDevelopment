@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\bin\Debug\net5.0\01.CountCharsInAString.exe
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\bin\Debug\net5.0\01.CountCharsInAString.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\bin\Debug\net5.0\01.CountCharsInAString.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\bin\Debug\net5.0\01.CountCharsInAString.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\bin\Debug\net5.0\01.CountCharsInAString.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\bin\Debug\net5.0\01.CountCharsInAString.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\01.CountCharsInAString.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\01.CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\01.CountCharsInAString.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\01.CountCharsInAString.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\01.CountCharsInAString.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\01.CountCharsInAString.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\refint\01.CountCharsInAString.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\01.CountCharsInAString.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\01.CountCharsInAString.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\01.CountCharsInAString\obj\Debug\net5.0\ref\01.CountCharsInAString.dll

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.exe
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\refint\02.AMinerTask.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\02.AMinerTask\obj\Debug\net5.0\ref\02.AMinerTask.dll
