@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.exe
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.dll
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.dll
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\refint\01.CountRealNumbers.dll
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\01.CountRealNumbers\obj\Debug\net5.0\ref\01.CountRealNumbers.dll

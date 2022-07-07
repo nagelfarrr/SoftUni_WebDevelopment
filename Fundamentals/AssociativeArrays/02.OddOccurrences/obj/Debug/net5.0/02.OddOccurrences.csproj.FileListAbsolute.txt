@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\bin\Debug\net5.0\02.OddOccurrences.exe
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\bin\Debug\net5.0\02.OddOccurrences.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\bin\Debug\net5.0\02.OddOccurrences.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\bin\Debug\net5.0\02.OddOccurrences.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\bin\Debug\net5.0\02.OddOccurrences.dll
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\bin\Debug\net5.0\02.OddOccurrences.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\02.OddOccurrences.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\02.OddOccurrences.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\02.OddOccurrences.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\02.OddOccurrences.dll
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\refint\02.OddOccurrences.dll
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\02.OddOccurrences.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\02.OddOccurrences.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\02.OddOccurrences\obj\Debug\net5.0\ref\02.OddOccurrences.dll

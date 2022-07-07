@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\bin\Debug\net5.0\03.WordSynonyms.exe
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\bin\Debug\net5.0\03.WordSynonyms.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\bin\Debug\net5.0\03.WordSynonyms.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\bin\Debug\net5.0\03.WordSynonyms.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\bin\Debug\net5.0\03.WordSynonyms.dll
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\bin\Debug\net5.0\03.WordSynonyms.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\03.WordSynonyms.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\03.WordSynonyms.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\03.WordSynonyms.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\03.WordSynonyms.dll
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\refint\03.WordSynonyms.dll
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\03.WordSynonyms.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\03.WordSynonyms.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays\03.WordSynonyms\obj\Debug\net5.0\ref\03.WordSynonyms.dll
