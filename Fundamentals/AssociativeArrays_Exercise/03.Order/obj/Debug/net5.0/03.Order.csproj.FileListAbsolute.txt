@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\bin\Debug\net5.0\03.Order.exe
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\bin\Debug\net5.0\03.Order.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\bin\Debug\net5.0\03.Order.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\bin\Debug\net5.0\03.Order.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\bin\Debug\net5.0\03.Order.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\bin\Debug\net5.0\03.Order.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\03.Order.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\03.Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\03.Order.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\03.Order.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\03.Order.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\03.Order.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\refint\03.Order.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\03.Order.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\03.Order.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\03.Order\obj\Debug\net5.0\ref\03.Order.dll
