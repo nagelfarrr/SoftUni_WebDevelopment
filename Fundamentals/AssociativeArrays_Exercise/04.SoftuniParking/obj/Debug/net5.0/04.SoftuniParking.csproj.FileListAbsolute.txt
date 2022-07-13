@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\bin\Debug\net5.0\04.SoftuniParking.exe
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\bin\Debug\net5.0\04.SoftuniParking.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\bin\Debug\net5.0\04.SoftuniParking.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\bin\Debug\net5.0\04.SoftuniParking.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\bin\Debug\net5.0\04.SoftuniParking.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\bin\Debug\net5.0\04.SoftuniParking.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\04.SoftuniParking.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\04.SoftuniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\04.SoftuniParking.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\04.SoftuniParking.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\04.SoftuniParking.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\04.SoftuniParking.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\refint\04.SoftuniParking.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\04.SoftuniParking.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\04.SoftuniParking.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\04.SoftuniParking\obj\Debug\net5.0\ref\04.SoftuniParking.dll

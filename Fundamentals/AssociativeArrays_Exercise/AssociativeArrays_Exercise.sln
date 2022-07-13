@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AMinerTask", "02.AMinerT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.LegendaryFarming", "03.LegendaryFarming\03.LegendaryFarming.csproj", "{9C9302A7-5703-4BC7-909F-DB5724A05C98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Order", "03.Order\03.Order.csproj", "{AAFD5C6A-0CA3-4896-9D61-309FF1E88518}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Order", "03.Order\03.Order.csproj", "{AAFD5C6A-0CA3-4896-9D61-309FF1E88518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SoftuniParking", "04.SoftuniParking\04.SoftuniParking.csproj", "{46A3EFEE-171F-4BEF-B39B-EA7DE50FE412}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AAFD5C6A-0CA3-4896-9D61-309FF1E88518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAFD5C6A-0CA3-4896-9D61-309FF1E88518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAFD5C6A-0CA3-4896-9D61-309FF1E88518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A3EFEE-171F-4BEF-B39B-EA7DE50FE412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A3EFEE-171F-4BEF-B39B-EA7DE50FE412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A3EFEE-171F-4BEF-B39B-EA7DE50FE412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A3EFEE-171F-4BEF-B39B-EA7DE50FE412}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
