@@ -33,7 +33,7 @@ namespace _07.CompanyUsers
                 Console.WriteLine($"{company.Key}");
                 for (int i = 0; i < company.Value.Count; i++)
                 {
-                    Console.WriteLine(company.Value[i]);
+                    Console.WriteLine($"--{company.Value[i]}");
                 }
             }
         }
