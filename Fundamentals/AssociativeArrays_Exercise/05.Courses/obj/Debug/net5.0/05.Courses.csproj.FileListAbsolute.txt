@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\bin\Debug\net5.0\05.Courses.exe
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\bin\Debug\net5.0\05.Courses.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\bin\Debug\net5.0\05.Courses.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\bin\Debug\net5.0\05.Courses.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\bin\Debug\net5.0\05.Courses.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\bin\Debug\net5.0\05.Courses.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\05.Courses.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\05.Courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\05.Courses.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\05.Courses.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\05.Courses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\05.Courses.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\refint\05.Courses.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\05.Courses.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\05.Courses.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\05.Courses\obj\Debug\net5.0\ref\05.Courses.dll

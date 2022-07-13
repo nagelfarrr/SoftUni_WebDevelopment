@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.exe
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\refint\07.CompanyUsers.dll
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays_Exercise\07.CompanyUsers\obj\Debug\net5.0\ref\07.CompanyUsers.dll
