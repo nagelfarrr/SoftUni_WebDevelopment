@@ -1,0 +1,16 @@
+D:\SoftUni\General\MID_EXAM\01.First_Task\bin\Debug\net5.0\01.First_Task.exe
+D:\SoftUni\General\MID_EXAM\01.First_Task\bin\Debug\net5.0\01.First_Task.deps.json
+D:\SoftUni\General\MID_EXAM\01.First_Task\bin\Debug\net5.0\01.First_Task.runtimeconfig.json
+D:\SoftUni\General\MID_EXAM\01.First_Task\bin\Debug\net5.0\01.First_Task.runtimeconfig.dev.json
+D:\SoftUni\General\MID_EXAM\01.First_Task\bin\Debug\net5.0\01.First_Task.dll
+D:\SoftUni\General\MID_EXAM\01.First_Task\bin\Debug\net5.0\ref\01.First_Task.dll
+D:\SoftUni\General\MID_EXAM\01.First_Task\bin\Debug\net5.0\01.First_Task.pdb
+D:\SoftUni\General\MID_EXAM\01.First_Task\obj\Debug\net5.0\01.First_Task.csproj.AssemblyReference.cache
+D:\SoftUni\General\MID_EXAM\01.First_Task\obj\Debug\net5.0\01.First_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\General\MID_EXAM\01.First_Task\obj\Debug\net5.0\01.First_Task.AssemblyInfoInputs.cache
+D:\SoftUni\General\MID_EXAM\01.First_Task\obj\Debug\net5.0\01.First_Task.AssemblyInfo.cs
+D:\SoftUni\General\MID_EXAM\01.First_Task\obj\Debug\net5.0\01.First_Task.csproj.CoreCompileInputs.cache
+D:\SoftUni\General\MID_EXAM\01.First_Task\obj\Debug\net5.0\01.First_Task.dll
+D:\SoftUni\General\MID_EXAM\01.First_Task\obj\Debug\net5.0\ref\01.First_Task.dll
+D:\SoftUni\General\MID_EXAM\01.First_Task\obj\Debug\net5.0\01.First_Task.pdb
+D:\SoftUni\General\MID_EXAM\01.First_Task\obj\Debug\net5.0\01.First_Task.genruntimeconfig.cache
