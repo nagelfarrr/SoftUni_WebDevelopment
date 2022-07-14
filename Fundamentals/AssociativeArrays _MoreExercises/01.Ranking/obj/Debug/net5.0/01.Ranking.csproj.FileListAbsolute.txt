@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\bin\Debug\net5.0\01.Ranking.exe
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\bin\Debug\net5.0\01.Ranking.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\bin\Debug\net5.0\01.Ranking.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\bin\Debug\net5.0\01.Ranking.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\bin\Debug\net5.0\01.Ranking.dll
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\bin\Debug\net5.0\01.Ranking.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\01.Ranking.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\01.Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\01.Ranking.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\01.Ranking.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\01.Ranking.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\01.Ranking.dll
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\refint\01.Ranking.dll
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\01.Ranking.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\01.Ranking.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\01.Ranking\obj\Debug\net5.0\ref\01.Ranking.dll
