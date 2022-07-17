@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\bin\Debug\net5.0\04.TextFilter.exe
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\bin\Debug\net5.0\04.TextFilter.deps.json
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\bin\Debug\net5.0\04.TextFilter.runtimeconfig.json
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\bin\Debug\net5.0\04.TextFilter.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\bin\Debug\net5.0\04.TextFilter.dll
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\bin\Debug\net5.0\04.TextFilter.pdb
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\04.TextFilter.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\04.TextFilter.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\04.TextFilter.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\04.TextFilter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\04.TextFilter.dll
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\refint\04.TextFilter.dll
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\04.TextFilter.pdb
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\04.TextFilter.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\TextProcessing\04.TextFilter\obj\Debug\net5.0\ref\04.TextFilter.dll
