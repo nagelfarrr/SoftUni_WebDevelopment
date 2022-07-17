@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\bin\Debug\net5.0\03.ExtractFile.exe
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\bin\Debug\net5.0\03.ExtractFile.deps.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\bin\Debug\net5.0\03.ExtractFile.runtimeconfig.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\bin\Debug\net5.0\03.ExtractFile.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\bin\Debug\net5.0\03.ExtractFile.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\bin\Debug\net5.0\03.ExtractFile.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\03.ExtractFile.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\03.ExtractFile.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\03.ExtractFile.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\03.ExtractFile.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\03.ExtractFile.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\refint\03.ExtractFile.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\03.ExtractFile.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\03.ExtractFile.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\03.ExtractFile\obj\Debug\net5.0\ref\03.ExtractFile.dll

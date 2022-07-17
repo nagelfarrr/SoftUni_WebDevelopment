@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.exe
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.deps.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.runtimeconfig.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\refint\06.ReplaceRepeatingChars.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\ref\06.ReplaceRepeatingChars.dll

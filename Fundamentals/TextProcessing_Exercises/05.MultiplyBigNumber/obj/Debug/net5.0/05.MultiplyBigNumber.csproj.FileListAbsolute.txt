@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.exe
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.deps.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.runtimeconfig.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\refint\05.MultiplyBigNumber.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\05.MultiplyBigNumber\obj\Debug\net5.0\ref\05.MultiplyBigNumber.dll

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\bin\Debug\net5.0\04.CeasarCipher.exe
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\bin\Debug\net5.0\04.CeasarCipher.deps.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\bin\Debug\net5.0\04.CeasarCipher.runtimeconfig.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\bin\Debug\net5.0\04.CeasarCipher.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\bin\Debug\net5.0\04.CeasarCipher.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\bin\Debug\net5.0\04.CeasarCipher.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\04.CeasarCipher.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\04.CeasarCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\04.CeasarCipher.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\04.CeasarCipher.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\04.CeasarCipher.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\04.CeasarCipher.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\refint\04.CeasarCipher.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\04.CeasarCipher.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\04.CeasarCipher.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\04.CeasarCipher\obj\Debug\net5.0\ref\04.CeasarCipher.dll
