@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\bin\Debug\net5.0\01.TheImitationGame.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\bin\Debug\net5.0\01.TheImitationGame.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\bin\Debug\net5.0\01.TheImitationGame.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\bin\Debug\net5.0\01.TheImitationGame.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\bin\Debug\net5.0\01.TheImitationGame.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\bin\Debug\net5.0\01.TheImitationGame.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\01.TheImitationGame.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\01.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\01.TheImitationGame.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\01.TheImitationGame.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\01.TheImitationGame.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\01.TheImitationGame.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\refint\01.TheImitationGame.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\01.TheImitationGame.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\01.TheImitationGame.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\01.TheImitationGame\obj\Debug\net5.0\ref\01.TheImitationGame.dll

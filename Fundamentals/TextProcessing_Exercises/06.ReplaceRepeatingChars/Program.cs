@@ -13,7 +13,7 @@ namespace _06.ReplaceRepeatingChars
             StringBuilder sb = new StringBuilder();
             sb.Append(input[0]);
 
-            for (int i = 0; i < input.Length; i++)
+            for (int i = 1; i < input.Length; i++)
             {
                 if (input[i] == input[i - 1]) continue;
                 

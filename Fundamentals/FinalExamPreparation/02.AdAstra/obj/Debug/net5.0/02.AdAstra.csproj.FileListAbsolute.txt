@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\02.AdAstra.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\02.AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\02.AdAstra.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\02.AdAstra.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\02.AdAstra.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\bin\Debug\net5.0\02.AdAstra.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\bin\Debug\net5.0\02.AdAstra.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\bin\Debug\net5.0\02.AdAstra.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\bin\Debug\net5.0\02.AdAstra.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\bin\Debug\net5.0\02.AdAstra.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\bin\Debug\net5.0\02.AdAstra.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\02.AdAstra.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\refint\02.AdAstra.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\02.AdAstra.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\02.AdAstra.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\02.AdAstra\obj\Debug\net5.0\ref\02.AdAstra.dll
