@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.exe
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.deps.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.runtimeconfig.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\refint\02.CharacterMultiplier.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\02.CharacterMultiplier\obj\Debug\net5.0\ref\02.CharacterMultiplier.dll

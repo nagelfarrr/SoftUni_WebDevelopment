@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.exe
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.deps.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.runtimeconfig.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\refint\01.ValidUsernames.dll
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.pdb
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\TextProcessing_Exercises\01.ValidUsernames\obj\Debug\net5.0\ref\01.ValidUsernames.dll
