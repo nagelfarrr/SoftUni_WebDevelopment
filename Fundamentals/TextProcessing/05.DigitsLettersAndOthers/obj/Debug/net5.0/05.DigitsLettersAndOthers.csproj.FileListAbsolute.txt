@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\bin\Debug\net5.0\05.DigitsLettersAndOthers.exe
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\bin\Debug\net5.0\05.DigitsLettersAndOthers.deps.json
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\bin\Debug\net5.0\05.DigitsLettersAndOthers.runtimeconfig.json
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\bin\Debug\net5.0\05.DigitsLettersAndOthers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\bin\Debug\net5.0\05.DigitsLettersAndOthers.dll
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\bin\Debug\net5.0\05.DigitsLettersAndOthers.pdb
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\05.DigitsLettersAndOthers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\05.DigitsLettersAndOthers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\05.DigitsLettersAndOthers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\05.DigitsLettersAndOthers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\05.DigitsLettersAndOthers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\05.DigitsLettersAndOthers.dll
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\refint\05.DigitsLettersAndOthers.dll
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\05.DigitsLettersAndOthers.pdb
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\05.DigitsLettersAndOthers.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\TextProcessing\05.DigitsLettersAndOthers\obj\Debug\net5.0\ref\05.DigitsLettersAndOthers.dll

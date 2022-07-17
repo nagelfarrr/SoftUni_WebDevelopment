@@ -9,19 +9,17 @@ namespace _04.TextFilter
             string[] banList = Console.ReadLine().Split(", ");
 
             string text = Console.ReadLine();
-            Ban(banList,text);
-            Console.WriteLine(Ban(banList,text));
-        }
 
-        static string Ban(string[] banList, string text)
-        {
-
-            for (int i = 0; i < banList.Length; i++)
+            foreach (var word in banList)
             {
-                banList[i] += "*";
+                string asterisks = new string('*', word.Length);
+
+                text = text.Replace(word, asterisks);
             }
 
-            return text;
+            Console.WriteLine(text);
+
+
         }
     }
 }
