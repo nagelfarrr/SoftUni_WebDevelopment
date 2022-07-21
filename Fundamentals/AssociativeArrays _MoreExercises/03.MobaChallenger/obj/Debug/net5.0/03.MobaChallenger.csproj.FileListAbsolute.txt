@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\bin\Debug\net5.0\03.MobaChallenger.exe
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\bin\Debug\net5.0\03.MobaChallenger.deps.json
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\bin\Debug\net5.0\03.MobaChallenger.runtimeconfig.json
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\bin\Debug\net5.0\03.MobaChallenger.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\bin\Debug\net5.0\03.MobaChallenger.dll
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\bin\Debug\net5.0\03.MobaChallenger.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\03.MobaChallenger.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\03.MobaChallenger.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\03.MobaChallenger.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\03.MobaChallenger.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\03.MobaChallenger.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\03.MobaChallenger.dll
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\refint\03.MobaChallenger.dll
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\03.MobaChallenger.pdb
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\03.MobaChallenger.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\AssociativeArrays _MoreExercises\03.MobaChallenger\obj\Debug\net5.0\ref\03.MobaChallenger.dll

@@ -46,7 +46,7 @@ namespace _01.Ranking
 
                         if (userPoints[userName].ContainsKey(contestName))
                         {
-                            if (userPoints[userName][contestName] < points)
+                            if (userPoints[userName][contestName] <= points)
                                 userPoints[userName][contestName] = points;
                         }
                         else
@@ -55,7 +55,7 @@ namespace _01.Ranking
                 }
             }
 
-            Dictionary<string, int> userTotalPoints = new Dictionary<string, int>();
+            SortedDictionary<string, int> userTotalPoints = new SortedDictionary<string, int>();
             foreach (var user in userPoints)
             {
                 userTotalPoints[user.Key] = user.Value.Values.Sum();
@@ -71,7 +71,7 @@ namespace _01.Ranking
             {
 
                 Console.WriteLine($"{user.Key}");
-                foreach (var contest in user.Value.OrderByDescending(u => u.Value))
+                foreach (var contest in user.Value.OrderByDescending(u => u.Value).ThenByDescending(u => u.Key))
                 {
                     Console.WriteLine($"#  {contest.Key} -> {contest.Value}");
 
