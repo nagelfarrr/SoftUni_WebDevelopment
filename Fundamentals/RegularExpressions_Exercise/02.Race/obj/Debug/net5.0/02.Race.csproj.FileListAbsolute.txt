@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\bin\Debug\net5.0\02.Race.exe
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\bin\Debug\net5.0\02.Race.deps.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\bin\Debug\net5.0\02.Race.runtimeconfig.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\bin\Debug\net5.0\02.Race.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\bin\Debug\net5.0\02.Race.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\bin\Debug\net5.0\02.Race.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\02.Race.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\02.Race.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\02.Race.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\02.Race.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\02.Race.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\02.Race.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\refint\02.Race.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\02.Race.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\02.Race.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\02.Race\obj\Debug\net5.0\ref\02.Race.dll
