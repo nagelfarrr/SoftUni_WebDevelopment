@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\bin\Debug\net5.0\03.MatchDates.exe
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\bin\Debug\net5.0\03.MatchDates.deps.json
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\bin\Debug\net5.0\03.MatchDates.runtimeconfig.json
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\bin\Debug\net5.0\03.MatchDates.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\bin\Debug\net5.0\03.MatchDates.dll
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\bin\Debug\net5.0\03.MatchDates.pdb
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\03.MatchDates.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\03.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\03.MatchDates.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\03.MatchDates.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\03.MatchDates.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\03.MatchDates.dll
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\refint\03.MatchDates.dll
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\03.MatchDates.pdb
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\03.MatchDates.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\RegularExpressions\03.MatchDates\obj\Debug\net5.0\ref\03.MatchDates.dll

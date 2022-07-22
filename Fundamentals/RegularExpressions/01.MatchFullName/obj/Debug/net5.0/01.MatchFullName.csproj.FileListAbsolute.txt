@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\bin\Debug\net5.0\01.MatchFullName.exe
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\bin\Debug\net5.0\01.MatchFullName.deps.json
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\bin\Debug\net5.0\01.MatchFullName.runtimeconfig.json
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\bin\Debug\net5.0\01.MatchFullName.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\bin\Debug\net5.0\01.MatchFullName.dll
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\bin\Debug\net5.0\01.MatchFullName.pdb
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\01.MatchFullName.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\01.MatchFullName.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\01.MatchFullName.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\01.MatchFullName.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\01.MatchFullName.dll
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\refint\01.MatchFullName.dll
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\01.MatchFullName.pdb
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\01.MatchFullName.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\RegularExpressions\01.MatchFullName\obj\Debug\net5.0\ref\01.MatchFullName.dll

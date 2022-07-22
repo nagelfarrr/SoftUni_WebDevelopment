@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net5.0\02.MatchPhoneNumber.exe
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net5.0\02.MatchPhoneNumber.deps.json
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net5.0\02.MatchPhoneNumber.runtimeconfig.json
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net5.0\02.MatchPhoneNumber.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net5.0\02.MatchPhoneNumber.dll
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net5.0\02.MatchPhoneNumber.pdb
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\02.MatchPhoneNumber.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\02.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\02.MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\02.MatchPhoneNumber.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\02.MatchPhoneNumber.dll
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\refint\02.MatchPhoneNumber.dll
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\02.MatchPhoneNumber.pdb
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\02.MatchPhoneNumber.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net5.0\ref\02.MatchPhoneNumber.dll
