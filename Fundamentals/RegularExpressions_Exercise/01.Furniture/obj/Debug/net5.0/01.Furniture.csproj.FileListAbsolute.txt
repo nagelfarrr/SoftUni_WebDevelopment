@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.exe
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.deps.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.runtimeconfig.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\refint\01.Furniture.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\01.Furniture\obj\Debug\net5.0\ref\01.Furniture.dll
