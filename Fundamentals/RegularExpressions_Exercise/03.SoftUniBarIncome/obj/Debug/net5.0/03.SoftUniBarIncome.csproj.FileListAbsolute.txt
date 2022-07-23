@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\bin\Debug\net5.0\03.SoftUniBarIncome.exe
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\bin\Debug\net5.0\03.SoftUniBarIncome.deps.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\bin\Debug\net5.0\03.SoftUniBarIncome.runtimeconfig.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\bin\Debug\net5.0\03.SoftUniBarIncome.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\bin\Debug\net5.0\03.SoftUniBarIncome.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\bin\Debug\net5.0\03.SoftUniBarIncome.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\03.SoftUniBarIncome.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\03.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\03.SoftUniBarIncome.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\03.SoftUniBarIncome.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\03.SoftUniBarIncome.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\refint\03.SoftUniBarIncome.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\03.SoftUniBarIncome.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\03.SoftUniBarIncome.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\03.SoftUniBarIncome\obj\Debug\net5.0\ref\03.SoftUniBarIncome.dll
