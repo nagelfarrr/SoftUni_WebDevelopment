@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\bin\Debug\net5.0\04.StarEnigma.exe
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\bin\Debug\net5.0\04.StarEnigma.deps.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\bin\Debug\net5.0\04.StarEnigma.runtimeconfig.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\bin\Debug\net5.0\04.StarEnigma.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\bin\Debug\net5.0\04.StarEnigma.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\bin\Debug\net5.0\04.StarEnigma.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\04.StarEnigma.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\04.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\04.StarEnigma.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\04.StarEnigma.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\04.StarEnigma.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\04.StarEnigma.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\refint\04.StarEnigma.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\04.StarEnigma.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\04.StarEnigma.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\04.StarEnigma\obj\Debug\net5.0\ref\04.StarEnigma.dll
