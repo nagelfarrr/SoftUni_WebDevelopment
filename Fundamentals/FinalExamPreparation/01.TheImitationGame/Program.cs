@@ -33,14 +33,16 @@ namespace _01.TheImitationGame
             Console.WriteLine($"The decrypted message is: {encryptedMessage}");
         }
 
-        static string ChangeAll(string encryptedMessage, string[] operations)
+        static string Move(string[] operations, string encryptedMessage)
         {
-            string substringToChange = operations[1];
-            string stringToReplace = operations[2];
+            int numberOfLettersToMove = int.Parse(operations[1]);
+            string stringToMove = encryptedMessage.Substring(0, numberOfLettersToMove);
 
-            encryptedMessage = encryptedMessage.Replace(substringToChange, stringToReplace);
+            encryptedMessage = encryptedMessage.Remove(0, numberOfLettersToMove);
+            encryptedMessage += stringToMove;
             return encryptedMessage;
         }
+
 
         static string Insert(string[] operations, string encryptedMessage)
         {
@@ -50,13 +52,12 @@ namespace _01.TheImitationGame
             return encryptedMessage;
         }
 
-        static string Move(string[] operations, string encryptedMessage)
+        static string ChangeAll(string encryptedMessage, string[] operations)
         {
-            int numberOfLettersToMove = int.Parse(operations[1]);
-            string stringToMove = encryptedMessage.Substring(0, numberOfLettersToMove);
+            string substringToChange = operations[1];
+            string stringToReplace = operations[2];
 
-            encryptedMessage = encryptedMessage.Remove(0, numberOfLettersToMove);
-            encryptedMessage += stringToMove;
+            encryptedMessage = encryptedMessage.Replace(substringToChange, stringToReplace);
             return encryptedMessage;
         }
     }

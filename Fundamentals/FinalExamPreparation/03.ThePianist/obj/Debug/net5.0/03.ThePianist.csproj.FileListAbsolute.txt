@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\bin\Debug\net5.0\03.ThePianist.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\bin\Debug\net5.0\03.ThePianist.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\bin\Debug\net5.0\03.ThePianist.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\bin\Debug\net5.0\03.ThePianist.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\bin\Debug\net5.0\03.ThePianist.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\bin\Debug\net5.0\03.ThePianist.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\03.ThePianist.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\03.ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\03.ThePianist.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\03.ThePianist.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\03.ThePianist.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\03.ThePianist.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\refint\03.ThePianist.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\03.ThePianist.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\03.ThePianist.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\03.ThePianist\obj\Debug\net5.0\ref\03.ThePianist.dll

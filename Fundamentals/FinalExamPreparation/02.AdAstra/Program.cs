@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace _02.AdAstra
 {
@@ -9,44 +10,36 @@ namespace _02.AdAstra
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            char[] splitOptions = new char[] { '|', '#' };
+            string pattern = @"([#\|])(?<item>[A-Za-z\s]+)\1(?<date>[0-9]{2}/[0-9]{2}/[0-9]{2})*\1(?<calories>[0-9]+)\1";
 
-            List<Food> foodList = new List<Food>();
-            string[] foodInfo = input.Split(splitOptions);
-            Food food = new Food();
-            for (int i = 0; i < foodInfo.Length; i++)
+            const int KCALPERDAY = 2000;
+            int totalCalories = 0;
+
+            MatchCollection matches = Regex.Matches(input, pattern);
+
+            foreach (Match match in matches)
             {
-                if (foodInfo[i].Any(char.IsLetterOrDigit) || foodInfo[i].Any(char.IsWhiteSpace))
-                {
-                    food = new Food()
-                    {
-                        itemName = foodInfo[i]
-                    };
-                }
-                else if (!(foodInfo[i].Any(char.IsLetterOrDigit) || foodInfo[i].Any(char.IsWhiteSpace)))
-                {
-                    food = new Food()
-                    {
-                        expirationDate = foodInfo[i]
-                    };
-                }
-                else if (foodInfo[i].All(char.IsDigit))
-                {
-                    food = new Food()
-                    {
-                        calories = int.Parse(foodInfo[i])
-                    };
-                }
-                foodList.Add(food);
+                totalCalories += int.Parse(match.Groups["calories"].Value);
             }
 
+
+            int daysToSurvive = totalCalories / KCALPERDAY;
+
+
+            PrintFoodInformation(daysToSurvive, matches);
+        }
+
+        static void PrintFoodInformation(int daysToSurvive, MatchCollection matches)
+        {
+            Console.WriteLine($"You have food to last you for: {daysToSurvive} days!");
+
+            foreach (Match match in matches)
+            {
+                Console.WriteLine(
+                    $"Item: {match.Groups["item"].Value}, Best before: {match.Groups["date"].Value}, Nutrition: {match.Groups["calories"].Value}");
+            }
         }
     }
 
-    class Food
-    {
-        public string itemName { get; set; }
-        public string expirationDate { get; set; }
-        public int calories { get; set; }
-    }
+
 }
