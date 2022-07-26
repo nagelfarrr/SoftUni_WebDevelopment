@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Race", "02.Race\02.Race.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SoftUniBarIncome", "03.SoftUniBarIncome\03.SoftUniBarIncome.csproj", "{9505C7FE-96E0-402F-B985-90A226891A37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.StarEnigma", "04.StarEnigma\04.StarEnigma.csproj", "{7437830B-BB52-4D5A-8722-42EBFEB2A47E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.StarEnigma", "04.StarEnigma\04.StarEnigma.csproj", "{7437830B-BB52-4D5A-8722-42EBFEB2A47E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.NetherRealms", "05.NetherRealms\05.NetherRealms.csproj", "{F6FEA534-47B2-46A2-A5F2-CA05ACBF70A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ExtractEmails", "06.ExtractEmails\06.ExtractEmails.csproj", "{8FAB5E29-1414-47C8-8BBB-D22AAEEDEBFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{7437830B-BB52-4D5A-8722-42EBFEB2A47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7437830B-BB52-4D5A-8722-42EBFEB2A47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7437830B-BB52-4D5A-8722-42EBFEB2A47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FEA534-47B2-46A2-A5F2-CA05ACBF70A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FEA534-47B2-46A2-A5F2-CA05ACBF70A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FEA534-47B2-46A2-A5F2-CA05ACBF70A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FEA534-47B2-46A2-A5F2-CA05ACBF70A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAB5E29-1414-47C8-8BBB-D22AAEEDEBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAB5E29-1414-47C8-8BBB-D22AAEEDEBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAB5E29-1414-47C8-8BBB-D22AAEEDEBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAB5E29-1414-47C8-8BBB-D22AAEEDEBFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

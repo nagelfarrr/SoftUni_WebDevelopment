@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\bin\Debug\net5.0\05.NetherRealms.exe
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\bin\Debug\net5.0\05.NetherRealms.deps.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\bin\Debug\net5.0\05.NetherRealms.runtimeconfig.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\bin\Debug\net5.0\05.NetherRealms.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\bin\Debug\net5.0\05.NetherRealms.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\bin\Debug\net5.0\05.NetherRealms.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\05.NetherRealms.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\05.NetherRealms.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\05.NetherRealms.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\05.NetherRealms.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\05.NetherRealms.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\refint\05.NetherRealms.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\05.NetherRealms.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\05.NetherRealms.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\05.NetherRealms\obj\Debug\net5.0\ref\05.NetherRealms.dll

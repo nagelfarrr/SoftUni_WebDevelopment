@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.exe
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.deps.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.runtimeconfig.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\refint\06.ExtractEmails.dll
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.pdb
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\RegularExpressions_Exercise\06.ExtractEmails\obj\Debug\net5.0\ref\06.ExtractEmails.dll
