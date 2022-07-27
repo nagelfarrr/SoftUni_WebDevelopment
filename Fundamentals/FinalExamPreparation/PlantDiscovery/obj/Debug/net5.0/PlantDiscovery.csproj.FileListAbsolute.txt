@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\refint\PlantDiscovery.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\PlantDiscovery\obj\Debug\net5.0\ref\PlantDiscovery.dll
