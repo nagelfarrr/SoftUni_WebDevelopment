@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\bin\Debug\net5.0\WorldTour.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\bin\Debug\net5.0\WorldTour.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\bin\Debug\net5.0\WorldTour.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\bin\Debug\net5.0\WorldTour.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\bin\Debug\net5.0\WorldTour.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\bin\Debug\net5.0\WorldTour.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\WorldTour.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\WorldTour.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\WorldTour.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\WorldTour.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\WorldTour.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\refint\WorldTour.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\WorldTour.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\WorldTour.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\WorldTour\obj\Debug\net5.0\ref\WorldTour.dll

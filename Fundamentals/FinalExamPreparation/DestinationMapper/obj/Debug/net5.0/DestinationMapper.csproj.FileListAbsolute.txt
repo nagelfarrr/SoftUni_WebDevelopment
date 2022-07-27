@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\bin\Debug\net5.0\DestinationMapper.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\bin\Debug\net5.0\DestinationMapper.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\bin\Debug\net5.0\DestinationMapper.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\bin\Debug\net5.0\DestinationMapper.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\bin\Debug\net5.0\DestinationMapper.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\bin\Debug\net5.0\DestinationMapper.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\DestinationMapper.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\DestinationMapper.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\DestinationMapper.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\DestinationMapper.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\DestinationMapper.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\refint\DestinationMapper.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\DestinationMapper.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\DestinationMapper.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\DestinationMapper\obj\Debug\net5.0\ref\DestinationMapper.dll
