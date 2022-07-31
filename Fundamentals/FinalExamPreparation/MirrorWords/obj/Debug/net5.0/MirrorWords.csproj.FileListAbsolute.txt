@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\bin\Debug\net5.0\MirrorWords.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\bin\Debug\net5.0\MirrorWords.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\bin\Debug\net5.0\MirrorWords.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\bin\Debug\net5.0\MirrorWords.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\bin\Debug\net5.0\MirrorWords.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\bin\Debug\net5.0\MirrorWords.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\MirrorWords.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\MirrorWords.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\MirrorWords.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\MirrorWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\MirrorWords.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\refint\MirrorWords.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\MirrorWords.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\MirrorWords.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\MirrorWords\obj\Debug\net5.0\ref\MirrorWords.dll
