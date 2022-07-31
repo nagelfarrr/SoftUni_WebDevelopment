@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ThePianist", "03.ThePian
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorldTour", "WorldTour\WorldTour.csproj", "{7AEAD8B9-4E6F-4D53-B316-313A2774E45D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinationMapper", "DestinationMapper\DestinationMapper.csproj", "{0D716260-7C99-43C3-8B5E-BE293DADF8AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestinationMapper", "DestinationMapper\DestinationMapper.csproj", "{0D716260-7C99-43C3-8B5E-BE293DADF8AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantDiscovery", "PlantDiscovery\PlantDiscovery.csproj", "{DFF52818-ADEB-46F6-8DA8-D8FE6ACF3208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlantDiscovery", "PlantDiscovery\PlantDiscovery.csproj", "{DFF52818-ADEB-46F6-8DA8-D8FE6ACF3208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretChat", "SecretChat\SecretChat.csproj", "{35547609-4874-4DC5-9872-0BB255AEC971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorWords", "MirrorWords\MirrorWords.csproj", "{8F84293C-7BFF-4D5F-8004-BCEE17DD19D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{DFF52818-ADEB-46F6-8DA8-D8FE6ACF3208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFF52818-ADEB-46F6-8DA8-D8FE6ACF3208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFF52818-ADEB-46F6-8DA8-D8FE6ACF3208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35547609-4874-4DC5-9872-0BB255AEC971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35547609-4874-4DC5-9872-0BB255AEC971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35547609-4874-4DC5-9872-0BB255AEC971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35547609-4874-4DC5-9872-0BB255AEC971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F84293C-7BFF-4D5F-8004-BCEE17DD19D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F84293C-7BFF-4D5F-8004-BCEE17DD19D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F84293C-7BFF-4D5F-8004-BCEE17DD19D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F84293C-7BFF-4D5F-8004-BCEE17DD19D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

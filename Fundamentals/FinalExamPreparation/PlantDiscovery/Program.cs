@@ -48,17 +48,16 @@ namespace PlantDiscovery
                             {
                                 case "Rate":
                                     double rating = double.Parse(commands[2]);
-                                    flower.Rating.Add(rating);
+                                    flower.AddRate(rating);
                                     break;
 
                                 case "Update":
                                     int rarity = int.Parse(commands[2]);
-                                    flower.Rarity = 0;
                                     flower.Rarity = rarity;
                                     break;
                                 case "Reset":
                                     flower.Rating.Clear();
-                                    flower.Rating.Add(0.00);
+                                    flower.average = 0;
                                     break;
                             }
                         }
@@ -66,12 +65,14 @@ namespace PlantDiscovery
                     }
                 }
             }
-            flowersList.Sort();
+
             Console.WriteLine("Plants for the exhibition:");
+
             foreach (var flower in flowersList)
             {
-                Console.WriteLine($"- {flower.Name}; Rarity: {flower.Rarity}; Rating: {flower.Rating.Average():f2}");
+                Console.WriteLine($"- {flower.Name}; Rarity: {flower.Rarity}; Rating: {flower.average:f2}");
             }
+
         }
 
         class Flower
@@ -86,6 +87,18 @@ namespace PlantDiscovery
             public string Name { get; set; }
             public int Rarity { get; set; }
             public List<double> Rating { get; set; }
+            public double average;
+
+            public void AddRate(double rate)
+            {
+                this.average = 0;
+                this.Rating.Add(rate);
+                for (int i = 0; i < this.Rating.Count; i++)
+                {
+                    average += this.Rating[i];
+                }
+                average /= this.Rating.Count;
+            }
         }
     }
 }
