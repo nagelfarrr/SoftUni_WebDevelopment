@@ -29,69 +29,63 @@ namespace PlantDiscovery
             {
                 string input = Console.ReadLine();
                 if (input == "Exhibition") break;
-                string[] commands = input.Split(':', StringSplitOptions.RemoveEmptyEntries);
+                string[] delimeters = new string[] { ": ", " - " };
+                string[] commands = input.Split(delimeters, StringSplitOptions.RemoveEmptyEntries);
                 string cmd = commands[0];
+                string plantName = commands[1];
 
-                string[] additionalCommands = commands[1].Split('-', StringSplitOptions.RemoveEmptyEntries);
-                string name = additionalCommands[0];
-                
-                switch (cmd)
+                if (!flowersList.Exists(f => f.Name == plantName))
                 {
-                    case "Rate":
-                        double rating = double.Parse(additionalCommands[1]);
-                        
-                        foreach (var flower in flowersList)
-                        {
-                            if (flower.Name == name)
-                            {
-                                flower.Rating.Add(rating);
-                            }
-                            
-                        }
-                        break;
-                    case "Update":
-                        int rarity = int.Parse(additionalCommands[1]);
-                        foreach (var flower in flowersList)
-                        {
-                            if (flower.Name == name)
-                            {
-                                flower.Rarity = rarity;
-                            }
-
-                        }
-                        break;
-                    case "Reset":
-                        foreach (var flower in flowersList)
-                        {
-                            if (flower.Name == name)
-                            {
-                                flower.Rating.Clear();
-                            }
-                        }
-                        break;
+                    Console.WriteLine("error");
                 }
+                else
+                {
+                    foreach (var flower in flowersList)
+                    {
+                        if (flower.Name == plantName)
+                        {
+                            switch (cmd)
+                            {
+                                case "Rate":
+                                    double rating = double.Parse(commands[2]);
+                                    flower.Rating.Add(rating);
+                                    break;
 
+                                case "Update":
+                                    int rarity = int.Parse(commands[2]);
+                                    flower.Rarity = 0;
+                                    flower.Rarity = rarity;
+                                    break;
+                                case "Reset":
+                                    flower.Rating.Clear();
+                                    flower.Rating.Add(0.00);
+                                    break;
+                            }
+                        }
+
+                    }
+                }
             }
-
-            Console.WriteLine($"Plants for the exhibition:");
+            flowersList.Sort();
+            Console.WriteLine("Plants for the exhibition:");
             foreach (var flower in flowersList)
             {
-                Console.WriteLine($"{flower.Name}; Rarity: {flower.Rarity}; Rating: {flower.Rating.Average():f2}");
+                Console.WriteLine($"- {flower.Name}; Rarity: {flower.Rarity}; Rating: {flower.Rating.Average():f2}");
             }
         }
-    }
 
-    class Flower
-    {
-        public Flower(string flowerName, int flowerRarity)
+        class Flower
         {
-            this.Name = flowerName;
-            this.Rarity = flowerRarity;
-            this.Rating = new List<double>();
-        }
+            public Flower(string flowerName, int flowerRarity)
+            {
+                this.Name = flowerName;
+                this.Rarity = flowerRarity;
+                this.Rating = new List<double>();
+            }
 
-        public string Name { get; set; }
-        public int Rarity { get; set; }
-        public List<double> Rating { get; set; }
+            public string Name { get; set; }
+            public int Rarity { get; set; }
+            public List<double> Rating { get; set; }
+        }
     }
 }
