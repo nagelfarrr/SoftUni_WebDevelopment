@@ -10,31 +10,80 @@ namespace MirrorWords
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            string pattern = @"([@|#])(?<word>[A-Za-z]{4,})\1";
+            string pattern = @"\#{1}[A-z]{3,}\#{2}[A-z]{3,}\#{1}|\@{1}[A-z)]{3,}\@{2}[A-z]{3,}\@{1}";
 
-            MatchCollection matches = Regex.Matches(input, pattern);
-            List<string> words = new List<string>();
-            Dictionary<string, string> result = new Dictionary<string, string>();
+            Regex regex = new Regex(pattern);
+
+            MatchCollection matches = regex.Matches(input);
+
+            List<string> pairs = new List<string>();
+
             foreach (Match match in matches)
             {
-                words.Add(match.Groups["word"].Value);
+                pairs.Add(match.Value);
             }
 
-            Console.WriteLine(string.Join(',',words));
 
-            for (int i = 1; i < words.Count; i++)
+            Dictionary<string, string> mirroredPairs = new Dictionary<string, string>();
+
+            if (pairs.Count > 0)
             {
-                if (words[i] == words[i-1].Reverse())
+
+                foreach (var pair in pairs)
                 {
-                    if (!result.ContainsKey(words[i]))
-                        result[words[i-1]] = words[i];
+                    bool isMirrored = false;
+                    char[] delimeters = new char[] { '#', '@' };
+                    string[] pairsCheck = pair.Split(delimeters, StringSplitOptions.RemoveEmptyEntries);
+                    string firstWord = pairsCheck[0];
+                    string secondWord = pairsCheck[1];
+                    secondWord = Reverse(secondWord);
+                    if (firstWord == secondWord)
+                    {
+                        isMirrored = true;
+                    }
+
+                    if (isMirrored)
+                    {
+                        if (!mirroredPairs.ContainsKey(pairsCheck[0]))
+                        {
+                            mirroredPairs[pairsCheck[0]] = pairsCheck[1];
+                        }
+                    }
                 }
+                Console.WriteLine($"{pairs.Count} word pairs found!");
+            }
+            else
+            {
+                Console.WriteLine("No word pairs found!");
+            }
+            if (mirroredPairs.Count > 0)
+            {
+                string result = string.Empty;
+                List<string> resultOfMirroredString = new List<string>();
+                Console.WriteLine("The mirror words are:");
+                foreach (var mirroredPair in mirroredPairs)
+                {
+                    //Console.Write($"{mirroredPair.Key} <=> {mirroredPair.Value}, ");
+
+                    result = string.Join(" <=> ", mirroredPair.Key, mirroredPair.Value);
+                    resultOfMirroredString.Add(result);
+                }
+
+                Console.WriteLine(string.Join(", ", resultOfMirroredString));
+            }
+            else
+            {
+                Console.WriteLine("No mirror words!");
             }
 
-            foreach (var word in result)
-            {
-                Console.WriteLine($"{word.Value} <=> {word.Key}");
-            }
+
+        }
+
+        static string Reverse(string secondWord)
+        {
+            char[] array = secondWord.ToCharArray();
+            Array.Reverse(array);
+            return new String(array);
         }
     }
 }
