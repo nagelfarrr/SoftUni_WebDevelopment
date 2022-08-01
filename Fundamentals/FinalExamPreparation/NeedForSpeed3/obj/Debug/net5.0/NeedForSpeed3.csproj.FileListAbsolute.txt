@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\net5.0\NeedForSpeed3.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\net5.0\NeedForSpeed3.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\net5.0\NeedForSpeed3.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\net5.0\NeedForSpeed3.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\net5.0\NeedForSpeed3.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\net5.0\NeedForSpeed3.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\NeedForSpeed3.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\NeedForSpeed3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\NeedForSpeed3.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\NeedForSpeed3.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\NeedForSpeed3.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\NeedForSpeed3.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\refint\NeedForSpeed3.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\NeedForSpeed3.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\NeedForSpeed3.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\net5.0\ref\NeedForSpeed3.dll
