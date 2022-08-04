@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\bin\Debug\net5.0\EmojiDetector.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\bin\Debug\net5.0\EmojiDetector.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\bin\Debug\net5.0\EmojiDetector.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\bin\Debug\net5.0\EmojiDetector.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\bin\Debug\net5.0\EmojiDetector.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\bin\Debug\net5.0\EmojiDetector.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\EmojiDetector.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\EmojiDetector.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\EmojiDetector.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\EmojiDetector.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\EmojiDetector.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\refint\EmojiDetector.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\EmojiDetector.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\EmojiDetector.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\EmojiDetector\obj\Debug\net5.0\ref\EmojiDetector.dll
