@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\bin\Debug\net5.0\FancyBarcode.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\bin\Debug\net5.0\FancyBarcode.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\bin\Debug\net5.0\FancyBarcode.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\bin\Debug\net5.0\FancyBarcode.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\bin\Debug\net5.0\FancyBarcode.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\bin\Debug\net5.0\FancyBarcode.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\FancyBarcode.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\FancyBarcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\FancyBarcode.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\FancyBarcode.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\FancyBarcode.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\FancyBarcode.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\refint\FancyBarcode.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\FancyBarcode.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\FancyBarcode.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\FancyBarcode\obj\Debug\net5.0\ref\FancyBarcode.dll
