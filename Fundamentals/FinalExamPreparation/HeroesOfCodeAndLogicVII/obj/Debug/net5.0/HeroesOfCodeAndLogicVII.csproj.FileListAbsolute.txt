@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\HeroesOfCodeAndLogicVII.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\net5.0\HeroesOfCodeAndLogicVII.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\net5.0\HeroesOfCodeAndLogicVII.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\net5.0\HeroesOfCodeAndLogicVII.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\net5.0\HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\net5.0\HeroesOfCodeAndLogicVII.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\net5.0\HeroesOfCodeAndLogicVII.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\HeroesOfCodeAndLogicVII.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\refint\HeroesOfCodeAndLogicVII.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\HeroesOfCodeAndLogicVII.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\net5.0\ref\HeroesOfCodeAndLogicVII.dll

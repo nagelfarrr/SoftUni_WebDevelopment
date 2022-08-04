@@ -21,9 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MirrorWords", "MirrorWords\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeedForSpeed3", "NeedForSpeed3\NeedForSpeed3.csproj", "{44629C5D-0BCC-426D-977A-AA75870073F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordReset", "PasswordReset\PasswordReset.csproj", "{88A3F2E4-93DF-4D9A-9D86-670609EEABA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordReset", "PasswordReset\PasswordReset.csproj", "{88A3F2E4-93DF-4D9A-9D86-670609EEABA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyBarcode", "FancyBarcode\FancyBarcode.csproj", "{30167AA4-6404-40BE-AC14-ED38AE459675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FancyBarcode", "FancyBarcode\FancyBarcode.csproj", "{30167AA4-6404-40BE-AC14-ED38AE459675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesOfCodeAndLogicVII", "HeroesOfCodeAndLogicVII\HeroesOfCodeAndLogicVII.csproj", "{A62B8D57-60F9-4DB2-914B-0B3DF1AACEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivationKeys", "ActivationKeys\ActivationKeys.csproj", "{C1B9D5CA-1A5D-4280-B386-EE95389CE4F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{30167AA4-6404-40BE-AC14-ED38AE459675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30167AA4-6404-40BE-AC14-ED38AE459675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30167AA4-6404-40BE-AC14-ED38AE459675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62B8D57-60F9-4DB2-914B-0B3DF1AACEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62B8D57-60F9-4DB2-914B-0B3DF1AACEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62B8D57-60F9-4DB2-914B-0B3DF1AACEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62B8D57-60F9-4DB2-914B-0B3DF1AACEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B9D5CA-1A5D-4280-B386-EE95389CE4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B9D5CA-1A5D-4280-B386-EE95389CE4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B9D5CA-1A5D-4280-B386-EE95389CE4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B9D5CA-1A5D-4280-B386-EE95389CE4F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

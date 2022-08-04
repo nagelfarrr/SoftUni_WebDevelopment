@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\bin\Debug\net5.0\ActivationKeys.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\bin\Debug\net5.0\ActivationKeys.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\bin\Debug\net5.0\ActivationKeys.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\bin\Debug\net5.0\ActivationKeys.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\bin\Debug\net5.0\ActivationKeys.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\bin\Debug\net5.0\ActivationKeys.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\ActivationKeys.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\ActivationKeys.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\ActivationKeys.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\ActivationKeys.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\ActivationKeys.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\refint\ActivationKeys.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\ActivationKeys.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\ActivationKeys.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\ActivationKeys\obj\Debug\net5.0\ref\ActivationKeys.dll
