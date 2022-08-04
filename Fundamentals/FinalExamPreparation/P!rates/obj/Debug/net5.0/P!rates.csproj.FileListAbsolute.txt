@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\bin\Debug\net5.0\P!rates.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\bin\Debug\net5.0\P!rates.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\bin\Debug\net5.0\P!rates.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\bin\Debug\net5.0\P!rates.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\bin\Debug\net5.0\P!rates.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\bin\Debug\net5.0\P!rates.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\P!rates.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\P!rates.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\P!rates.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\P!rates.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\P!rates.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\P!rates.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\refint\P!rates.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\P!rates.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\P!rates.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\P!rates\obj\Debug\net5.0\ref\P!rates.dll
