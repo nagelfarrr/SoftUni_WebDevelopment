@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExam\Demo\bin\Debug\net5.0\Demo.exe
+D:\SoftUni\Fundamentals\FinalExam\Demo\bin\Debug\net5.0\Demo.deps.json
+D:\SoftUni\Fundamentals\FinalExam\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExam\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExam\Demo\bin\Debug\net5.0\Demo.dll
+D:\SoftUni\Fundamentals\FinalExam\Demo\bin\Debug\net5.0\Demo.pdb
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\Demo.dll
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\refint\Demo.dll
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\Demo.pdb
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExam\Demo\obj\Debug\net5.0\ref\Demo.dll

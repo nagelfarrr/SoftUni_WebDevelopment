@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\bin\Debug\net5.0\FirstTask.exe
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\bin\Debug\net5.0\FirstTask.deps.json
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\bin\Debug\net5.0\FirstTask.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\bin\Debug\net5.0\FirstTask.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\bin\Debug\net5.0\FirstTask.dll
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\bin\Debug\net5.0\FirstTask.pdb
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\FirstTask.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\FirstTask.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\FirstTask.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\FirstTask.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\FirstTask.dll
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\refint\FirstTask.dll
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\FirstTask.pdb
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\FirstTask.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExam\FirstTask\obj\Debug\net5.0\ref\FirstTask.dll

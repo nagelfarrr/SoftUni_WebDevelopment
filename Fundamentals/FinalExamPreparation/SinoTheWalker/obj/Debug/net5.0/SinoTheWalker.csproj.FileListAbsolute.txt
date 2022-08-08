@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\bin\Debug\net5.0\SinoTheWalker.exe
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\bin\Debug\net5.0\SinoTheWalker.deps.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\bin\Debug\net5.0\SinoTheWalker.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\bin\Debug\net5.0\SinoTheWalker.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\bin\Debug\net5.0\SinoTheWalker.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\bin\Debug\net5.0\SinoTheWalker.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\SinoTheWalker.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\SinoTheWalker.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\SinoTheWalker.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\SinoTheWalker.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\SinoTheWalker.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\SinoTheWalker.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\refint\SinoTheWalker.dll
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\SinoTheWalker.pdb
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\SinoTheWalker.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExamPreparation\SinoTheWalker\obj\Debug\net5.0\ref\SinoTheWalker.dll

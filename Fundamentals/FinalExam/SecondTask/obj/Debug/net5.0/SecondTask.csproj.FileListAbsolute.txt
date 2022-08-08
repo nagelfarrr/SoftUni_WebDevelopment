@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\bin\Debug\net5.0\SecondTask.exe
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\bin\Debug\net5.0\SecondTask.deps.json
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\bin\Debug\net5.0\SecondTask.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\bin\Debug\net5.0\SecondTask.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\bin\Debug\net5.0\SecondTask.dll
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\bin\Debug\net5.0\SecondTask.pdb
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\SecondTask.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\SecondTask.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\SecondTask.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\SecondTask.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\SecondTask.dll
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\refint\SecondTask.dll
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\SecondTask.pdb
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\SecondTask.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExam\SecondTask\obj\Debug\net5.0\ref\SecondTask.dll

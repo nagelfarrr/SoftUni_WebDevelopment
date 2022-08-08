@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\bin\Debug\net5.0\ThirdTask.exe
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\bin\Debug\net5.0\ThirdTask.deps.json
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\bin\Debug\net5.0\ThirdTask.runtimeconfig.json
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\bin\Debug\net5.0\ThirdTask.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\bin\Debug\net5.0\ThirdTask.dll
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\bin\Debug\net5.0\ThirdTask.pdb
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\ThirdTask.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\ThirdTask.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\ThirdTask.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\ThirdTask.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\ThirdTask.dll
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\refint\ThirdTask.dll
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\ThirdTask.pdb
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\ThirdTask.genruntimeconfig.cache
+D:\SoftUni\Fundamentals\FinalExam\ThirdTask\obj\Debug\net5.0\ref\ThirdTask.dll
