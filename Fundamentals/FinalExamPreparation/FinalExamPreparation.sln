@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojiDetector", "EmojiDetec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P!rates", "P!rates\P!rates.csproj", "{22274DBA-3170-4D2E-9844-BA469BB8BB7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinoTheWalker", "SinoTheWalker\SinoTheWalker.csproj", "{D3D762C9-0B30-47B2-9921-BFD46F071765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SinoTheWalker", "SinoTheWalker\SinoTheWalker.csproj", "{D3D762C9-0B30-47B2-9921-BFD46F071765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Demo", "00.Demo\00.Demo.csproj", "{C6E97871-6979-45E5-9E33-B73BD9B1380D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{D3D762C9-0B30-47B2-9921-BFD46F071765}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3D762C9-0B30-47B2-9921-BFD46F071765}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3D762C9-0B30-47B2-9921-BFD46F071765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E97871-6979-45E5-9E33-B73BD9B1380D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E97871-6979-45E5-9E33-B73BD9B1380D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E97871-6979-45E5-9E33-B73BD9B1380D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E97871-6979-45E5-9E33-B73BD9B1380D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
