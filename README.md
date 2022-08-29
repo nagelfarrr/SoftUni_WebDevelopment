@@ -26,7 +26,7 @@
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022#lesson-36462" > Programming Basics with C# </a>|<a href="https://softuni.bg/certificates/certificates/converttoimage/124946?code=05de23a3"> Link</a> |
-| <a href="https://softuni.bg/trainings/3729/programming-fundamentals-with-csharp-may-2022"> Technology Fundamentals with C# </a> |  <a href="https://softuni.bg/certificates/certificates/converttoimage/139421?code=cd07c914"> Link</a>  Link|
+| <a href="https://softuni.bg/trainings/3729/programming-fundamentals-with-csharp-may-2022"> Technology Fundamentals with C# </a> |  <a href="https://softuni.bg/certificates/certificates/converttoimage/139421?code=cd07c914"> Link</a>  |
 | <a href=""> C# Advanced </a>                                          | <!-- <a href=""> Link</a> --> Incoming|
 | <a href=""> C# OOP </a>                                               | <!-- <a href=""> Link</a> --> Incoming|
 | <a href=""> Databases Basics - MS SQL Server </a>                     | <!-- <a href=""> Link</a> --> Incoming|
