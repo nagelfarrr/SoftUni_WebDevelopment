@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\bin\Debug\net5.0\02.StackSum.exe
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\bin\Debug\net5.0\02.StackSum.deps.json
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\bin\Debug\net5.0\02.StackSum.runtimeconfig.json
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\bin\Debug\net5.0\02.StackSum.runtimeconfig.dev.json
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\bin\Debug\net5.0\02.StackSum.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\bin\Debug\net5.0\02.StackSum.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\02.StackSum.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\02.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\02.StackSum.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\02.StackSum.AssemblyInfo.cs
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\02.StackSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\02.StackSum.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\refint\02.StackSum.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\02.StackSum.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\02.StackSum.genruntimeconfig.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\02.StackSum\obj\Debug\net5.0\ref\02.StackSum.dll

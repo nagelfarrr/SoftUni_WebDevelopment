@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\net5.0\03.SimpleCalculator.exe
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\net5.0\03.SimpleCalculator.deps.json
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\net5.0\03.SimpleCalculator.runtimeconfig.json
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\net5.0\03.SimpleCalculator.runtimeconfig.dev.json
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\net5.0\03.SimpleCalculator.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\net5.0\03.SimpleCalculator.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\03.SimpleCalculator.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\03.SimpleCalculator.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\03.SimpleCalculator.AssemblyInfo.cs
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\03.SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\03.SimpleCalculator.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\refint\03.SimpleCalculator.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\03.SimpleCalculator.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\03.SimpleCalculator.genruntimeconfig.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\net5.0\ref\03.SimpleCalculator.dll

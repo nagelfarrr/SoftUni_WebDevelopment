@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\bin\Debug\net5.0\01.ReverseAString.exe
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\bin\Debug\net5.0\01.ReverseAString.deps.json
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\bin\Debug\net5.0\01.ReverseAString.runtimeconfig.json
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\bin\Debug\net5.0\01.ReverseAString.runtimeconfig.dev.json
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\bin\Debug\net5.0\01.ReverseAString.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\bin\Debug\net5.0\01.ReverseAString.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\01.ReverseAString.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\01.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\01.ReverseAString.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\01.ReverseAString.AssemblyInfo.cs
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\01.ReverseAString.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\01.ReverseAString.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\refint\01.ReverseAString.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\01.ReverseAString.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\01.ReverseAString.genruntimeconfig.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\01.ReverseAString\obj\Debug\net5.0\ref\01.ReverseAString.dll
