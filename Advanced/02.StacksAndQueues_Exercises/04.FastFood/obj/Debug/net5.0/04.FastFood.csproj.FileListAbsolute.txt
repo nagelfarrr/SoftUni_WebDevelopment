@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\bin\Debug\net5.0\04.FastFood.exe
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\bin\Debug\net5.0\04.FastFood.deps.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\bin\Debug\net5.0\04.FastFood.runtimeconfig.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\bin\Debug\net5.0\04.FastFood.runtimeconfig.dev.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\bin\Debug\net5.0\04.FastFood.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\bin\Debug\net5.0\04.FastFood.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\04.FastFood.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\04.FastFood.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\04.FastFood.AssemblyInfo.cs
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\04.FastFood.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\04.FastFood.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\refint\04.FastFood.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\04.FastFood.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\04.FastFood.genruntimeconfig.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\04.FastFood\obj\Debug\net5.0\ref\04.FastFood.dll

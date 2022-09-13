@@ -5,6 +5,12 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BasicStackOperations", "01.BasicStackOperations\01.BasicStackOperations.csproj", "{3E74E272-BD4A-4666-AEDD-DE5F6AA81049}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BasicQueueOperations", "02.BasicQueueOperations\02.BasicQueueOperations.csproj", "{0A8B03E5-1774-4E05-9BDD-8B67A40682FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MaximumAndMinimumElement", "03.MaximumAndMinimumElement\03.MaximumAndMinimumElement.csproj", "{B888B06C-72EB-466E-98F0-855496F24DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FastFood", "04.FastFood\04.FastFood.csproj", "{F2AE6054-2809-43FD-AB01-38055350A42C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{3E74E272-BD4A-4666-AEDD-DE5F6AA81049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E74E272-BD4A-4666-AEDD-DE5F6AA81049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E74E272-BD4A-4666-AEDD-DE5F6AA81049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8B03E5-1774-4E05-9BDD-8B67A40682FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8B03E5-1774-4E05-9BDD-8B67A40682FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8B03E5-1774-4E05-9BDD-8B67A40682FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8B03E5-1774-4E05-9BDD-8B67A40682FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B888B06C-72EB-466E-98F0-855496F24DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B888B06C-72EB-466E-98F0-855496F24DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B888B06C-72EB-466E-98F0-855496F24DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B888B06C-72EB-466E-98F0-855496F24DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AE6054-2809-43FD-AB01-38055350A42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AE6054-2809-43FD-AB01-38055350A42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AE6054-2809-43FD-AB01-38055350A42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AE6054-2809-43FD-AB01-38055350A42C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

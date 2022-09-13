@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.exe
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.deps.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.runtimeconfig.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.runtimeconfig.dev.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.AssemblyInfo.cs
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\refint\02.BasicQueueOperations.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.genruntimeconfig.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\net5.0\ref\02.BasicQueueOperations.dll
