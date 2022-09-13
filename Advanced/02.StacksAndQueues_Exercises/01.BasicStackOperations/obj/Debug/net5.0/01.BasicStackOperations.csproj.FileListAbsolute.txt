@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.exe
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.deps.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.runtimeconfig.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.runtimeconfig.dev.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.AssemblyInfo.cs
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\refint\01.BasicStackOperations.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.genruntimeconfig.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\01.BasicStackOperations\obj\Debug\net5.0\ref\01.BasicStackOperations.dll
