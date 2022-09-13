@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\net5.0\05.PrintEvenNumbers.exe
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\net5.0\05.PrintEvenNumbers.deps.json
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\net5.0\05.PrintEvenNumbers.runtimeconfig.json
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\net5.0\05.PrintEvenNumbers.runtimeconfig.dev.json
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\net5.0\05.PrintEvenNumbers.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\net5.0\05.PrintEvenNumbers.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\05.PrintEvenNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\05.PrintEvenNumbers.AssemblyInfo.cs
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\05.PrintEvenNumbers.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\refint\05.PrintEvenNumbers.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\05.PrintEvenNumbers.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\05.PrintEvenNumbers.genruntimeconfig.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\net5.0\ref\05.PrintEvenNumbers.dll

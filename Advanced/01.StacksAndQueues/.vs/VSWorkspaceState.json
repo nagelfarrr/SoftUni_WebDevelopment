@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02.StackSum",
+    "\\03.SimpleCalculator",
+    "\\04.MatchingBrackets",
+    "\\07.HotPotato"
   ],
-  "SelectedNode": "\\StacksAndQueues.sln",
+  "SelectedNode": "\\07.HotPotato\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

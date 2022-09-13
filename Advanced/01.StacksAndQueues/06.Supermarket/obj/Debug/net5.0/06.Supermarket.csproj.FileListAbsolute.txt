@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\bin\Debug\net5.0\06.Supermarket.exe
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\bin\Debug\net5.0\06.Supermarket.deps.json
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\bin\Debug\net5.0\06.Supermarket.runtimeconfig.json
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\bin\Debug\net5.0\06.Supermarket.runtimeconfig.dev.json
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\bin\Debug\net5.0\06.Supermarket.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\bin\Debug\net5.0\06.Supermarket.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\06.Supermarket.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\06.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\06.Supermarket.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\06.Supermarket.AssemblyInfo.cs
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\06.Supermarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\06.Supermarket.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\refint\06.Supermarket.dll
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\06.Supermarket.pdb
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\06.Supermarket.genruntimeconfig.cache
+D:\SoftUni\Advanced\01.StacksAndQueues\06.Supermarket\obj\Debug\net5.0\ref\06.Supermarket.dll
