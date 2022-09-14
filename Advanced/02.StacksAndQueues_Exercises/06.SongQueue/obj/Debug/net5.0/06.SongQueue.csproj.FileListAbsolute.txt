@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\bin\Debug\net5.0\06.SongQueue.exe
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\bin\Debug\net5.0\06.SongQueue.deps.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\bin\Debug\net5.0\06.SongQueue.runtimeconfig.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\bin\Debug\net5.0\06.SongQueue.runtimeconfig.dev.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\bin\Debug\net5.0\06.SongQueue.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\bin\Debug\net5.0\06.SongQueue.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\06.SongQueue.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\06.SongQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\06.SongQueue.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\06.SongQueue.AssemblyInfo.cs
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\06.SongQueue.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\06.SongQueue.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\refint\06.SongQueue.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\06.SongQueue.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\06.SongQueue.genruntimeconfig.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\06.SongQueue\obj\Debug\net5.0\ref\06.SongQueue.dll
