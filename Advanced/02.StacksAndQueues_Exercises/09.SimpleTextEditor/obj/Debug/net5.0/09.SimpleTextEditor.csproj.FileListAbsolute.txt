@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.exe
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.deps.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.runtimeconfig.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.runtimeconfig.dev.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.AssemblyInfo.cs
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\refint\09.SimpleTextEditor.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.genruntimeconfig.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\09.SimpleTextEditor\obj\Debug\net5.0\ref\09.SimpleTextEditor.dll
