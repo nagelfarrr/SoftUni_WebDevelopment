@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\bin\Debug\net5.0\12.CupsAndBottles.exe
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\bin\Debug\net5.0\12.CupsAndBottles.deps.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\bin\Debug\net5.0\12.CupsAndBottles.runtimeconfig.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\bin\Debug\net5.0\12.CupsAndBottles.runtimeconfig.dev.json
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\bin\Debug\net5.0\12.CupsAndBottles.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\bin\Debug\net5.0\12.CupsAndBottles.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\12.CupsAndBottles.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\12.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\12.CupsAndBottles.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\12.CupsAndBottles.AssemblyInfo.cs
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\12.CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\12.CupsAndBottles.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\refint\12.CupsAndBottles.dll
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\12.CupsAndBottles.pdb
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\12.CupsAndBottles.genruntimeconfig.cache
+D:\SoftUni\Advanced\02.StacksAndQueues_Exercises\12.CupsAndBottles\obj\Debug\net5.0\ref\12.CupsAndBottles.dll
