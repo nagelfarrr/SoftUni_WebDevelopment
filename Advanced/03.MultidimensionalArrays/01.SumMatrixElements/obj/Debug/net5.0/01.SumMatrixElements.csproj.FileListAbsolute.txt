@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\net5.0\01.SumMatrixElements.exe
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\net5.0\01.SumMatrixElements.deps.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\net5.0\01.SumMatrixElements.runtimeconfig.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\net5.0\01.SumMatrixElements.runtimeconfig.dev.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\net5.0\01.SumMatrixElements.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\net5.0\01.SumMatrixElements.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\01.SumMatrixElements.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\01.SumMatrixElements.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\01.SumMatrixElements.AssemblyInfo.cs
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\01.SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\01.SumMatrixElements.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\refint\01.SumMatrixElements.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\01.SumMatrixElements.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\01.SumMatrixElements.genruntimeconfig.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\net5.0\ref\01.SumMatrixElements.dll

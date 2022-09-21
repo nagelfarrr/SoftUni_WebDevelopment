@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\bin\Debug\net5.0\04.SymbolinMatrix.exe
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\bin\Debug\net5.0\04.SymbolinMatrix.deps.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\bin\Debug\net5.0\04.SymbolinMatrix.runtimeconfig.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\bin\Debug\net5.0\04.SymbolinMatrix.runtimeconfig.dev.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\bin\Debug\net5.0\04.SymbolinMatrix.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\bin\Debug\net5.0\04.SymbolinMatrix.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\04.SymbolinMatrix.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\04.SymbolinMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\04.SymbolinMatrix.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\04.SymbolinMatrix.AssemblyInfo.cs
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\04.SymbolinMatrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\04.SymbolinMatrix.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\refint\04.SymbolinMatrix.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\04.SymbolinMatrix.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\04.SymbolinMatrix.genruntimeconfig.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\04.SymbolinMatrix\obj\Debug\net5.0\ref\04.SymbolinMatrix.dll

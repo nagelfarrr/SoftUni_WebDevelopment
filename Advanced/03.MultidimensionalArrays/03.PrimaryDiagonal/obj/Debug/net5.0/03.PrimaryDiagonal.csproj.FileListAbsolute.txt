@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.exe
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.deps.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.runtimeconfig.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.runtimeconfig.dev.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.AssemblyInfo.cs
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\refint\03.PrimaryDiagonal.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.genruntimeconfig.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\net5.0\ref\03.PrimaryDiagonal.dll
