@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\bin\Debug\net5.0\07.PascalTriangle.exe
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\bin\Debug\net5.0\07.PascalTriangle.deps.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\bin\Debug\net5.0\07.PascalTriangle.runtimeconfig.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\bin\Debug\net5.0\07.PascalTriangle.runtimeconfig.dev.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\bin\Debug\net5.0\07.PascalTriangle.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\bin\Debug\net5.0\07.PascalTriangle.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\07.PascalTriangle.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\07.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\07.PascalTriangle.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\07.PascalTriangle.AssemblyInfo.cs
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\07.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\07.PascalTriangle.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\refint\07.PascalTriangle.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\07.PascalTriangle.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\07.PascalTriangle.genruntimeconfig.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\07.PascalTriangle\obj\Debug\net5.0\ref\07.PascalTriangle.dll

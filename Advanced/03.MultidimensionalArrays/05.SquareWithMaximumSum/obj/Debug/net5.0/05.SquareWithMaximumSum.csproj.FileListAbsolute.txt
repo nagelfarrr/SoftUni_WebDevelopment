@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.exe
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.deps.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.runtimeconfig.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.runtimeconfig.dev.json
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.AssemblyInfo.cs
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\refint\05.SquareWithMaximumSum.dll
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.pdb
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.genruntimeconfig.cache
+D:\SoftUni\Advanced\03.MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\net5.0\ref\05.SquareWithMaximumSum.dll
