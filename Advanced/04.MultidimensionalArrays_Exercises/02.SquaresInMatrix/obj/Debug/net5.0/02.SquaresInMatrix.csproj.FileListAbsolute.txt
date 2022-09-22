@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\bin\Debug\net5.0\02.SquaresInMatrix.exe
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\bin\Debug\net5.0\02.SquaresInMatrix.deps.json
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\bin\Debug\net5.0\02.SquaresInMatrix.runtimeconfig.json
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\bin\Debug\net5.0\02.SquaresInMatrix.runtimeconfig.dev.json
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\bin\Debug\net5.0\02.SquaresInMatrix.dll
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\bin\Debug\net5.0\02.SquaresInMatrix.pdb
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\02.SquaresInMatrix.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\02.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\02.SquaresInMatrix.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\02.SquaresInMatrix.AssemblyInfo.cs
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\02.SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\02.SquaresInMatrix.dll
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\refint\02.SquaresInMatrix.dll
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\02.SquaresInMatrix.pdb
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\02.SquaresInMatrix.genruntimeconfig.cache
+D:\SoftUni\Advanced\04.MultidimensionalArrays_Exercises\02.SquaresInMatrix\obj\Debug\net5.0\ref\02.SquaresInMatrix.dll
