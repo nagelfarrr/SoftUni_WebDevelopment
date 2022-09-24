@@ -7,13 +7,13 @@ namespace _02.SquaresInMatrix
     {
         static void Main(string[] args)
         {
-            int[] dimensions = Console.ReadLine().Split().Select(n => int.Parse(n)).ToArray();
+            int[] dimensions = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(n => int.Parse(n)).ToArray();
 
             char[,] matrix = new char[dimensions[0], dimensions[1]];
 
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
-                char[] rowData = Console.ReadLine().Split().Select(c => char.Parse(c)).ToArray();
+                char[] rowData = Console.ReadLine().Split(' ',StringSplitOptions.RemoveEmptyEntries).Select(c => char.Parse(c)).ToArray();
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
                     matrix[row, col] = rowData[col];
