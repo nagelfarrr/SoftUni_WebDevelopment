@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\bin\Debug\net5.0\05.CitiesByContinentAndCountry.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\bin\Debug\net5.0\05.CitiesByContinentAndCountry.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\bin\Debug\net5.0\05.CitiesByContinentAndCountry.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\bin\Debug\net5.0\05.CitiesByContinentAndCountry.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\bin\Debug\net5.0\05.CitiesByContinentAndCountry.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\bin\Debug\net5.0\05.CitiesByContinentAndCountry.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\05.CitiesByContinentAndCountry.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\05.CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\05.CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\05.CitiesByContinentAndCountry.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\05.CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\05.CitiesByContinentAndCountry.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\refint\05.CitiesByContinentAndCountry.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\05.CitiesByContinentAndCountry.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\05.CitiesByContinentAndCountry.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\05.CitiesByContinentAndCountry\obj\Debug\net5.0\ref\05.CitiesByContinentAndCountry.dll

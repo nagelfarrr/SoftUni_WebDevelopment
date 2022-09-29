@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net5.0\02.AverageStudentGrades.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net5.0\02.AverageStudentGrades.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net5.0\02.AverageStudentGrades.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net5.0\02.AverageStudentGrades.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net5.0\02.AverageStudentGrades.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net5.0\02.AverageStudentGrades.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\02.AverageStudentGrades.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\02.AverageStudentGrades.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\02.AverageStudentGrades.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\02.AverageStudentGrades.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\refint\02.AverageStudentGrades.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\02.AverageStudentGrades.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\02.AverageStudentGrades.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net5.0\ref\02.AverageStudentGrades.dll

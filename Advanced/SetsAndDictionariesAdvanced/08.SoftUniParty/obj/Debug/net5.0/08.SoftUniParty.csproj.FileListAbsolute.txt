@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\refint\08.SoftUniParty.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net5.0\ref\08.SoftUniParty.dll

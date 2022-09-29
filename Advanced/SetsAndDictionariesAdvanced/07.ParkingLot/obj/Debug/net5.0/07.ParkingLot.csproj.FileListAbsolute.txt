@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\bin\Debug\net5.0\07.ParkingLot.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\bin\Debug\net5.0\07.ParkingLot.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\bin\Debug\net5.0\07.ParkingLot.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\bin\Debug\net5.0\07.ParkingLot.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\bin\Debug\net5.0\07.ParkingLot.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\bin\Debug\net5.0\07.ParkingLot.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\07.ParkingLot.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\07.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\07.ParkingLot.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\07.ParkingLot.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\07.ParkingLot.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\07.ParkingLot.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\refint\07.ParkingLot.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\07.ParkingLot.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\07.ParkingLot.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\07.ParkingLot\obj\Debug\net5.0\ref\07.ParkingLot.dll

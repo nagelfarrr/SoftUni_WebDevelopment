@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\refint\01.CountSameValuesInArray.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\net5.0\ref\01.CountSameValuesInArray.dll

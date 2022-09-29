@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\refint\03.Largest3Numbers.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net5.0\ref\03.Largest3Numbers.dll

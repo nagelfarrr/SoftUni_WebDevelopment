@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\refint\06.RecordUniqueNames.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced\06.RecordUniqueNames\obj\Debug\net5.0\ref\06.RecordUniqueNames.dll
