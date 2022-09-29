@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\refint\06.Wardrobe.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\06.Wardrobe\obj\Debug\net5.0\ref\06.Wardrobe.dll

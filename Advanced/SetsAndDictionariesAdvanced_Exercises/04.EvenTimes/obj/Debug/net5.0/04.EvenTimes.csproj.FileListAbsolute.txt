@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\bin\Debug\net5.0\04.EvenTimes.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\bin\Debug\net5.0\04.EvenTimes.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\bin\Debug\net5.0\04.EvenTimes.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\bin\Debug\net5.0\04.EvenTimes.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\bin\Debug\net5.0\04.EvenTimes.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\bin\Debug\net5.0\04.EvenTimes.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\04.EvenTimes.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\04.EvenTimes.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\04.EvenTimes.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\04.EvenTimes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\04.EvenTimes.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\refint\04.EvenTimes.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\04.EvenTimes.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\04.EvenTimes.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\04.EvenTimes\obj\Debug\net5.0\ref\04.EvenTimes.dll

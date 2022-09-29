@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\bin\Debug\net5.0\01.UniqueUsernames.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\bin\Debug\net5.0\01.UniqueUsernames.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\bin\Debug\net5.0\01.UniqueUsernames.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\bin\Debug\net5.0\01.UniqueUsernames.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\bin\Debug\net5.0\01.UniqueUsernames.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\bin\Debug\net5.0\01.UniqueUsernames.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\01.UniqueUsernames.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\01.UniqueUsernames.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\01.UniqueUsernames.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\01.UniqueUsernames.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\refint\01.UniqueUsernames.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\01.UniqueUsernames.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\01.UniqueUsernames.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\01.UniqueUsernames\obj\Debug\net5.0\ref\01.UniqueUsernames.dll

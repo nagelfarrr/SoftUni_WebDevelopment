@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\refint\05.CountSymbols.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\05.CountSymbols\obj\Debug\net5.0\ref\05.CountSymbols.dll

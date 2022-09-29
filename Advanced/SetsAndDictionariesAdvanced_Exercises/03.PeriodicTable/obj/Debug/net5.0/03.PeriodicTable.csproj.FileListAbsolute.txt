@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\refint\03.PeriodicTable.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\03.PeriodicTable\obj\Debug\net5.0\ref\03.PeriodicTable.dll

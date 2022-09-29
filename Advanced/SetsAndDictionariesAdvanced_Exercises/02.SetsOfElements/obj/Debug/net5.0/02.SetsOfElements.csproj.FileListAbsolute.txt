@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\bin\Debug\net5.0\02.SetsOfElements.exe
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\bin\Debug\net5.0\02.SetsOfElements.deps.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\bin\Debug\net5.0\02.SetsOfElements.runtimeconfig.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\bin\Debug\net5.0\02.SetsOfElements.runtimeconfig.dev.json
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\bin\Debug\net5.0\02.SetsOfElements.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\bin\Debug\net5.0\02.SetsOfElements.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\02.SetsOfElements.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\02.SetsOfElements.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\02.SetsOfElements.AssemblyInfo.cs
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\02.SetsOfElements.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\02.SetsOfElements.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\refint\02.SetsOfElements.dll
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\02.SetsOfElements.pdb
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\02.SetsOfElements.genruntimeconfig.cache
+D:\SoftUni\Advanced\SetsAndDictionariesAdvanced_Exercises\02.SetsOfElements\obj\Debug\net5.0\ref\02.SetsOfElements.dll
