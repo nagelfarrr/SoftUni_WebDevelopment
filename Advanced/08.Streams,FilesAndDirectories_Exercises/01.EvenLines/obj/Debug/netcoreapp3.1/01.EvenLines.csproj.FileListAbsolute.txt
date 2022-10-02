@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.exe
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.deps.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.runtimeconfig.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.runtimeconfig.dev.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.dll
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.pdb
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.AssemblyInfo.cs
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.dll
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.pdb
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aqn5cip+g4BSf74EJ+3rmvN6J5gYKCWbQ1kpd+lj4MTcNRfiZES3HrZxKRDhTiyHG1mmqXiE5RX+jpJZyVaEOw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\08.Streams,FilesAndDirectories_Exercises\\05.CopyDirectory\\05.CopyDirectory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

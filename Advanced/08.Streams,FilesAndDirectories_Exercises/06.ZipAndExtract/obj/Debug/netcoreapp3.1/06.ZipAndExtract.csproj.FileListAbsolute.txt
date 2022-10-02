@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.exe
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.deps.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.runtimeconfig.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.runtimeconfig.dev.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.dll
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.pdb
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.AssemblyInfo.cs
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.dll
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.pdb
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.genruntimeconfig.cache

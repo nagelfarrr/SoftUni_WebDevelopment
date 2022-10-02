@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8nSwgGDODyUPUEEiFs+2VuSztzgFq2C2oMse+sKPzykU9mu4yG8cNWOans1iVtwLoS7saebirxtVCA8byRaKfw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\08.Streams,FilesAndDirectories_Exercises\\03.CopyBinayFile\\03.CopyBinayFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

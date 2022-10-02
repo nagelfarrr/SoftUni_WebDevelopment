@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Vl13AYQd75Zr1mNrGb5EahQjL7r2lWrc1xKZIo4XT3TzD0nfX/NRLMS0pQskWqOf+zNf5K1TLSdnfYzsr30sA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\08.Streams,FilesAndDirectories_Exercises\\04.DirectoryTraversal\\04.DirectoryTraversal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\bin\Debug\netcoreapp3.1\03.CopyBinayFile.exe
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\bin\Debug\netcoreapp3.1\03.CopyBinayFile.deps.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\bin\Debug\netcoreapp3.1\03.CopyBinayFile.runtimeconfig.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\bin\Debug\netcoreapp3.1\03.CopyBinayFile.runtimeconfig.dev.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\bin\Debug\netcoreapp3.1\03.CopyBinayFile.dll
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\bin\Debug\netcoreapp3.1\03.CopyBinayFile.pdb
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\obj\Debug\netcoreapp3.1\03.CopyBinayFile.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\obj\Debug\netcoreapp3.1\03.CopyBinayFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\obj\Debug\netcoreapp3.1\03.CopyBinayFile.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\obj\Debug\netcoreapp3.1\03.CopyBinayFile.AssemblyInfo.cs
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\obj\Debug\netcoreapp3.1\03.CopyBinayFile.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\obj\Debug\netcoreapp3.1\03.CopyBinayFile.dll
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\obj\Debug\netcoreapp3.1\03.CopyBinayFile.pdb
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\03.CopyBinayFile\obj\Debug\netcoreapp3.1\03.CopyBinayFile.genruntimeconfig.cache

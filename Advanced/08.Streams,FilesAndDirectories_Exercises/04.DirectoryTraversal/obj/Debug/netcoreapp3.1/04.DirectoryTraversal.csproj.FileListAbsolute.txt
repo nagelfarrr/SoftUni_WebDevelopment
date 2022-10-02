@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\obj\Debug\netcoreapp3.1\04.DirectoryTraversal.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\obj\Debug\netcoreapp3.1\04.DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\obj\Debug\netcoreapp3.1\04.DirectoryTraversal.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\obj\Debug\netcoreapp3.1\04.DirectoryTraversal.AssemblyInfo.cs
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\obj\Debug\netcoreapp3.1\04.DirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\bin\Debug\netcoreapp3.1\04.DirectoryTraversal.exe
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\bin\Debug\netcoreapp3.1\04.DirectoryTraversal.deps.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\bin\Debug\netcoreapp3.1\04.DirectoryTraversal.runtimeconfig.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\bin\Debug\netcoreapp3.1\04.DirectoryTraversal.runtimeconfig.dev.json
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\bin\Debug\netcoreapp3.1\04.DirectoryTraversal.dll
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\bin\Debug\netcoreapp3.1\04.DirectoryTraversal.pdb
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\obj\Debug\netcoreapp3.1\04.DirectoryTraversal.dll
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\obj\Debug\netcoreapp3.1\04.DirectoryTraversal.pdb
+D:\SoftUni\Advanced\08.Streams,FilesAndDirectories_Exercises\04.DirectoryTraversal\obj\Debug\netcoreapp3.1\04.DirectoryTraversal.genruntimeconfig.cache
