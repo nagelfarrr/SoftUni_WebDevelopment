@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\bin\Debug\net5.0\01.OddLines.exe
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\bin\Debug\net5.0\01.OddLines.deps.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\bin\Debug\net5.0\01.OddLines.runtimeconfig.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\bin\Debug\net5.0\01.OddLines.runtimeconfig.dev.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\bin\Debug\net5.0\01.OddLines.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\bin\Debug\net5.0\01.OddLines.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\01.OddLines.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\01.OddLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\01.OddLines.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\01.OddLines.AssemblyInfo.cs
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\01.OddLines.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\01.OddLines.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\refint\01.OddLines.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\01.OddLines.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\01.OddLines.genruntimeconfig.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\01.OddLines\obj\Debug\net5.0\ref\01.OddLines.dll

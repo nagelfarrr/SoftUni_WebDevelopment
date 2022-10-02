@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\bin\Debug\net5.0\05.ExtractSpecialBytes.exe
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\bin\Debug\net5.0\05.ExtractSpecialBytes.deps.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\bin\Debug\net5.0\05.ExtractSpecialBytes.runtimeconfig.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\bin\Debug\net5.0\05.ExtractSpecialBytes.runtimeconfig.dev.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\bin\Debug\net5.0\05.ExtractSpecialBytes.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\bin\Debug\net5.0\05.ExtractSpecialBytes.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\05.ExtractSpecialBytes.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\05.ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\05.ExtractSpecialBytes.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\05.ExtractSpecialBytes.AssemblyInfo.cs
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\05.ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\05.ExtractSpecialBytes.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\refint\05.ExtractSpecialBytes.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\05.ExtractSpecialBytes.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\05.ExtractSpecialBytes.genruntimeconfig.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\05.ExtractSpecialBytes\obj\Debug\net5.0\ref\05.ExtractSpecialBytes.dll

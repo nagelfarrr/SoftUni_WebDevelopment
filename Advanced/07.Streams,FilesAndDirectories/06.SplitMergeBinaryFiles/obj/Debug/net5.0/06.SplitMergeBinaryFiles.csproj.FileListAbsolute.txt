@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net5.0\06.SplitMergeBinaryFiles.exe
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net5.0\06.SplitMergeBinaryFiles.deps.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net5.0\06.SplitMergeBinaryFiles.runtimeconfig.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net5.0\06.SplitMergeBinaryFiles.runtimeconfig.dev.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net5.0\06.SplitMergeBinaryFiles.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net5.0\06.SplitMergeBinaryFiles.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\06.SplitMergeBinaryFiles.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\06.SplitMergeBinaryFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\06.SplitMergeBinaryFiles.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\06.SplitMergeBinaryFiles.AssemblyInfo.cs
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\06.SplitMergeBinaryFiles.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\06.SplitMergeBinaryFiles.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\refint\06.SplitMergeBinaryFiles.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\06.SplitMergeBinaryFiles.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\06.SplitMergeBinaryFiles.genruntimeconfig.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net5.0\ref\06.SplitMergeBinaryFiles.dll

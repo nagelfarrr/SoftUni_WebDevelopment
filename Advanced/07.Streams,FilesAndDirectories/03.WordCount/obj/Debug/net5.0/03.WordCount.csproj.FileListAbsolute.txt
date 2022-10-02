@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\bin\Debug\net5.0\03.WordCount.exe
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\bin\Debug\net5.0\03.WordCount.deps.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\bin\Debug\net5.0\03.WordCount.runtimeconfig.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\bin\Debug\net5.0\03.WordCount.runtimeconfig.dev.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\bin\Debug\net5.0\03.WordCount.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\bin\Debug\net5.0\03.WordCount.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\03.WordCount.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\03.WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\03.WordCount.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\03.WordCount.AssemblyInfo.cs
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\03.WordCount.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\03.WordCount.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\refint\03.WordCount.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\03.WordCount.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\03.WordCount.genruntimeconfig.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\03.WordCount\obj\Debug\net5.0\ref\03.WordCount.dll

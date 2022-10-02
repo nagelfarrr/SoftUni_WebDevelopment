@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\bin\Debug\net5.0\04.MergeTextFiles.exe
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\bin\Debug\net5.0\04.MergeTextFiles.deps.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\bin\Debug\net5.0\04.MergeTextFiles.runtimeconfig.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\bin\Debug\net5.0\04.MergeTextFiles.runtimeconfig.dev.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\bin\Debug\net5.0\04.MergeTextFiles.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\bin\Debug\net5.0\04.MergeTextFiles.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\04.MergeTextFiles.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\04.MergeTextFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\04.MergeTextFiles.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\04.MergeTextFiles.AssemblyInfo.cs
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\04.MergeTextFiles.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\04.MergeTextFiles.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\refint\04.MergeTextFiles.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\04.MergeTextFiles.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\04.MergeTextFiles.genruntimeconfig.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\04.MergeTextFiles\obj\Debug\net5.0\ref\04.MergeTextFiles.dll

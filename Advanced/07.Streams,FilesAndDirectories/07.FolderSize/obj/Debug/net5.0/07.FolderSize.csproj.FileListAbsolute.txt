@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\bin\Debug\net5.0\07.FolderSize.exe
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\bin\Debug\net5.0\07.FolderSize.deps.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\bin\Debug\net5.0\07.FolderSize.runtimeconfig.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\bin\Debug\net5.0\07.FolderSize.runtimeconfig.dev.json
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\bin\Debug\net5.0\07.FolderSize.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\bin\Debug\net5.0\07.FolderSize.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\07.FolderSize.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\07.FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\07.FolderSize.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\07.FolderSize.AssemblyInfo.cs
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\07.FolderSize.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\07.FolderSize.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\refint\07.FolderSize.dll
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\07.FolderSize.pdb
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\07.FolderSize.genruntimeconfig.cache
+D:\SoftUni\Advanced\07.Streams,FilesAndDirectories\07.FolderSize\obj\Debug\net5.0\ref\07.FolderSize.dll
