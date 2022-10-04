@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.exe
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.deps.json
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.runtimeconfig.json
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.runtimeconfig.dev.json
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.dll
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.pdb
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.AssemblyInfo.cs
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.dll
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.pdb
+D:\SoftUni\Advanced\09.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.genruntimeconfig.cache

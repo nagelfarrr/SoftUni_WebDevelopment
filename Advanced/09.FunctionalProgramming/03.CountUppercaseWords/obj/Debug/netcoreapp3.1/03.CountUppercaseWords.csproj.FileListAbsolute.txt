@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.exe
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.deps.json
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.json
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.dev.json
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfo.cs
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+D:\SoftUni\Advanced\09.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.genruntimeconfig.cache

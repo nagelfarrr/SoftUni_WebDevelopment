@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ckc8u3lqDNG9SFV11+qDS55Qq6KY+UCgLWT8kfDBjINufikSNaA/Ug0WKwXz6vg8nAB7vlYh0lIWhLtTIrdD6Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\09.FunctionalProgramming\\01.SortEvenNumbers\\01.SortEvenNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
