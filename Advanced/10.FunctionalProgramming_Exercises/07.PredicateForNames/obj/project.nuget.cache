@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ocwCvOZEAU26u1IPrd0UnaRXLjkroeSEhc3sJw9KmgHod8g8F6Kp5xCuLpTzQQtom55+MaDGK5cvJ8KhcxK3Ig==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\10.FunctionalProgramming_Exercises\\07.PredicateForNames\\07.PredicateForNames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

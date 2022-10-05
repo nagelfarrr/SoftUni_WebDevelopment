@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQO6P9h/7mxuSxzjlDn2Nb98gbFMvRRfY2jzS8fJg8/wQC/se7ji+CjvKi/hnlMH1XGRnoioFleGB3fIAAdJWQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\10.FunctionalProgramming_Exercises\\01.ActionPoint\\01.ActionPoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

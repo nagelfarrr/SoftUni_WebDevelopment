@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.exe
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.deps.json
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.runtimeconfig.json
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.runtimeconfig.dev.json
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.dll
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.pdb
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.AssemblyInfo.cs
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.dll
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.pdb
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.genruntimeconfig.cache

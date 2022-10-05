@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.exe
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.deps.json
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.runtimeconfig.json
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.runtimeconfig.dev.json
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.dll
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.pdb
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.AssemblyInfo.cs
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.dll
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.pdb
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.genruntimeconfig.cache
