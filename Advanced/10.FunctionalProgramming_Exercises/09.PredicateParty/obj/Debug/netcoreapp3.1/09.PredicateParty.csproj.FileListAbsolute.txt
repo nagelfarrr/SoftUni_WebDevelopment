@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.exe
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.deps.json
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.runtimeconfig.json
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.runtimeconfig.dev.json
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.dll
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.pdb
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.AssemblyInfo.cs
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.dll
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.pdb
+D:\SoftUni\Advanced\10.FunctionalProgramming_Exercises\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.genruntimeconfig.cache

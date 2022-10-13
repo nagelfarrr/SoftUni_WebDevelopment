@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _07.PredicateForNames
 {
@@ -6,13 +7,13 @@ namespace _07.PredicateForNames
     {
         static void Main(string[] args)
         {
-            Predicate<string> length = (str, num) =>
-            {
-                str.Length <= num;
-            };
 
             int nameLength = int.Parse(Console.ReadLine());
             string[] names = Console.ReadLine().Split();
+
+            Predicate<string> len = str => str.Length <= nameLength;
+
+            Console.WriteLine(string.Join(Environment.NewLine,names.Where(str=>len(str))));
         }
     }
 }

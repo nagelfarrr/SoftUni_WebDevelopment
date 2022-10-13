@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yqN7xQxIIy3QHlRcy4n38nnLYpbAbm0k6OSXxlkze1mxbAYD5Vcq2WdJshFdr83qNBjchk+Gb5tIyD480E602Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\11.DefiningClasses\\CarManufacturer\\CarManufacturer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
