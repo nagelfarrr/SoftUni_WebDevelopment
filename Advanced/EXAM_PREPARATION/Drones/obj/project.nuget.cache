@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OcgQEBVGrCCaRR75+FbcigIYvhFVd2jnNXHttVkeaThCafqOtdj+mCLcIi+re/e3MDJPVRUxJzhFTctRLlxVyg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\Drones\\Drones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

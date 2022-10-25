@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yu7S+HlcNz/YRBE0oM0zaMaKT0MCh0sSeuLUhcM1dELozpxqfmeqX9+ACt8fVi7HVtpOu78tQ5RiOHUdb9+hTA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\FishingNet\\FishingNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache

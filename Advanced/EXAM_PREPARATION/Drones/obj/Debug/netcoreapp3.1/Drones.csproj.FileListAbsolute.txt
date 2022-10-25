@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\bin\Debug\netcoreapp3.1\Drones.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\bin\Debug\netcoreapp3.1\Drones.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\bin\Debug\netcoreapp3.1\Drones.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\bin\Debug\netcoreapp3.1\Drones.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\obj\Debug\netcoreapp3.1\Drones.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\obj\Debug\netcoreapp3.1\Drones.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\obj\Debug\netcoreapp3.1\Drones.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Drones\obj\Debug\netcoreapp3.1\Drones.genruntimeconfig.cache

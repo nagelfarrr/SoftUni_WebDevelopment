@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7QzT+G/23SRyEzdG5eGpM18RK/L9Gks1A9Ri+ub6K7VRPXwkwfe/QgArbSS38YC654F4tpimQij5Fz7UiqL0g==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\Renovators\\Renovators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

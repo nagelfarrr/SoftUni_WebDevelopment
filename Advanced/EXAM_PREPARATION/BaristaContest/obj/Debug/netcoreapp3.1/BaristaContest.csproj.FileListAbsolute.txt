@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.genruntimeconfig.cache

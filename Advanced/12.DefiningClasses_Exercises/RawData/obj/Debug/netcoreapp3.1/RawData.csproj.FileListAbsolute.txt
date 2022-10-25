@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\bin\Debug\netcoreapp3.1\RawData.exe
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\bin\Debug\netcoreapp3.1\RawData.deps.json
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\bin\Debug\netcoreapp3.1\RawData.dll
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\bin\Debug\netcoreapp3.1\RawData.pdb
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\obj\Debug\netcoreapp3.1\RawData.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\obj\Debug\netcoreapp3.1\RawData.dll
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\obj\Debug\netcoreapp3.1\RawData.pdb
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\RawData\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache

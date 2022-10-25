@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LX/BDPHsAjVmoeaUAfm1tkYv2XzgcYCPMLtf/JImkBIW6JUprJXLx6bZJ2g8OnC6hzrezH9/VjrKV/zheZr9fQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\Meal_Plan\\Meal_Plan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

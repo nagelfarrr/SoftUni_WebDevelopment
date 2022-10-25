@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.genruntimeconfig.cache

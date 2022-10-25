@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\01.Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+D:\SoftUni\OOP\01.Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+D:\SoftUni\OOP\01.Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+D:\SoftUni\OOP\01.Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+D:\SoftUni\OOP\01.Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+D:\SoftUni\OOP\01.Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+D:\SoftUni\OOP\01.Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\01.Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\01.Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\01.Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+D:\SoftUni\OOP\01.Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\01.Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+D:\SoftUni\OOP\01.Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+D:\SoftUni\OOP\01.Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

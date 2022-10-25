@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\SoftUni\Advanced\12.DefiningClasses_Exercises\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache

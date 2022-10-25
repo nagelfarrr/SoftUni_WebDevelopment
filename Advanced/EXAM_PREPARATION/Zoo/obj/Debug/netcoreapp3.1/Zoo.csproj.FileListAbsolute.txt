@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache

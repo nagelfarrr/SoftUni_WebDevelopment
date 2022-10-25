@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.genruntimeconfig.cache

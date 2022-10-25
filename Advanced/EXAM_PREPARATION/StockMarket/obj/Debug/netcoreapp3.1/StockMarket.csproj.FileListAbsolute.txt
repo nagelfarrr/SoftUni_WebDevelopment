@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

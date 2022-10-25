@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLbEbfG0J2Bmu/6RFLADaGjsrJLZ5SfHa06TOE1Rdq+Yy51w0WjqATx8Vqb3WB9Pa9rb9QTsaMCqnCTVNkglkQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\BakeryShop\\BakeryShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l/nt4dVUI3xdr5OHoa/uWsN2/XDcqYS7xL5pJEeaOss5txujVno2L8WUdWdElfi4jgfZpp6eS6q5C1SBibyaFw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\BaristaContest\\BaristaContest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

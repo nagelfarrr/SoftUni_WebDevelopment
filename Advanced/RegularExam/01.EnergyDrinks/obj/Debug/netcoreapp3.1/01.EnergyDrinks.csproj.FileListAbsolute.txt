@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\bin\Debug\netcoreapp3.1\01.EnergyDrinks.exe
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\bin\Debug\netcoreapp3.1\01.EnergyDrinks.deps.json
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\bin\Debug\netcoreapp3.1\01.EnergyDrinks.runtimeconfig.json
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\bin\Debug\netcoreapp3.1\01.EnergyDrinks.runtimeconfig.dev.json
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\bin\Debug\netcoreapp3.1\01.EnergyDrinks.dll
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\bin\Debug\netcoreapp3.1\01.EnergyDrinks.pdb
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\obj\Debug\netcoreapp3.1\01.EnergyDrinks.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\obj\Debug\netcoreapp3.1\01.EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\obj\Debug\netcoreapp3.1\01.EnergyDrinks.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\obj\Debug\netcoreapp3.1\01.EnergyDrinks.AssemblyInfo.cs
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\obj\Debug\netcoreapp3.1\01.EnergyDrinks.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\obj\Debug\netcoreapp3.1\01.EnergyDrinks.dll
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\obj\Debug\netcoreapp3.1\01.EnergyDrinks.pdb
+D:\SoftUni\Advanced\RegularExam\01.EnergyDrinks\obj\Debug\netcoreapp3.1\01.EnergyDrinks.genruntimeconfig.cache

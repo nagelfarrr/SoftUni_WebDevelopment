@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\bin\Debug\netcoreapp3.1\Basketball.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\bin\Debug\netcoreapp3.1\Basketball.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\bin\Debug\netcoreapp3.1\Basketball.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\bin\Debug\netcoreapp3.1\Basketball.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\obj\Debug\netcoreapp3.1\Basketball.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\obj\Debug\netcoreapp3.1\Basketball.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\obj\Debug\netcoreapp3.1\Basketball.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\obj\Debug\netcoreapp3.1\Basketball.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\obj\Debug\netcoreapp3.1\Basketball.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Basketball\obj\Debug\netcoreapp3.1\Basketball.genruntimeconfig.cache

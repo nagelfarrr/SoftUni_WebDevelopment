@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbc7QjjRK6+NRvgSJPzzxSh2eBR305GRiHYIcTlt7LZCyss2Va+DZyyey17whoUO6tJy89ZeXv8D5LeBItUfpA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\Armory\\Armory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

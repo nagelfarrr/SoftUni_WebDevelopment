@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iefmn5LTxuBD4Zhg3XWGNFHfkfo3Ur/yDlCR8fgTHnRPp3wDlsnO21fo5kR8xtO8tAYgYG7JS9ZkGu7Zq2Lgiw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\12.DefiningClasses_Exercises\\RawData\\RawData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

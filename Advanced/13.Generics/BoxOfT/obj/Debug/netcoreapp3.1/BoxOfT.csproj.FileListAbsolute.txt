@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\13.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+D:\SoftUni\Advanced\13.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+D:\SoftUni\Advanced\13.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+D:\SoftUni\Advanced\13.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+D:\SoftUni\Advanced\13.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SoftUni\Advanced\13.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SoftUni\Advanced\13.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\13.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\13.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\13.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+D:\SoftUni\Advanced\13.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\13.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SoftUni\Advanced\13.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SoftUni\Advanced\13.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

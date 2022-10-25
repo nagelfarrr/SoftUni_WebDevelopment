@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "paPMMNvnLncQYE2orN8HH1VlHfC+bBHrLIu1jhAAHQX4Wp6kCDJKRphPfdPXcOshrDMf77TTCEkbIZhDXdOPig==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\13.Generics\\ArrayCreator\\GenericArrayCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

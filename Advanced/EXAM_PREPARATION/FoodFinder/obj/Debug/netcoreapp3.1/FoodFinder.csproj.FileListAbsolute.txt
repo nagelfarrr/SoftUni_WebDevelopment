@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.genruntimeconfig.cache

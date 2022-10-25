@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bI3SRezcOKs5pHEp3Sm6pivEqZOMpSKeHyIrH4e0l6K9+8/Ke+svcZh8cBGgQIwMoVkD1MsTxE0dpcCIdEMAnw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\Blacksmith\\Blacksmith.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

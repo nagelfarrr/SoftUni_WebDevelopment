@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\bin\Debug\netcoreapp3.1\Renovators.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\bin\Debug\netcoreapp3.1\Renovators.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\bin\Debug\netcoreapp3.1\Renovators.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\bin\Debug\netcoreapp3.1\Renovators.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\obj\Debug\netcoreapp3.1\Renovators.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\obj\Debug\netcoreapp3.1\Renovators.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\obj\Debug\netcoreapp3.1\Renovators.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Renovators\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache

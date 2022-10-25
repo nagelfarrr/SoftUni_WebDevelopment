@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.exe
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.deps.json
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.runtimeconfig.json
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.runtimeconfig.dev.json
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.dll
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.pdb
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.AssemblyInfo.cs
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.dll
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.pdb
+D:\SoftUni\Advanced\13.Generics\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.genruntimeconfig.cache

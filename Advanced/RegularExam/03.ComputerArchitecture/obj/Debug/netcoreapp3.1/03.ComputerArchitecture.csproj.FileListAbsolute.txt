@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\bin\Debug\netcoreapp3.1\03.ComputerArchitecture.exe
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\bin\Debug\netcoreapp3.1\03.ComputerArchitecture.deps.json
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\bin\Debug\netcoreapp3.1\03.ComputerArchitecture.runtimeconfig.json
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\bin\Debug\netcoreapp3.1\03.ComputerArchitecture.runtimeconfig.dev.json
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\bin\Debug\netcoreapp3.1\03.ComputerArchitecture.dll
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\bin\Debug\netcoreapp3.1\03.ComputerArchitecture.pdb
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\obj\Debug\netcoreapp3.1\03.ComputerArchitecture.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\obj\Debug\netcoreapp3.1\03.ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\obj\Debug\netcoreapp3.1\03.ComputerArchitecture.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\obj\Debug\netcoreapp3.1\03.ComputerArchitecture.AssemblyInfo.cs
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\obj\Debug\netcoreapp3.1\03.ComputerArchitecture.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\obj\Debug\netcoreapp3.1\03.ComputerArchitecture.dll
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\obj\Debug\netcoreapp3.1\03.ComputerArchitecture.pdb
+D:\SoftUni\Advanced\RegularExam\03.ComputerArchitecture\obj\Debug\netcoreapp3.1\03.ComputerArchitecture.genruntimeconfig.cache

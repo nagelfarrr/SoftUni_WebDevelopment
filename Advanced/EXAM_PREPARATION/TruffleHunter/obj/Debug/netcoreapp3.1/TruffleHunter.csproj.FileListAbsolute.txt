@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.genruntimeconfig.cache

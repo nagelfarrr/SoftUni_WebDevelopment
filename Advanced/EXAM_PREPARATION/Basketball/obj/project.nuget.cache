@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "70iHobOKzD5nMSQwP9W9NuypB5HX5wAnEB3jm21XMdSdZHv07NF1qwq/ansu8ytwqQGR7Y/zcUqSsJIwMSC9hg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\Basketball\\Basketball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

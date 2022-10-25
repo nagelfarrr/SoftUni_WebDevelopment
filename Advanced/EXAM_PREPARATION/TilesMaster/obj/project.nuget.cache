@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+QJgsjOnQJQ9VHBIFrgDBKAfkqcv5flfFRxDd48auEtUS2ZoW8/Z+oap2is8GRKaD3hV/fBeVqJoZBg2nARLw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\TilesMaster\\TilesMaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\bin\Debug\netcoreapp3.1\02.RallyRacing.exe
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\bin\Debug\netcoreapp3.1\02.RallyRacing.deps.json
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\bin\Debug\netcoreapp3.1\02.RallyRacing.runtimeconfig.json
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\bin\Debug\netcoreapp3.1\02.RallyRacing.runtimeconfig.dev.json
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\bin\Debug\netcoreapp3.1\02.RallyRacing.dll
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\bin\Debug\netcoreapp3.1\02.RallyRacing.pdb
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\obj\Debug\netcoreapp3.1\02.RallyRacing.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\obj\Debug\netcoreapp3.1\02.RallyRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\obj\Debug\netcoreapp3.1\02.RallyRacing.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\obj\Debug\netcoreapp3.1\02.RallyRacing.AssemblyInfo.cs
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\obj\Debug\netcoreapp3.1\02.RallyRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\obj\Debug\netcoreapp3.1\02.RallyRacing.dll
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\obj\Debug\netcoreapp3.1\02.RallyRacing.pdb
+D:\SoftUni\Advanced\RegularExam\02.RallyRacing\obj\Debug\netcoreapp3.1\02.RallyRacing.genruntimeconfig.cache

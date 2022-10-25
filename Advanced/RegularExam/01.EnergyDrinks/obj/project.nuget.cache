@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NYJ2oNwgL/ns4skhiC8YVZgUS3ZmwFJugEvGrJyl7p1loKl0GFwTeSnCTa/wmZs+es6ZO+ed9bcwUdUKHlRFg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\RegularExam\\01.EnergyDrinks\\01.EnergyDrinks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

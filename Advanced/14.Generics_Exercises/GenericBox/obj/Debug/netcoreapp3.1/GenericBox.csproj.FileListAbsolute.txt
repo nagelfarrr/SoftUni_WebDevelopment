@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.exe
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.deps.json
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.runtimeconfig.json
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.runtimeconfig.dev.json
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.dll
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.pdb
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.AssemblyInfo.cs
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.dll
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.pdb
+D:\SoftUni\Advanced\14.Generics_Exercises\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.genruntimeconfig.cache

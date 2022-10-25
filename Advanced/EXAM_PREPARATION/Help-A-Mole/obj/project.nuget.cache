@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jw9ZUESz6oRVl49LC+kGjznmctem3AUZM10HUqeoCSg7IqCiMlpruVwhG7QZdiCJmx9UTFLzK7wn9zLS9ghpvw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\Help-A-Mole\\Help-A-Mole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

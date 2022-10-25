@@ -1,0 +1,14 @@
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\bin\Debug\netcoreapp3.1\Meal_Plan.exe
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\bin\Debug\netcoreapp3.1\Meal_Plan.deps.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\bin\Debug\netcoreapp3.1\Meal_Plan.runtimeconfig.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\bin\Debug\netcoreapp3.1\Meal_Plan.runtimeconfig.dev.json
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\bin\Debug\netcoreapp3.1\Meal_Plan.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\bin\Debug\netcoreapp3.1\Meal_Plan.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\obj\Debug\netcoreapp3.1\Meal_Plan.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\obj\Debug\netcoreapp3.1\Meal_Plan.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\obj\Debug\netcoreapp3.1\Meal_Plan.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\obj\Debug\netcoreapp3.1\Meal_Plan.AssemblyInfo.cs
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\obj\Debug\netcoreapp3.1\Meal_Plan.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\obj\Debug\netcoreapp3.1\Meal_Plan.dll
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\obj\Debug\netcoreapp3.1\Meal_Plan.pdb
+D:\SoftUni\Advanced\EXAM_PREPARATION\Meal_Plan\obj\Debug\netcoreapp3.1\Meal_Plan.genruntimeconfig.cache

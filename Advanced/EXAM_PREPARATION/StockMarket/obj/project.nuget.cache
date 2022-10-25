@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLMq6hIsrEoeMeVzwm6vgEbVEHVqGobJoWJSzRE4EFUEXOQyMJTBVLqz0pcwVFb4QIouxcrT1HP/rLfo2N9TWw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Advanced\\EXAM_PREPARATION\\StockMarket\\StockMarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
