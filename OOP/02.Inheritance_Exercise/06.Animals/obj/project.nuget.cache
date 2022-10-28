@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FOLxoHRKeQgtAUVNftsLKxVgNSItBTSiTjkp5UQMx9LOfySRTD1DfZQaNZo24usl/KsiMJnFm/FsS09WEq9xtA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\02.Inheritance_Exercise\\06.Animals\\Animals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\SoftUni\OOP\02.Inheritance_Exercise\03.PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache
