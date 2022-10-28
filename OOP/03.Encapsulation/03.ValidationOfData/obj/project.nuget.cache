@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "slfKerfYyrp83HoCLYnisduT1I1IXP+mb8OBoP/lKSkVRjUtBIys7kRkEJzz+fmc4sdngZG+0vnSfFitBcAEkA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\03.Encapsulation\\03.ValidationOfData\\03.ValidationOfData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

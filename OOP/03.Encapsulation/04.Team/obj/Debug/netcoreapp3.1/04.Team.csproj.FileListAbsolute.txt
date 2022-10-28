@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\03.Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.exe
+D:\SoftUni\OOP\03.Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.deps.json
+D:\SoftUni\OOP\03.Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.json
+D:\SoftUni\OOP\03.Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.dev.json
+D:\SoftUni\OOP\03.Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.dll
+D:\SoftUni\OOP\03.Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.pdb
+D:\SoftUni\OOP\03.Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\03.Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\03.Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\03.Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfo.cs
+D:\SoftUni\OOP\03.Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\03.Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.dll
+D:\SoftUni\OOP\03.Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.pdb
+D:\SoftUni\OOP\03.Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.genruntimeconfig.cache

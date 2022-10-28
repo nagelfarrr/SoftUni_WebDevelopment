@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VA9YLL2t8dfZK7Ma7W7Xzzy4hodNUSXQUSRYIh4a4rQDgIjnVHrjyXPuXW3BvEw2R2ZGsTXMdqq9jk9H+WzOtw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\03.Encapsulation\\01.SortPersonsByNameAndAge\\01.SortPersonsByNameAndAge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

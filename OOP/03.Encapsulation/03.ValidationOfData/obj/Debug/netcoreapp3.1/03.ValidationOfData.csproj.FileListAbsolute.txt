@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.exe
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.deps.json
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.runtimeconfig.json
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.runtimeconfig.dev.json
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.dll
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.pdb
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.AssemblyInfo.cs
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.dll
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.pdb
+D:\SoftUni\OOP\03.Encapsulation\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.genruntimeconfig.cache
