@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+D:\SoftUni\OOP\04.Encapsulation_Exercises\02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache

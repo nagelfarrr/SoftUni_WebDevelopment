@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bB2YDAha3krw6LvnEsJEY7nngam+B8w5Z4pyVo4G4SfpbkqP20nW8BBr+sv7fTt/CNrjbM82GaodC0sCzi6IjQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\04.Encapsulation_Exercises\\05.FootballTeamGenerator\\05.FootballTeamGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
