@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.exe
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.deps.json
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.json
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.dev.json
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.dll
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.pdb
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfo.cs
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.dll
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.pdb
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\bin\Debug\netcoreapp3.1\02.Car.exe
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\bin\Debug\netcoreapp3.1\02.Car.deps.json
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\bin\Debug\netcoreapp3.1\02.Car.runtimeconfig.json
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\bin\Debug\netcoreapp3.1\02.Car.runtimeconfig.dev.json
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\bin\Debug\netcoreapp3.1\02.Car.dll
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\bin\Debug\netcoreapp3.1\02.Car.pdb
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\obj\Debug\netcoreapp3.1\02.Car.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\obj\Debug\netcoreapp3.1\02.Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\obj\Debug\netcoreapp3.1\02.Car.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\obj\Debug\netcoreapp3.1\02.Car.AssemblyInfo.cs
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\obj\Debug\netcoreapp3.1\02.Car.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\obj\Debug\netcoreapp3.1\02.Car.dll
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\obj\Debug\netcoreapp3.1\02.Car.pdb
+D:\SoftUni\OOP\05.InterfacesAndAbstraction\02.Car\obj\Debug\netcoreapp3.1\02.Car.genruntimeconfig.cache

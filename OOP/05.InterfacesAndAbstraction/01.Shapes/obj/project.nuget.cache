@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4rr+o5Q7iw2F/Di9j078MFJnetW1qsvb6tG5Kn4nY7roWVuP/+C53NIxpTGgmmbSgHbNKOS+/kuN556+9vCiEw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\05.InterfacesAndAbstraction\\01.Shapes\\01.Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
