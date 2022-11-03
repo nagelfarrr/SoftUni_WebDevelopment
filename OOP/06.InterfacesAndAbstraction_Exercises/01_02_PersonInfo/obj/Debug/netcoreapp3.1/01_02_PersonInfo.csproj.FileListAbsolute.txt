@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\bin\Debug\netcoreapp3.1\01_02_PersonInfo.exe
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\bin\Debug\netcoreapp3.1\01_02_PersonInfo.deps.json
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\bin\Debug\netcoreapp3.1\01_02_PersonInfo.runtimeconfig.json
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\bin\Debug\netcoreapp3.1\01_02_PersonInfo.runtimeconfig.dev.json
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\bin\Debug\netcoreapp3.1\01_02_PersonInfo.dll
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\bin\Debug\netcoreapp3.1\01_02_PersonInfo.pdb
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\obj\Debug\netcoreapp3.1\01_02_PersonInfo.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\obj\Debug\netcoreapp3.1\01_02_PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\obj\Debug\netcoreapp3.1\01_02_PersonInfo.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\obj\Debug\netcoreapp3.1\01_02_PersonInfo.AssemblyInfo.cs
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\obj\Debug\netcoreapp3.1\01_02_PersonInfo.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\obj\Debug\netcoreapp3.1\01_02_PersonInfo.dll
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\obj\Debug\netcoreapp3.1\01_02_PersonInfo.pdb
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\01_02_PersonInfo\obj\Debug\netcoreapp3.1\01_02_PersonInfo.genruntimeconfig.cache

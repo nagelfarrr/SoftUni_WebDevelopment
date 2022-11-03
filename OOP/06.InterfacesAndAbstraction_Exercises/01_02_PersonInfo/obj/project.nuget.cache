@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "my/C6HVFliqt9ynhqWtBHMbfhIgMinuaZ4PBodSBHBEbqMWstTQd2VqcZyT9W2dBj/eWjVhFwSq175N8A63qxA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\06.InterfacesAndAbstraction_Exercises\\01_02_PersonInfo\\01_02_PersonInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
