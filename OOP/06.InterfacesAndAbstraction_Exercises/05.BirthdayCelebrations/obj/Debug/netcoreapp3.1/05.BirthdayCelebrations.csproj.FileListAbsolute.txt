@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.exe
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.deps.json
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.json
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.dev.json
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfo.cs
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.genruntimeconfig.cache

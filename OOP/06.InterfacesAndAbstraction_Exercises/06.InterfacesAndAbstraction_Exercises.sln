@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_02_PersonInfo", "01_02_PersonInfo\01_02_PersonInfo.csproj", "{3174AA49-820E-4D06-A58A-F952A477F724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_02_PersonInfo", "01_02_PersonInfo\01_02_PersonInfo.csproj", "{3174AA49-820E-4D06-A58A-F952A477F724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{71D3E736-6BBE-4277-9E99-2F867EDE99CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{71D3E736-6BBE-4277-9E99-2F867EDE99CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BorderControl", "04.BorderControl\04.BorderControl.csproj", "{08C05EEB-CA51-4F82-B417-ED74E5CB653D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BirthdayCelebrations", "05.BirthdayCelebrations\05.BirthdayCelebrations.csproj", "{FA278A30-8A2D-4632-8CDF-6FDFD030A255}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{71D3E736-6BBE-4277-9E99-2F867EDE99CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71D3E736-6BBE-4277-9E99-2F867EDE99CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71D3E736-6BBE-4277-9E99-2F867EDE99CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C05EEB-CA51-4F82-B417-ED74E5CB653D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C05EEB-CA51-4F82-B417-ED74E5CB653D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C05EEB-CA51-4F82-B417-ED74E5CB653D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C05EEB-CA51-4F82-B417-ED74E5CB653D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA278A30-8A2D-4632-8CDF-6FDFD030A255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA278A30-8A2D-4632-8CDF-6FDFD030A255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA278A30-8A2D-4632-8CDF-6FDFD030A255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA278A30-8A2D-4632-8CDF-6FDFD030A255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
