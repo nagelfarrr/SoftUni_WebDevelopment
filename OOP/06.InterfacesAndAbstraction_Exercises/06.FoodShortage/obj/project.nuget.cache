@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8XlGaM4o2mvDmCzD76D/ka9/do+xKysQ0M/rve+5lP6Dhs8bp0BJP8bvGEVxMAayZppLrIX8WvQ0QV0pGY3hQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\06.InterfacesAndAbstraction_Exercises\\06.FoodShortage\\06.FoodShortage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

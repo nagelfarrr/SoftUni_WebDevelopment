@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.exe
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.deps.json
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.runtimeconfig.json
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.runtimeconfig.dev.json
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.dll
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\bin\Debug\netcoreapp3.1\07.MilitaryElite.pdb
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.AssemblyInfo.cs
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.dll
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.pdb
+D:\SoftUni\OOP\06.InterfacesAndAbstraction_Exercises\07.MilitaryElite\obj\Debug\netcoreapp3.1\07.MilitaryElite.genruntimeconfig.cache
