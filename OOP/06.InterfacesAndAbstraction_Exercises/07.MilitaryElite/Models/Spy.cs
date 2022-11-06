@@ -19,7 +19,7 @@
             sb.AppendLine($"Name: {this.FirstName} {this.LastName} Id: {this.Id}");
             sb.AppendLine($"Code Number: {this.CodeNumber}");
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }

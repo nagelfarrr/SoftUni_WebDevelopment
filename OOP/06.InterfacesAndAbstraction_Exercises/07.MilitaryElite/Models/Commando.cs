@@ -27,10 +27,10 @@
             sb.AppendLine("Missions:");
             foreach (var mission in this.Missions)
             {
-                sb.AppendLine($"{mission}");
+                sb.AppendLine($"  {mission}");
             }
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }

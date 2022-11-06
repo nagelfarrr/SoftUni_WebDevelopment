@@ -12,7 +12,7 @@
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Part Name: {this.PartName} Hours Worked: {this.HoursWorked}");
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }

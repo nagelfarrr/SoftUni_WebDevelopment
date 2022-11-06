@@ -30,7 +30,7 @@
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Code Name: {this.CodeName} State: {this.State}");
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }

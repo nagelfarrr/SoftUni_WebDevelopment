@@ -22,10 +22,10 @@
             sb.AppendLine("Privates:");
             foreach (var @private in this.Privates)
             {
-                sb.AppendLine($"{@private}");
+                sb.AppendLine($"  {@private}");
             }
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }

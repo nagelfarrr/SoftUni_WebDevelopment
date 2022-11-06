@@ -27,10 +27,10 @@
             sb.AppendLine("Repairs:");
             foreach (var repair in this.Repairs)
             {
-                sb.AppendLine($"{repair}");
+                sb.AppendLine($"  {repair}");
             }
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }
