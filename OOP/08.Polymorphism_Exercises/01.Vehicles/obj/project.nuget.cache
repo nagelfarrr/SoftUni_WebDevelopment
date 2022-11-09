@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ED4VTtqKE6+OUcLw/B5qvbS3gJbs5HjwYsrBZH3zNz/G5xSuc4xlGLxEV5B2NWT+eJLKr8tJVKEJSgQtJGFCg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\08.Polymorphism_Exercises\\01.Vehicles\\01.Vehicles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

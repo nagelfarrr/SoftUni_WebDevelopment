@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\bin\Debug\netcoreapp3.1\01.Vehicles.exe
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\bin\Debug\netcoreapp3.1\01.Vehicles.deps.json
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\bin\Debug\netcoreapp3.1\01.Vehicles.runtimeconfig.json
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\bin\Debug\netcoreapp3.1\01.Vehicles.runtimeconfig.dev.json
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\bin\Debug\netcoreapp3.1\01.Vehicles.dll
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\bin\Debug\netcoreapp3.1\01.Vehicles.pdb
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\obj\Debug\netcoreapp3.1\01.Vehicles.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\obj\Debug\netcoreapp3.1\01.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\obj\Debug\netcoreapp3.1\01.Vehicles.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\obj\Debug\netcoreapp3.1\01.Vehicles.AssemblyInfo.cs
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\obj\Debug\netcoreapp3.1\01.Vehicles.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\obj\Debug\netcoreapp3.1\01.Vehicles.dll
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\obj\Debug\netcoreapp3.1\01.Vehicles.pdb
+D:\SoftUni\OOP\08.Polymorphism_Exercises\01.Vehicles\obj\Debug\netcoreapp3.1\01.Vehicles.genruntimeconfig.cache
