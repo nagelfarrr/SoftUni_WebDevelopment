@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "miAb0PFSbIjQDCEd3E39CIUc14XyCsUxgpTU4IDL0nCQfdQXURgpMinLiLIqDk6iSQmrLO/9fmusWIAtqRi11g==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\09.ExceptionsAndErrorHandling\\05.PlayCatch\\05.PlayCatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

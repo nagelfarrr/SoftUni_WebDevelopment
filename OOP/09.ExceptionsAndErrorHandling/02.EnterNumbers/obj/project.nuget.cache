@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6A6N9mRfX/s/ZjLDeXJzcmn2qn+aaFVmFgEpSKcC6Rnv6l1VpXMDk5XDKulGZRi1tx5JiPYrbdN2s/cgNTZFA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\09.ExceptionsAndErrorHandling\\02.EnterNumbers\\02.EnterNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

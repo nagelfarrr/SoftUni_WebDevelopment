@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oS3PWfACWaU6xTqCNrtqh2oLu7C9KU55vh8LwpLfsyNCChHiSClzQgaHr54bPj8zXODVEq2SUYrg6WmTsx9yYg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\09.ExceptionsAndErrorHandling\\06.MoneyTransaction\\06.MoneyTransaction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

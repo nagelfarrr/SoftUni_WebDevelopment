@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.exe
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.deps.json
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.runtimeconfig.json
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.runtimeconfig.dev.json
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.dll
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.pdb
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.AssemblyInfo.cs
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.dll
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.pdb
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.genruntimeconfig.cache

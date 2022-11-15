@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ENk6PTtdTxA0tMcb9qdgjR5Thq+6ZCc5HaU6+5TUo8EO0a35HmCwW88ZOu1rt5LB+Kl+Ceb6dL+BNgK7flMNBA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\09.ExceptionsAndErrorHandling\\04.SumOfIntegers\\04.SumOfIntegers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

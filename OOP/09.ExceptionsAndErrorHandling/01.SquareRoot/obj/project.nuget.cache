@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/YsPyIShZsLLWEzjW64Y8yjOY17RBMOmhaeG8XS2uj6D7cuqDBa20u9YSxec5zbOtwN+QSb+JI9TYy4K7myUg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\09.ExceptionsAndErrorHandling\\01.SquareRoot\\01.SquareRoot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

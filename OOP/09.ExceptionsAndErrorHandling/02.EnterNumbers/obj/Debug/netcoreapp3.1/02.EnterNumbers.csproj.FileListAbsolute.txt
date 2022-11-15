@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.exe
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.deps.json
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.runtimeconfig.json
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.runtimeconfig.dev.json
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.dll
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.pdb
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.AssemblyInfo.cs
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.dll
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.pdb
+D:\SoftUni\OOP\09.ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.genruntimeconfig.cache

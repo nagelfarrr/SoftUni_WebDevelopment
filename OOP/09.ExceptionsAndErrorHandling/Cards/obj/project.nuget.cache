@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "arORcIDfxiKUO/scyoxaXsbLrkj3rNVEdvq3YxO/gZOiPTb2RlHDTywWjPS9+vQ8yM+BcmBlpYDv/Li8HEcTAg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\09.ExceptionsAndErrorHandling\\Cards\\Cards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
