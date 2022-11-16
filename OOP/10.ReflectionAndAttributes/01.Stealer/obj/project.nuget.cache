@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+I44VJ2I6iDSFk+mijEJTGnC/zaMtzezQXgno7Gpb/MWbio0c2NDf8IgDMLdcHwJLPH5RQYTTBMd2P7IURPEw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\10.ReflectionAndAttributes\\01.Stealer\\01.Stealer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
