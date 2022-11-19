@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mkV3gebeUqTL8/vmZPL78nsdZblaiHR6Ntx8isz2Yy10pLE/5lY/jlfvP/2+HhJFW+Ylveoe1o9g6U0DIwD8Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\11.ReflectionAndAttributes_Exercises\\02.ValidationAttributes\\02.ValidationAttributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

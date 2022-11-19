@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CoQdz9YijZ1lM/A6IosK1BTqbR2aF+Fgr1lmXevp+NbtbAuwJ9MmMJp8xqnPFNRNSRhW4+THBRe53ZmZnh0DWQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\11.ReflectionAndAttributes_Exercises\\01.CommandPattern\\01.CommandPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
