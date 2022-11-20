@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\SoftUni\OOP\12.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
