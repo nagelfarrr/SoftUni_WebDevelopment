@@ -2,5 +2,13 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5c988355_002D4de2_002D40e6_002D8c74_002Df2dd4f67b344/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_DatabaseConstructor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::5795F810-87D3-4FC9-89B3-61985EE6F92B::.NETCoreApp,Version=v3.1::Database.Tests.DatabaseTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.AddRangeMethodShouldSetCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.AddCommandShouldThrowExceptionWhenDataLengthIsMoreThan16&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1FB916D-50FB-496B-83F9-BDF2F37EA267::.NETCoreApp,Version=v3.1::CarManager.Tests.CarManagerTests.ConstructorShouldReturnProperCar&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1FB916D-50FB-496B-83F9-BDF2F37EA267::.NETCoreApp,Version=v3.1::CarManager.Tests.CarManagerTests.ConstructorShouldInitializeCarMake&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1FB916D-50FB-496B-83F9-BDF2F37EA267::.NETCoreApp,Version=v3.1::CarManager.Tests.CarManagerTests.ConstructorShouldInitializeCarModel&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1FB916D-50FB-496B-83F9-BDF2F37EA267::.NETCoreApp,Version=v3.1::CarManager.Tests.CarManagerTests.ConstructorShouldInitializeCarFuelConsumption&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1FB916D-50FB-496B-83F9-BDF2F37EA267::.NETCoreApp,Version=v3.1::CarManager.Tests.CarManagerTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

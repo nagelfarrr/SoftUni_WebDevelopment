@@ -65,6 +65,7 @@ namespace ExtendedDatabase
 
             this.count--;
             this.persons[this.count] = null;
+
         }
 
         public Person FindByUsername(string name)
