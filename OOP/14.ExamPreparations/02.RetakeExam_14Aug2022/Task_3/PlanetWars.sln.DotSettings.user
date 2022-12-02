@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=459e3cff_002D03d8_002D4757_002D9bbb_002Ddab71330c629/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WeaponConstructorShouldInitializeProperly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.WeaponConstructorShouldInitializeProperly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.WeaponPriceShouldThrowExceptionWhenBelowZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.WeaponIncreaseDestructionLevelShouldIncrementDestructionLevelBy1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.WeaponIsNuclearWhenDestructionLevelIs10OrHigher&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.WeaponIsNotNuclearWhenDestructionLevelBelow10&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.PlanetConstructorShouldInitializeProperly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.PlanetNameCannotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.PlanetBudgetCannotBeBelowZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.PlanetWeaponsShouldReturnCollectionOfWeapons&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1714D35A-228D-4659-BBC8-171C4ACFA0F2::.NETCoreApp,Version=v3.1::PlanetWars.Tests.Tests+PlanetWarsTests.PlanetProfitShouldIncreaseBudgetByGivenAmount&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

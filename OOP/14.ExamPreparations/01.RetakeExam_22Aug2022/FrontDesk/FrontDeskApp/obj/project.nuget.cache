@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfHVZWGJmx3xwmD3Z+vz+ocF3WgOd5QdhI32d2Ks/JE0+LI1wj4LklITM6LCzLCdDReqT+HbNR8XILqjV8CNMQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\01.RetakeExam_22Aug2022\\FrontDesk\\FrontDeskApp\\FrontDeskApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

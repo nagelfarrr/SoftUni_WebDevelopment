@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.exe
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.dll
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.pdb
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.dll
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.pdb
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\FrontDesk\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.genruntimeconfig.cache

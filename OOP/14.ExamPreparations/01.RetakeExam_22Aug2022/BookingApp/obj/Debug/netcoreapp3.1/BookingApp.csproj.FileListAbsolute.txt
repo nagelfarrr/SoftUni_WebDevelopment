@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.exe
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.dll
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.pdb
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.dll
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.pdb
+D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache
