@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "StSLGLMkmcbbw+u91vMtbYbJqrLDulpk5wQuf9HbiMfKZYcDQD/nYDw2C5cZjqnDvEovzOgy4aIuaJxSwFp/5Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\03.RetakeExam_18April2022\\Task_1_2\\Heroes\\Heroes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

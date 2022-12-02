@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_1_2\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
