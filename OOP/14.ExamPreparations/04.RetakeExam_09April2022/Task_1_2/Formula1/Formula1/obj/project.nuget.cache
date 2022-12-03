@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWN1sNKpPUlBJvP1f9P6NehSg5IXq3i1vp8w+7fCZxdR94NzTIcSQ9q4YhU356fquyl/QPPbo71ZaPOiCz1r3A==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\04.RetakeExam_09April2022\\Task_1_2\\Formula1\\Formula1\\Formula1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_1_2\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache
