@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "swocN253/DoqIEmu8cWjOsZ20nzTZjFQ9kdn+HtWUpwpuKUxMHCO1fl4WSgbi8UdhBK7KfMDMjBzFYlRNUZzrg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\03.RetakeExam_18April2022\\Task_3\\RepairShop\\RepairShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

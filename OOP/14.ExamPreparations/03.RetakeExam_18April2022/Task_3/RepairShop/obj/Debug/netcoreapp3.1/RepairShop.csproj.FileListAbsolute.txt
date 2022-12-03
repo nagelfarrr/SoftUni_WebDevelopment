@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.exe
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.dll
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.pdb
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.dll
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.pdb
+D:\SoftUni\OOP\14.ExamPreparations\03.RetakeExam_18April2022\Task_3\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.genruntimeconfig.cache
