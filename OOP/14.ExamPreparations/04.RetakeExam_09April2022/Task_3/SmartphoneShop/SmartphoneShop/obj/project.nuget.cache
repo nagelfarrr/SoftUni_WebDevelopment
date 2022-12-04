@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SCbsLNktTe5RW/t5vddwbloZOYe81xkQVXA1nUFPymdCTxXLtVRCrZv1eGMV97hThtMFD7wsooLdi2EiMYn6nA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\04.RetakeExam_09April2022\\Task_3\\SmartphoneShop\\SmartphoneShop\\SmartphoneShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

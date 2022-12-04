@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.exe
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.dll
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.pdb
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.dll
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.pdb
+D:\SoftUni\OOP\14.ExamPreparations\04.RetakeExam_09April2022\Task_3\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache
