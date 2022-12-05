@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.exe
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.dll
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.pdb
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.dll
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.pdb
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_1_2\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.genruntimeconfig.cache

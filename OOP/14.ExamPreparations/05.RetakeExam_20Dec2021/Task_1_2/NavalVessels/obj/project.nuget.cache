@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uIbYl77BIarg8mVZYRlWJvu/jBzqAfzeaDAE+GL/iuORmsL5HElsfrsn2qRdnJZbnA14itvwJKeUNLm61rL5fg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\05.RetakeExam_20Dec2021\\Task_1_2\\NavalVessels\\NavalVessels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
