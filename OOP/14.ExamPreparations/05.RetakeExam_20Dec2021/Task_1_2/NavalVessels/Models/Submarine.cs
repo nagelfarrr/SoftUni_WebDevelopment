@@ -4,7 +4,7 @@ namespace NavalVessels.Models
 {
     using NavalVessels.Models.Contracts;
 
-    public class Submarine : Vessel, ISubmarine
+    public class Submarine : Vessel
     {
         private const double InitialArmorThickness = 200;
 
@@ -53,9 +53,9 @@ namespace NavalVessels.Models
                 submergeMode = "OFF";
             }
 
-            sb.AppendLine($"*submerge mode: {submergeMode}");
+            sb.AppendLine($" *Submerge mode: {submergeMode}");
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }

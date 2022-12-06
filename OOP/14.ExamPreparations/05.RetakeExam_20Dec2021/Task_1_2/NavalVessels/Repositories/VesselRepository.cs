@@ -1,12 +1,13 @@
 ﻿namespace NavalVessels.Repositories
 {
     using System.Collections.Generic;
+    using System.Linq;
     using NavalVessels.Models.Contracts;
     using NavalVessels.Repositories.Contracts;
 
     public class VesselRepository : IRepository<IVessel>
     {
-        private readonly List<IVessel> vessels;
+        private List<IVessel> vessels;
 
         public VesselRepository()
         {
@@ -29,7 +30,7 @@
 
         public IVessel FindByName(string name)
         {
-            return this.vessels.Find(v => v.Name == name);
+            return this.vessels.FirstOrDefault(v => v.Name == name);
         }
     }
 }

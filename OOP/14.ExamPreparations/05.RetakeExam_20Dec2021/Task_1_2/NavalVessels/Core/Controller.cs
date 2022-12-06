@@ -12,7 +12,7 @@
 
     public class Controller : IController
     {
-        private IRepository<IVessel> vessels;
+        private VesselRepository vessels;
         private List<ICaptain> captains;
 
         public Controller()
@@ -64,33 +64,33 @@
 
         public string AssignCaptain(string selectedCaptainName, string selectedVesselName)
         {
-            if (!captains.Any(c => c.FullName == selectedCaptainName))
+            var captain = captains.Find(c => c.FullName == selectedCaptainName);
+            var vessel = vessels.FindByName(selectedVesselName);
+            if (captain == null) 
             {
                 return string.Format(OutputMessages.CaptainNotFound, selectedCaptainName);
             }
 
-            if (!vessels.Models.Any(v => v.Name == selectedVesselName))
+            if (vessel == null)
             {
                 return string.Format(OutputMessages.VesselNotFound, selectedVesselName);
             }
 
-            var captain = captains.Find(c => c.FullName == selectedCaptainName);
-            var vessel = vessels.FindByName(selectedVesselName); //not sure about this
 
             if (vessel.Captain != null)
             {
                 return string.Format(OutputMessages.VesselOccupied, selectedVesselName);
             }
 
-            captain.AddVessel(vessel);
             vessel.Captain = captain; // not sure about this
+            captain.AddVessel(vessel);
 
             return string.Format(OutputMessages.SuccessfullyAssignCaptain, selectedCaptainName,selectedVesselName);
         }
 
         public string CaptainReport(string captainFullName)
         {
-            var captain = captains.Find(c => c.FullName == captainFullName);
+            var captain = captains.First(c => c.FullName == captainFullName);
 
             return captain.Report();
         }
@@ -99,7 +99,7 @@
         {
             var vessel = vessels.FindByName(vesselName); // might not work
 
-            return vessel.ToString();
+            return vessel?.ToString();
         }
 
         public string ToggleSpecialMode(string vesselName)
@@ -114,12 +114,12 @@
             if (vessel.GetType().Name == "Submarine")
             {
                 (vessel as Submarine).ToggleSubmergeMode();
-                return string.Format(OutputMessages.ToggleSubmarineSubmergeMode, vessel.Name);
+                return string.Format(OutputMessages.ToggleSubmarineSubmergeMode, vesselName);
             }
             else
             {
                 (vessel as Battleship).ToggleSonarMode();
-                return string.Format(OutputMessages.ToggleBattleshipSonarMode, vessel.Name);
+                return string.Format(OutputMessages.ToggleBattleshipSonarMode, vesselName);
             }
         }
 
@@ -146,7 +146,7 @@
             {
                 return string.Format(OutputMessages.VesselNotFound, attackingVesselName);
             }
-            if (defender == null)
+            else if (defender == null)
             {
                 return string.Format(OutputMessages.VesselNotFound, defendingVesselName);
             }

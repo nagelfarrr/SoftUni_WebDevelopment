@@ -3,7 +3,7 @@
     using System.Text;
     using NavalVessels.Models.Contracts;
 
-    public class Battleship : Vessel, IBattleship
+    public class Battleship : Vessel
     {
         private const double InitialArmorThickness = 300;
         public Battleship(string name, double mainWeaponCaliber, double speed) : base(name, mainWeaponCaliber, speed, InitialArmorThickness)
@@ -52,9 +52,9 @@
                 sonarMode = "OFF";
             }
 
-            sb.AppendLine($"*Sonar mode: {sonarMode}");
+            sb.AppendLine($" *Sonar mode: {sonarMode}");
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }

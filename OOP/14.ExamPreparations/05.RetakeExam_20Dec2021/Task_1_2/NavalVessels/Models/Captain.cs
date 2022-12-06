@@ -10,14 +10,13 @@
     public class Captain : ICaptain
     {
         private string fullName;
-        private List<IVessel> vessels;
-        private int combatExperience;
+
 
         public Captain(string fullName)
         {
             this.FullName = fullName;
 
-            this.vessels = new List<IVessel>();
+            this.Vessels = new List<IVessel>();
             this.CombatExperience = 0;
         }
 
@@ -35,12 +34,18 @@
         }
         public int CombatExperience
         {
-            get => this.combatExperience;
-            private set => this.combatExperience = value;
+            get;
+            private set;
         }
 
-        public ICollection<IVessel> Vessels => this.vessels.AsReadOnly();
-      
+        public ICollection<IVessel> Vessels
+        {
+            get;
+            private set;
+        }
+
+
+
 
         public void AddVessel(IVessel vessel)
         {
@@ -49,7 +54,7 @@
                 throw new NullReferenceException(ExceptionMessages.InvalidVesselForCaptain);
             }
 
-            this.vessels.Add(vessel);
+            this.Vessels.Add(vessel);
         }
 
         public void IncreaseCombatExperience()
@@ -63,14 +68,13 @@
             sb.AppendLine(
                 $"{this.FullName} has {this.CombatExperience} combat experience and commands {this.Vessels.Count} vessels.");
 
-            if (this.Vessels.Any())
+
+            foreach (var vessel in this.Vessels)
             {
-                foreach (var vessel in this.vessels)
-                {
-                    sb.AppendLine();
-                    sb.AppendLine(vessel.ToString());
-                }
+
+                sb.AppendLine(vessel.ToString());
             }
+
 
             return sb.ToString().Trim();
         }

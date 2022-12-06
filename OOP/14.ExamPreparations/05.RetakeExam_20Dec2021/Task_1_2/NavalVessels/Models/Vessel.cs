@@ -12,12 +12,12 @@ namespace NavalVessels.Models
     {
         private string name;
         private ICaptain captain;
-        private ICollection<string> targets;
+        private List<string> targets;
         private double mainWeaponCaliber;
         private double speed;
         private double armorThickness;
 
-        protected Vessel(string name, double mainWeaponCaliber, double speed, double armorThickness)
+        public Vessel(string name, double mainWeaponCaliber, double speed, double armorThickness)
         {
             this.Name = name;
             this.MainWeaponCaliber = mainWeaponCaliber;
@@ -79,7 +79,7 @@ namespace NavalVessels.Models
         }
         public ICollection<string> Targets
         {
-            get => this.targets;
+            get => this.targets.AsReadOnly();
 
         }
 
@@ -95,17 +95,17 @@ namespace NavalVessels.Models
             
         }
 
-        public virtual void RepairVessel(){}
+        public abstract void RepairVessel();
 
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine($"- {this.Name}");
-            sb.AppendLine($"*Type: {this.GetType().Name}");
-            sb.AppendLine($"*Armor thickness: {this.ArmorThickness}");
-            sb.AppendLine($"*Main weapon caliber: {this.MainWeaponCaliber}");
-            sb.AppendLine($"*Speed: {this.Speed}");
+            sb.AppendLine($" *Type: {this.GetType().Name}");
+            sb.AppendLine($" *Armor thickness: {this.ArmorThickness}");
+            sb.AppendLine($" *Main weapon caliber: {this.MainWeaponCaliber}");
+            sb.AppendLine($" *Speed: {this.Speed} knots");
 
             string targets;
             if (!this.Targets.Any())
@@ -117,9 +117,9 @@ namespace NavalVessels.Models
                 targets = string.Join(", ", this.Targets);
             }
 
-            sb.AppendLine($"*Targets: {targets}");
+            sb.AppendLine($" *Targets: {targets}");
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }
