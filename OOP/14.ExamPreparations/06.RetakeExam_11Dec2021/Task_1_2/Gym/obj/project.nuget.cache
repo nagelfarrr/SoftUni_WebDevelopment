@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OdlCjefh8S3iEam7pHIYumiLBDpmT5tB9z2lmJghW6BU3/KKbBr2FlvDj4diduj/gEg6RgvPVZV6x8CD5J6J4Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\06.RetakeExam_11Dec2021\\Task_1_2\\Gym\\Gym.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

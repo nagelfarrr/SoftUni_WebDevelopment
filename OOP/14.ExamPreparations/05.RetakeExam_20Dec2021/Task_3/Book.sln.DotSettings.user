@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=817b301b_002D0792_002D41e6_002D9eb1_002Dbe84e596052b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Book_NameShouldThrowExceptionWhenNullOrEmpty" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::31A7837D-B6F0-48FF-9DCC-8D7B6A24EAC3::.NETCoreApp,Version=v3.1::Book.Tests.Tests.Book_NameShouldThrowExceptionWhenNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::31A7837D-B6F0-48FF-9DCC-8D7B6A24EAC3::.NETCoreApp,Version=v3.1::Book.Tests.Tests.Book_AuthorShouldThrowExceptionWhenNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::31A7837D-B6F0-48FF-9DCC-8D7B6A24EAC3::.NETCoreApp,Version=v3.1::Book.Tests.Tests.Book_ShouldNotAddFootnoteWhenKeyPairAlreadyExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::31A7837D-B6F0-48FF-9DCC-8D7B6A24EAC3::.NETCoreApp,Version=v3.1::Book.Tests.Tests.Book_AddFootnoteShouldAddSuccesfullyWhenFootnoteDoesntExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::31A7837D-B6F0-48FF-9DCC-8D7B6A24EAC3::.NETCoreApp,Version=v3.1::Book.Tests.Tests.Book_FootnoteCountShouldEqualsThePrivateCollectionCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::31A7837D-B6F0-48FF-9DCC-8D7B6A24EAC3::.NETCoreApp,Version=v3.1::Book.Tests.Tests.Book_ShouldThrowExceptionWhenCantFindFootNoteNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::31A7837D-B6F0-48FF-9DCC-8D7B6A24EAC3::.NETCoreApp,Version=v3.1::Book.Tests.Tests.Book_ShouldReturnProperStringWhenFootnoteIsFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::31A7837D-B6F0-48FF-9DCC-8D7B6A24EAC3::.NETCoreApp,Version=v3.1::Book.Tests.Tests.Book_ShouldThrowExceptionWhenCantFindFootNoteToAlter&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::31A7837D-B6F0-48FF-9DCC-8D7B6A24EAC3::.NETCoreApp,Version=v3.1::Book.Tests.Tests.Book_AlterFootnoteShouldChangeTextToGivenIndex&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

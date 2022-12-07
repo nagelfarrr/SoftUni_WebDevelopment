@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\bin\Debug\netcoreapp3.1\Book.exe
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\bin\Debug\netcoreapp3.1\Book.dll
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\bin\Debug\netcoreapp3.1\Book.pdb
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\obj\Debug\netcoreapp3.1\Book.dll
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\obj\Debug\netcoreapp3.1\Book.pdb
+D:\SoftUni\OOP\14.ExamPreparations\05.RetakeExam_20Dec2021\Task_3\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

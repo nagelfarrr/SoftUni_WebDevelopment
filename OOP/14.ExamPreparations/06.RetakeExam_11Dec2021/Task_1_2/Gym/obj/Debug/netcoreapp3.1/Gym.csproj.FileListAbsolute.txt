@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+D:\SoftUni\OOP\14.ExamPreparations\06.RetakeExam_11Dec2021\Task_1_2\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache
