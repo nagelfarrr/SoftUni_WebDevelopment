@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\SoftUni\OOP\14.ExamPreparations\07.RetakeExam_22Aug2021\Task_1_2\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache
