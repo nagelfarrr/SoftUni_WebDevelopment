@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+D:\SoftUni\OOP\14.ExamPreparations\08.RetakeExam_15Aug2021\Task_1_2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache
