@@ -1337,6 +1337,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Robots/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Robots.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Robots.dll": {}
+        }
       }
     }
   },
@@ -4725,13 +4735,19 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Robots/1.0.0": {
+      "type": "project",
+      "path": "../Robots/Robots.csproj",
+      "msbuildProject": "../Robots/Robots.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.16.1"
+      "NUnit3TestAdapter >= 3.16.1",
+      "Robots >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4765,7 +4781,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\SoftUni\\OOP\\14.ExamPreparations\\08.RetakeExam_15Aug2021\\Task_3\\Robots\\Robots.csproj": {
+              "projectPath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\08.RetakeExam_15Aug2021\\Task_3\\Robots\\Robots.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
