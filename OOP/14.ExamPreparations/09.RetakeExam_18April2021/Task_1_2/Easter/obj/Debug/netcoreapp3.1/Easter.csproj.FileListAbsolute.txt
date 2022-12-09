@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+D:\SoftUni\OOP\14.ExamPreparations\09.RetakeExam_18April2021\Task_1_2\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache
