@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e9fe250_002D2ffc_002D42e7_002D90b4_002Dcd560538339d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FootballPlayerNameShouldBeInitializedFromConstructor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.FootballPlayerNameShouldBeInitializedFromConstructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.FootballPlayerNumberShouldBeInitializedFromConstructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.FootballPlayerPositionShouldBeInitializedFromConstructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.FootballPlayerScoredGoalsShouldBeZeroWhenInitialized&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.FootballPlayerNameCannotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.FootballPlayerNumberCannotBeLessThan1AndMoreThan21&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.FootballPlayerPositionCannotBeAnything&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.FootballPlayerScoreMethodShouldIncreaseScoreGoalsByOne&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.TeamNameShouldBeInitializedFromConstructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.TeamCapacityShouldBeInitializedFromConstructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.TeamNameCannotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.TeamCapacityCannotBeLessThan15&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.TeamCannotAddMorePlayersThanCapacity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.TeamAddingAPlayerShouldReturnProperString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.TeamAddingAPlayerShouldAddPlayerToTheTeam&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.TeamPickPlayerShouldReturnPlayerByItsName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751::.NETCoreApp,Version=v3.1::FootballTeam.Tests.Tests.TeamPlayerScoreShouldReturnProperString&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

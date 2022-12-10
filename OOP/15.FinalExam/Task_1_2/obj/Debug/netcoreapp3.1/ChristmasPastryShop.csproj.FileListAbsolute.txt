@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\SoftUni\OOP\15.FinalExam\Task_1_2\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache

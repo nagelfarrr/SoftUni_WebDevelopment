@@ -1,0 +1,14 @@
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.exe
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.deps.json
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.json
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.dev.json
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.dll
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.AssemblyReference.cache
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfoInputs.cache
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfo.cs
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.dll
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\SoftUni\OOP\15.FinalExam\Task_3\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.genruntimeconfig.cache
