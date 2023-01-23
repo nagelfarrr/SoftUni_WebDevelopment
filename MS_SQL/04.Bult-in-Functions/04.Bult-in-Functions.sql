@@ -108,3 +108,63 @@ SELECT * FROM
 AS [RankedSelection]
 WHERE [Salary] BETWEEN 10000 AND 50000 AND [Rank] = 2
 ORDER BY [Salary] DESC
+
+
+--12.Countries Holding 'A' 3 or More Times
+
+--------------------
+
+GO
+
+USE [Geography]
+
+GO
+
+---------------------
+
+SELECT 
+    [CountryName] AS [Country Name]
+    ,[IsoCode] AS [ISO Code]
+FROM [Countries]
+    WHERE LOWER([CountryName]) LIKE '%a%a%a%'
+    ORDER BY [IsoCode]
+
+--13. Mix of Peak and River Names
+
+SELECT
+    [peak].[PeakName]
+    ,[river].[RiverName]
+    ,LOWER(LEFT(([peak].[PeakName]), LEN([peak].[PeakName])) + RIGHT(river.RiverName, LEN([river].[RiverName]) -1)) AS Mix
+FROM
+    [Peaks] AS [peak]
+    ,[Rivers] AS [river]
+WHERE RIGHT([peak].PeakName, 1) = LEFT([river].[RiverName], 1)
+ORDER BY Mix
+
+---------------------
+
+GO
+
+USE[Diablo]
+
+GO
+
+---------------------
+
+
+--14. Games From 2011 and 2012 Year
+
+SELECT TOP(50)
+    [Name]
+    ,FORMAT([Start], 'yyyy-MM-dd') AS [Start]
+FROM [Games]
+WHERE YEAR([Start]) BETWEEN 2011 AND 2012
+ORDER BY [Start], [Name]
+
+--15. User Email Providers
+
+SELECT 
+    [Username]
+    ,SUBSTRING([Email], CHARINDEX('@', [Email]) + 1, LEN([Email])) AS [Email Provider]
+FROM [Users]
+ ORDER BY [Email Provider], [Username]
