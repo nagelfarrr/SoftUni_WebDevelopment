@@ -197,3 +197,16 @@ SELECT
 
 FROM [Games]
 ORDER BY [Name], [Duration]
+
+--18. Orders Table
+
+USE [Orders]
+
+SELECT
+    [ProductName]
+    ,[OrderDate]
+    ,DATEADD(day, 3, [OrderDate]) AS [Pay Due]
+    ,DATEADD(month, 1, [OrderDate]) AS [Deliver Due]
+FROM [Orders]
+
+--19.People Table
