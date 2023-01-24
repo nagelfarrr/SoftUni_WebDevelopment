@@ -168,3 +168,32 @@ SELECT
     ,SUBSTRING([Email], CHARINDEX('@', [Email]) + 1, LEN([Email])) AS [Email Provider]
 FROM [Users]
  ORDER BY [Email Provider], [Username]
+
+ --16. Get Users with IP Address Like Pattern
+
+SELECT 
+    [Username]
+    ,[IpAddress] AS [IP Address]
+FROM 
+    [Users]
+WHERE [IpAddress] LIKE '___.1%.%.___'
+ORDER BY [Username]
+
+--17. Show All Games with Duration & Part of the Day
+
+SELECT
+    [Name]
+    ,CASE
+        WHEN DATEPART(HOUR, [Start]) BETWEEN 0 AND 11 THEN 'Morning'
+        WHEN DATEPART(HOUR, [Start]) BETWEEN 12 AND 17 THEN 'Afternoon'
+        ELSE 'Evening'
+    END AS [Part of the Day]
+    ,CASE
+        WHEN [Duration] <=3 THEN 'Extra Short'
+        WHEN [Duration] BETWEEN 4 AND 6 THEN 'Short'
+        WHEN [Duration] > 6 THEN 'Long'
+        ELSE 'Extra Long'
+    END AS [Duration]
+
+FROM [Games]
+ORDER BY [Name], [Duration]
