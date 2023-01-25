@@ -107,3 +107,43 @@ JOIN [EmployeesProjects] as [ep]
 JOIN [Projects] AS [p]
     ON [ep].[ProjectID] = [p].[ProjectID]
 WHERE [ep].[EmployeeID] = 24
+
+--09. Employee Manager
+
+SELECT
+    [e].[EmployeeID]
+    ,[e].[FirstName]
+    ,[e].[ManagerID]
+    ,[em].[FirstName] AS [ManagerName]
+FROM [Employees] AS [e]
+JOIN [Employees] AS [em]
+    ON [e].[ManagerID] = [em].[EmployeeID]
+WHERE 
+    [e].[ManagerID] = 3 
+    OR [e].[ManagerID] = 7
+
+--10. Employees Summary
+
+SELECT TOP (50)
+    [e].[EmployeeID]
+    ,CONCAT_WS(' ', [e].[FirstName], [e].[LastName]) AS [EmployeeName]
+    ,[em].[FirstName] + ' ' + [em].[LastName] AS [ManagerName]
+    ,[d].[Name] AS [DepartmentName]
+FROM [Employees] AS [e]
+JOIN [Employees] AS [em]
+    ON [e].[ManagerID] = [em].[EmployeeID]
+JOIN [Departments] AS [d]
+    ON [e].[DepartmentID] = [d].[DepartmentID]
+ORDER BY [e].[EmployeeID]
+
+--11. Min Average Salary
+
+SELECT
+    MIN([avg]) AS [MinAverageSalary]
+FROM
+(
+    SELECT
+        AVG([Salary]) AS [avg]
+    FROM [Employees]
+    GROUP BY [DepartmentID]
+) AS AverageSalary
