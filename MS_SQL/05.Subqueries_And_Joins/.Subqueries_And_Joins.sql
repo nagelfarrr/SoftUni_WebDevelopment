@@ -187,3 +187,84 @@ JOIN [Mountains] AS [m]
     ON [mc].[MountainId] = [m].[Id]
 WHERE [mc].[CountryCode] IN ('BG', 'RU', 'US')
 GROUP BY [mc].[CountryCode]
+
+--14. Countries With or Without Rivers
+
+SELECT TOP (5)
+    [c].[CountryName]
+    ,[r].[RiverName]
+FROM 
+    [Countries] AS [c]
+LEFT JOIN [CountriesRivers] AS [cr]
+    ON [c].[CountryCode] = [cr].[CountryCode]
+LEFT JOIN [Rivers] AS [r] 
+    ON [cr].[RiverId] = [r].[Id]
+WHERE [c].[ContinentCode] = 'AF'
+ORDER BY [c].[CountryName]
+
+--15. Continents and Currencies
+
+SELECT 
+	[r].ContinentCode, 
+	[r].CurrencyCode, 
+	[r].CurrencyUsage
+FROM 
+(
+	SELECT 
+      c.[ContinentCode],
+	  c.[CurrencyCode],
+	  COUNT(c.[CurrencyCode]) AS [CurrencyUsage],
+	  DENSE_RANK() OVER
+	  (
+		PARTITION BY c.[ContinentCode] 
+		ORDER BY COUNT(c.[CurrencyCode]) DESC
+	  ) AS [CurrencyRank]
+	  FROM [Countries] AS [c]
+	  GROUP BY c.[ContinentCode],c.[CurrencyCode]
+	  HAVING COUNT(c.[CurrencyCode]) > 1
+) AS [r]
+WHERE [r].CurrencyRank = 1
+ORDER BY [r].ContinentCode
+
+--16.Countries Without Any Mountains
+
+SELECT
+    COUNT(*) AS [Count]
+FROM
+    [Countries] as [c]
+LEFT JOIN [MountainsCountries] as [mc]
+    ON [c].[CountryCode] = [mc].[CountryCode]
+LEFT JOIN [Mountains] as [m]
+    ON [mc].[MountainId] = [m].[Id]
+WHERE [m].[Id] IS NULL
+
+--17. Highest Peak and Longest River by Country
+SELECT TOP (5)
+    [chl].[CountryName]
+    ,[chl].[HighestPeakElevation]
+    ,[chl].[LongestRiverLength]
+FROM(
+    SELECT
+        [c].[CountryName]
+        ,MAX([p].[Elevation]) AS [HighestPeakElevation]
+        ,MAX([r].[Length]) AS [LongestRiverLength]
+    FROM 
+        [Countries] AS [c]
+    LEFT JOIN [CountriesRivers] AS [cr]
+        ON [c].[CountryCode] = [cr].[CountryCode]
+    LEFT JOIN [Rivers] AS [r]
+        ON [cr].[RiverId] = [r].[Id]
+    LEFT JOIN [MountainsCountries] AS [mc]
+        ON [c].[CountryCode] = [mc].[CountryCode]
+    LEFT JOIN [Mountains] AS [m]
+        ON [mc].[MountainId] = [m].[Id]
+    LEFT JOIN [Peaks] as [p]
+        ON [m].[Id] = [p].[MountainId]
+    GROUP BY c.CountryName
+) AS [chl]
+ORDER BY 
+    [chl].[HighestPeakElevation] DESC
+    ,[chl].[LongestRiverLength] DESC
+    ,[chl].[CountryName]
+
+--18. Highest Peak Name and Elevation by Country
