@@ -112,3 +112,110 @@ GROUP BY DepositGroup, IsDepositExpired
 ORDER BY
     DepositGroup DESC
     ,IsDepositExpired
+
+--12. *Rich Wizard, Poor Wizar
+
+SELECT
+	SUM(w1.[DepositAmount] - w2.[DepositAmount]) AS [SumDifference]
+FROM [WizzardDeposits] AS [w1]
+LEFT JOIN [WizzardDeposits] AS [w2]
+	ON w1.[Id] = w2.[Id] - 1
+
+----------------
+USE [SoftUni]
+----------------
+
+--13. Departments Total Salaries
+
+SELECT
+    DepartmentID
+    ,SUM( Salary)
+FROM Employees
+GROUP BY DepartmentID
+ORDER BY DepartmentID
+
+--14. Employees Minimum Salaries
+
+SELECT
+    DepartmentID
+    ,MIN(Salary) AS MinimumSalary
+FROM Employees
+WHERE HireDate > '2000-01-01'
+GROUP BY DepartmentID
+HAVING 
+    DepartmentID = 2
+    OR DepartmentID = 5
+    OR DepartmentID = 7
+
+--15. Employees Average Salaries
+
+SELECT 
+    *
+INTO newTable
+FROM Employees
+WHERE Salary > 30000
+
+
+DELETE FROM newTable
+WHERE ManagerID = 42
+
+UPDATE newTable
+    SET Salary += 5000
+WHERE DepartmentID = 1
+
+SELECT 
+    DepartmentID
+    ,AVG(Salary)
+FROM newTable
+GROUP BY DepartmentID
+
+--16. Employees Maximum Salaries
+
+SELECT 
+    DepartmentID
+    ,MAX(Salary)
+FROM Employees
+GROUP BY DepartmentID
+HAVING MAX(Salary) NOT BETWEEN 30000 AND 70000
+
+--17. Employees Count Salaries
+
+SELECT
+    COUNT(*) AS Count
+FROM Employees
+WHERE ManagerID IS NULL
+
+--18. *3rd Highest Salary
+
+SELECT
+    DepartmentID
+    ,MAX(Salary) AS ThirdHighestSalary
+FROM
+(
+    SELECT
+        DepartmentID
+        ,Salary
+        ,DENSE_RANK()
+            OVER (PARTITION BY DepartmentID ORDER BY Salary DESC) AS Rank
+    FROM Employees
+) AS r
+WHERE Rank = 3
+GROUP BY DepartmentID
+
+--19. **Salary Challenge
+
+SELECT TOP(10)
+	e.FirstName,
+	e.LastName,
+	e.DepartmentID
+FROM Employees AS e
+JOIN
+(
+	SELECT
+		e.DepartmentID
+		,AVG(e.Salary) AS AverageSalary
+	FROM Employees AS e
+	GROUP BY e.DepartmentID
+) AS avgSalary
+	ON e.DepartmentID = avgSalary.DepartmentID
+WHERE e.Salary > avgSalary.AverageSalary
