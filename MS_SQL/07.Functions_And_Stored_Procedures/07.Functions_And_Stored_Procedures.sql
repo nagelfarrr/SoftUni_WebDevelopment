@@ -178,3 +178,56 @@ BEGIN
         FirstName + ' ' + LastName AS [Full Name]
     FROM AccountHolders
 END
+
+--10. People with Balance Higher Than
+GO
+
+CREATE PROC usp_GetHoldersWithBalanceHigherThan (@number DECIMAL(18,4))
+AS
+BEGIN
+    SELECT
+        ah.FirstName
+        ,ah.LastName
+    FROM AccountHolders AS ah
+    JOIN
+    (
+        SELECT
+            AccountHolderId
+            ,SUM(Balance) AS TotalBalance
+        FROM Accounts
+        GROUP BY AccountHolderId
+    ) AS acc
+        ON ah.Id = acc.AccountHolderId
+    WHERE acc.TotalBalance > @number
+    ORDER BY ah.FirstName , ah.LastName
+END
+
+--11. Future Value Function
+
+GO
+
+CREATE FUNCTION ufn_CalculateFutureValue 
+(@sum DECIMAL(18, 4), @annualRate FLOAT, @years INT)
+RETURNS DECIMAL(18, 4)
+AS
+	BEGIN
+		RETURN @sum * POWER(1 + @annualRate, @years)
+	END
+
+
+--12. Calculating Interest
+ GO
+
+CREATE PROC usp_CalculateFutureValueForAccount 
+(@accountId INT, @annualRate FLOAT)
+AS
+	SELECT
+		acc.Id AS [Account Id],
+		h.FirstName AS [First Name],
+		h.LastName AS [Last Name],
+		acc.Balance AS [Current Balance],
+		dbo.ufn_CalculateFutureValue(acc.Balance, @annualRate, 5) AS [Balance in 5 years]
+	FROM Accounts AS acc
+	JOIN AccountHolders AS h
+		ON acc.AccountHolderId = h.Id
+	WHERE acc.Id = @accountId
