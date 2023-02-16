@@ -104,3 +104,82 @@ WHERE AddressId IN (SELECT
 
 DELETE Addresses
 WHERE Country LIKE 'C%'
+
+--05.Cigars by Price
+
+SELECT
+	CigarName
+	, PriceForSingleCigar
+	, ImageURL
+FROM Cigars
+ORDER BY PriceForSingleCigar , CigarName DESC
+
+--06.Cigars by Taste
+
+SELECT
+	c.Id
+	, c.CigarName
+	, c.PriceForSingleCigar
+	, t.TasteType
+	, t.TasteStrength
+FROM Cigars AS c
+JOIN Tastes AS t
+	ON c.TastId = t.Id
+WHERE t.TasteType = 'Earthy' OR t.TasteType = 'Woody'
+ORDER BY c.PriceForSingleCigar DESC
+
+--07.Clients without Cigars
+
+SELECT
+	cl.Id
+	, CONCAT(cl.FirstName, ' ', cl.LastName) AS ClientName
+	, cl.Email
+FROM Clients AS cl
+LEFT JOIN ClientsCigars AS cc
+	ON cl.Id = cc.ClientId
+LEFT JOIN Cigars AS c
+	ON cc.CigarId = c.Id
+WHERE cc.CigarId IS NULL
+ORDER BY ClientName 
+
+--08.First 5 Cigars
+
+SELECT TOP(5)
+	c.CigarName
+	, c.PriceForSingleCigar
+	, c.ImageURL
+FROM Cigars AS c
+JOIN Sizes AS s
+	ON c.SizeId = s.Id
+WHERE s.[Length] >=12
+AND (c.CigarName LIKE '%ci%'
+OR
+c.PriceForSingleCigar > 50) 
+AND s.RingRange > 2.55
+ORDER BY c.CigarName, c.PriceForSingleCigar DESC
+
+--09.Clients with ZIP Codes
+
+SELECT
+	cwzc.FullName,
+	cwzc.Country,
+	cwzc.ZIP,
+	CONCAT('$', MAX(cwzc.PriceForSingleCigar)) AS CigarPrice
+FROM
+(
+SELECT
+	CONCAT(cl.FirstName, ' ', cl.LastName) AS FullName
+	, a.Country
+	, a.ZIP
+	,c.PriceForSingleCigar
+FROM Clients AS cl
+JOIN Addresses AS a
+	ON cl.AddressId = a.Id
+JOIN ClientsCigars AS cc
+	ON cl.Id = cc.ClientId
+JOIN Cigars AS c
+	ON cc.CigarId = c.Id
+WHERE ISNUMERIC(ZIP) = 1
+) AS cwzc
+GROUP BY cwzc.FullName, cwzc.Country,cwzc.ZIP
+ORDER BY cwzc.FullName 
