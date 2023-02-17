@@ -183,3 +183,64 @@ WHERE ISNUMERIC(ZIP) = 1
 ) AS cwzc
 GROUP BY cwzc.FullName, cwzc.Country,cwzc.ZIP
 ORDER BY cwzc.FullName 
+
+--10.Cigars by Size
+
+SELECT
+	cl.LastName
+	,AVG(s.[Length]) AS CiagrLength
+	,CEILING(AVG(s.RingRange))
+FROM Clients AS cl
+JOIN ClientsCigars AS cc
+	ON cl.Id = cc.ClientId
+JOIN Cigars AS ci
+	ON cc.CigarId = ci.Id
+JOIN Sizes AS s
+	ON ci.SizeId = s.Id
+GROUP BY cl.LastName
+ORDER BY CiagrLength DESC
+
+--11.Client with Cigars
+GO
+
+CREATE FUNCTION udf_ClientWithCigars(@name NVARCHAR(30))
+RETURNS INT AS
+BEGIN
+	DECLARE @clientId INT = (
+		SELECT
+			Id
+		FROM Clients
+		WHERE FirstName = @name
+	)
+	RETURN 
+	(
+		SELECT
+			COUNT(CigarId)
+		FROM ClientsCigars
+		WHERE ClientId = @clientId
+	)
+END
+
+--12.Search for Cigar with Specific Taste
+GO
+
+CREATE PROC usp_SearchByTaste(@taste VARCHAR(20))
+AS
+BEGIN
+	SELECT
+		c.CigarName
+		,CONCAT('$', c.PriceForSingleCigar) AS Price
+		,t.TasteType
+		,b.BrandName
+		,CONCAT(s.[Length], ' ', 'cm') AS CigarLength
+		,CONCAT(s.RingRange, ' ', 'cm') AS CigarRingRange
+	FROM Cigars AS c
+	JOIN Tastes AS t
+		ON c.TastId = t.Id
+	JOIN Brands AS b
+		ON c.BrandId = b.Id
+	JOIN Sizes AS s
+		ON c.SizeId = s.Id
+	WHERE t.TasteType = @taste
+	ORDER BY CigarLength, CigarRingRange DESC
+END
