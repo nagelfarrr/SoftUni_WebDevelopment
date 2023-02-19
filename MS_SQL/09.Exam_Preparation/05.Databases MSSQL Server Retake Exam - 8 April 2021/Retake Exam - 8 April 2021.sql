@@ -111,3 +111,104 @@ JOIN Categories AS c
 	ON r.CategoryId = c.Id
 GROUP BY c.Name
 ORDER BY ReportsNumber DESC, c.Name
+
+--08.Birthday Report
+
+SELECT
+	u.Username,
+	c.[Name] AS CategoryName
+FROM Users AS u
+LEFT JOIN Reports AS r
+	ON u.Id = r.UserId
+LEFT JOIN Categories AS c
+	ON r.CategoryId = c.Id
+WHERE MONTH(r.OpenDate) = MONTH(u.Birthdate) AND DAY(r.OpenDate) = DAY(u.Birthdate)
+ORDER BY u.Username, CategoryName
+
+--09.Users per Employee
+
+SELECT
+	CONCAT(e.FirstName, ' ', e.LastName) AS FullName,
+	COUNT(r.UserId) AS UsersCount
+FROM Reports AS r
+RIGHT JOIN Employees AS e
+	ON r.EmployeeId = e.Id
+GROUP BY e.FirstName, e.LastName
+ORDER BY UsersCount DESC, FullName 
+
+
+--10.FUll Info
+
+SELECT
+	IIF(e.FirstName IS NULL AND e.LastName IS NULL, 'None', CONCAT(e.FirstName, ' ', e.LastName)) AS Employee,
+	IIF(d.[Name] IS NULL, 'None', d.[Name]) AS Department,
+	c.[Name] AS Category,
+	r.[Description],
+	FORMAT(OpenDate, 'dd.MM.yyyy') AS OpenDate,
+	s.[Label],
+	u.[Name] AS [User]
+FROM Reports AS r
+LEFT JOIN Employees AS e
+	ON r.EmployeeId = e.Id
+LEFT JOIN Departments AS d
+	ON e.DepartmentId = d.Id
+LEFT JOIN Categories AS c
+	ON r.CategoryId = c.Id
+LEFT JOIN [Status] AS s
+	ON r.StatusId = s.Id
+LEFT JOIN Users AS u
+	ON r.UserId = u.Id
+ORDER BY
+	e.FirstName DESC,
+	e.LastName DESC,
+	Department,
+	Category,
+	r.[Description],
+	OpenDate,
+	s.[Label],
+	[User]
+
+--11.Hours To Complete
+GO
+
+CREATE FUNCTION udf_HoursToComplete(@StartDate DATETIME, @EndDate DATETIME)
+RETURNS INT
+AS
+BEGIN
+	DECLARE @result INT =
+						(
+							SELECT
+								DATEDIFF(HOUR, OpenDate,CloseDate)
+							FROM Reports
+							WHERE OpenDate = @StartDate
+							AND CloseDate = @EndDate
+						)
+	RETURN IIF(@result IS NULL, 0, @result)
+END
+
+--12.Assign Employee
+GO
+
+CREATE PROC usp_AssignEmployeeToReport(@EmployeeId INT, @ReportId INT)
+AS
+BEGIN
+	DECLARE @departmentIdEmployee INT = 
+(
+    SELECT DepartmentId 
+    FROM Employees 
+    WHERE Id = @EmployeeId
+)
+DECLARE @departmentIdReport INT = 
+(
+    SELECT c.DepartmentId 
+    FROM Reports AS r 
+    JOIN Categories AS c ON r.CategoryId = c.Id
+    WHERE r.Id = @ReportId
+)
+IF @departmentIdEmployee <> @departmentIdReport 
+    THROW 50001, 'Employee doesn''t belong to the appropriate department!', 1
+ELSE 
+    UPDATE Reports 
+    SET EmployeeId = @EmployeeId 
+    WHERE Id = @ReportId
+END
