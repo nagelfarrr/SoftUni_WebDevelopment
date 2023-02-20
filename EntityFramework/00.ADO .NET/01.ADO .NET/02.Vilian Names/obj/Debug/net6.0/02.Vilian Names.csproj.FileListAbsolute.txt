@@ -1,0 +1,50 @@
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\02.Vilian Names.exe
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\02.Vilian Names.deps.json
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\02.Vilian Names.runtimeconfig.json
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\02.Vilian Names.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\02.Vilian Names.pdb
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Azure.Core.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Azure.Identity.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\System.Memory.Data.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\02.Vilian Names.csproj.AssemblyReference.cache
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\02.Vilian Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\02.Vilian Names.AssemblyInfoInputs.cache
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\02.Vilian Names.AssemblyInfo.cs
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\02.Vilian Names.csproj.CoreCompileInputs.cache
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\02.Vilian Names.csproj.CopyComplete
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\02.Vilian Names.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\refint\02.Vilian Names.dll
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\02.Vilian Names.pdb
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\02.Vilian Names.genruntimeconfig.cache
+D:\SoftUni\EntityFramework\00.ADO .NET\01.ADO .NET\02.Vilian Names\obj\Debug\net6.0\ref\02.Vilian Names.dll
