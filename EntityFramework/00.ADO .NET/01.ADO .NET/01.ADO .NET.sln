@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Vilian Names", "02.Vilian Names\02.Vilian Names.csproj", "{7EAF7B2F-24C8-4002-AB44-2774512D8B51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Minion Names", "03.Minion Names\03.Minion Names.csproj", "{F404CCFA-19B4-44F6-8EF5-2B47EB92D7D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7EAF7B2F-24C8-4002-AB44-2774512D8B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EAF7B2F-24C8-4002-AB44-2774512D8B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EAF7B2F-24C8-4002-AB44-2774512D8B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F404CCFA-19B4-44F6-8EF5-2B47EB92D7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F404CCFA-19B4-44F6-8EF5-2B47EB92D7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F404CCFA-19B4-44F6-8EF5-2B47EB92D7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F404CCFA-19B4-44F6-8EF5-2B47EB92D7D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
