@@ -26,7 +26,7 @@
 
         public virtual DbSet<Town> Towns { get; set; } = null!;
 
-        public virtual DbSet<EmployeeProject> EmployeeProject { get; set; } = null!;
+        public virtual DbSet<EmployeeProject> EmployeesProjects { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
