@@ -1,0 +1,12 @@
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.AssemblyReference.cache
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll

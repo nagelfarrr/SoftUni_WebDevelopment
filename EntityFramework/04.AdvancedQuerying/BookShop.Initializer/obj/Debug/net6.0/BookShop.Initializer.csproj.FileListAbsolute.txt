@@ -1,0 +1,17 @@
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.deps.json
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.dll
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.pdb
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.dll
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.dll
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.pdb
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.pdb
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.AssemblyReference.cache
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfo.cs
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.CopyComplete
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.dll
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\refint\BookShop.Initializer.dll
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.pdb
+D:\SoftUni\EntityFramework\04.AdvancedQuerying\BookShop.Initializer\obj\Debug\net6.0\ref\BookShop.Initializer.dll
