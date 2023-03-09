@@ -6,6 +6,7 @@
     using Data;
     using Initializer;
     using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore.Metadata;
 
     public class StartUp
     {
@@ -14,9 +15,9 @@
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
 
-            int input = int.Parse(Console.ReadLine());
+            string input = Console.ReadLine();
 
-            Console.WriteLine(GetBooksNotReleasedIn(db, input));
+            Console.WriteLine(GetAuthorNamesEndingIn(db, input));
         }
 
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
@@ -84,6 +85,56 @@
                 .ToArray();
 
             return string.Join(Environment.NewLine, books);
+        }
+
+        public static string GetBooksByCategory(BookShopContext context, string input)
+        {
+            string[] inputCategories = input.ToLower().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+            var categories = context.BooksCategories
+                .Where(bc => inputCategories.Contains(bc.Category.Name.ToLower()))
+                .Select(bc => bc.Book.Title)
+                .OrderBy(t => t)
+                .ToList();
+
+            return string.Join(Environment.NewLine, categories);
+        }
+
+        public static string GetBooksReleasedBefore(BookShopContext context, string date)
+        {
+            DateTime datetime = DateTime.ParseExact(date, "dd-MM-yyyy", null);
+
+            var books = context.Books
+                .Where(b => b.ReleaseDate < datetime)
+                .OrderByDescending(b => b.ReleaseDate)
+                .Select(b => new
+                {
+                    Title = b.Title,
+                    Edition = b.EditionType,
+                    Price = $"${b.Price:F2}"
+                })
+                .ToList();
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var book in books)
+            {
+                sb.AppendLine($"{book.Title} - {book.Edition.ToString()} - {book.Price}");
+            }
+
+            return sb.ToString().Trim();
+        }
+
+        public static string GetAuthorNamesEndingIn(BookShopContext context, string input)
+        {
+
+            var authors = context.Authors
+                .Where(a => a.FirstName.EndsWith(input))
+                .Select(a=> a.FirstName + " " + a.LastName)
+                .OrderBy(a => a)
+                .ToList();
+
+            return string.Join(Environment.NewLine, authors);
         }
 
     }
