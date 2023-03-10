@@ -15,9 +15,9 @@
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
 
-            string input = Console.ReadLine();
+            //int input = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(GetAuthorNamesEndingIn(db, input));
+            Console.WriteLine(CountCopiesByAuthor(db));
         }
 
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
@@ -136,6 +136,71 @@
 
             return string.Join(Environment.NewLine, authors);
         }
+
+        public static string GetBookTitlesContaining(BookShopContext context, string input)
+        {
+            var books = context.Books
+                .Where(b => b.Title.ToLower().Contains(input.ToLower()))
+                .Select(b => b.Title)
+                .OrderBy(b => b)
+                .ToList();
+
+            return string.Join(Environment.NewLine, books);
+        }
+
+        public static string GetBooksByAuthor(BookShopContext context, string input)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            var books = context.Books
+                .Where(b => b.Author.LastName.ToLower().StartsWith(input.ToLower()))
+                .OrderBy(b => b.BookId)
+                .Select(b => new
+                {
+                    Title = b.Title,
+                    Author = b.Author.FirstName + " " + b.Author.LastName,
+                })
+                .ToList();
+
+            foreach (var b in books)
+            {
+                sb.AppendLine($"{b.Title} ({b.Author})");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        public static int CountBooks(BookShopContext context, int lengthCheck)
+        {
+            var books = context.Books
+                .Where(b => b.Title.Length > lengthCheck)
+                .ToList();
+
+            return books.Count;
+        }
+
+        public static string CountCopiesByAuthor(BookShopContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            var authorCopies = context.Authors
+                .Select(ac => new
+                {
+                    AuthorName = ac.FirstName + " " + ac.LastName,
+                    TotalCopies = ac.Books.Sum(b => b.Copies),
+                })
+                .OrderByDescending(ac => ac.TotalCopies)
+                .ToList();
+
+            foreach (var ac in authorCopies)
+            {
+                sb.AppendLine($"{ac.AuthorName} - {ac.TotalCopies}");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+
 
     }
 }
