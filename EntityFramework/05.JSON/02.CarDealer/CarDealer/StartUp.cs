@@ -1,5 +1,6 @@
 ﻿namespace CarDealer
 {
+    using System.Globalization;
     using CarDealer.Data;
     using AutoMapper;
     using CarDealer.DTOs.Import;
@@ -16,9 +17,10 @@
             string jsonSuppliers = File.ReadAllText(@"../../../Datasets/suppliers.json");
             string jsonParts = File.ReadAllText(@"../../../Datasets/parts.json");
             string jsonCars = File.ReadAllText(@"../../../Datasets/cars.json");
+            string jsonCustomers = File.ReadAllText(@"../../../Datasets/customers.json");
+            string jsonSales = File.ReadAllText(@"../../../Datasets/sales.json");
 
-
-            Console.WriteLine(ImportCars(context, jsonCars));
+            Console.WriteLine(GetSalesWithAppliedDiscount(context));
         }
 
         public static string ImportSuppliers(CarDealerContext context, string inputJson)
@@ -91,7 +93,7 @@
                 {
                     Make = carDto.Make,
                     Model = carDto.Model,
-                    TravelledDistance = carDto.TravelledDistance
+                    TraveledDistance = carDto.TraveledDistance
                 };
 
                 validCars.Add(car);
@@ -112,6 +114,170 @@
             context.SaveChanges();
 
             return $"Successfully imported {validCars.Count}.";
+        }
+
+        public static string ImportCustomers(CarDealerContext context, string inputJson)
+        {
+            var jsonSettings = CamelCaseSettings();
+
+            ImportCustomerDto[] customerDtos =
+                JsonConvert.DeserializeObject<ImportCustomerDto[]>(inputJson, jsonSettings);
+
+            ICollection<Customer> validCustomers = new HashSet<Customer>();
+
+            foreach (var customerDto in customerDtos)
+            {
+                Customer customer = new Customer()
+                {
+                    Name = customerDto.Name,
+                    BirthDate = customerDto.BirthDate,
+                    IsYoungDriver = customerDto.IsYoungDriver,
+                };
+
+                validCustomers.Add(customer);
+            }
+
+            context.Customers.AddRange(validCustomers);
+            context.SaveChanges();
+
+            return $"Successfully imported {validCustomers.Count}.";
+        }
+
+        public static string ImportSales(CarDealerContext context, string inputJson)
+        {
+            var jsonSettings = CamelCaseSettings();
+
+            ImportSaleDto[] saleDtos = JsonConvert.DeserializeObject<ImportSaleDto[]>(inputJson, jsonSettings);
+
+            ICollection<Sale> validSales = new HashSet<Sale>();
+
+            foreach (var saleDto in saleDtos)
+            {
+                Sale sale = new Sale()
+                {
+                    CarId = saleDto.CarId,
+                    CustomerId = saleDto.CustomerId,
+                    Discount = saleDto.Discount,
+                };
+
+                validSales.Add(sale);
+            }
+
+            context.Sales.AddRange(validSales);
+            context.SaveChanges();
+
+            return $"Successfully imported {validSales.Count}.";
+        }
+
+        public static string GetOrderedCustomers(CarDealerContext context)
+        {
+            var customers = context.Customers
+                .OrderBy(c => c.BirthDate)
+                .ThenBy(c => c.IsYoungDriver)
+                .Select(c => new
+                {
+                    Name = c.Name,
+                    BirthDate = c.BirthDate.ToString(@"dd/MM/yyyy", CultureInfo.InvariantCulture),
+                    c.IsYoungDriver
+                })
+                .ToArray();
+
+            return JsonConvert.SerializeObject(customers, Formatting.Indented);
+        }
+
+        public static string GetCarsFromMakeToyota(CarDealerContext context)
+        {
+            var toyotas = context.Cars
+                .Where(c => c.Make == "Toyota")
+                .OrderBy(c => c.Model)
+                .ThenByDescending(c => c.TraveledDistance)
+                .Select(c => new
+                {
+                    Id = c.Id,
+                    Make = c.Make,
+                    Model = c.Model,
+                    TraveledDistance = c.TraveledDistance,
+                })
+                .ToArray();
+
+            return JsonConvert.SerializeObject(toyotas, Formatting.Indented);
+        }
+
+        public static string GetLocalSuppliers(CarDealerContext context)
+        {
+            var suppliers = context.Suppliers
+                .Where(s => s.IsImporter == false)
+                .Select(s => new
+                {
+                    Id = s.Id,
+                    Name = s.Name,
+                    PartsCount = s.Parts.Count,
+                })
+                .ToArray();
+
+            return JsonConvert.SerializeObject(suppliers, Formatting.Indented);
+        }
+
+        public static string GetCarsWithTheirListOfParts(CarDealerContext context)
+        {
+            var cars = context.Cars
+                .Select(c => new
+                {
+                    car = new
+                    {
+                        Make = c.Make,
+                        Model = c.Model,
+                        TraveledDistance = c.TraveledDistance
+                    },
+                    parts = c.PartsCars
+                        .Select(p=> new
+                        {
+                            Name = p.Part.Name,
+                            Price = $"{p.Part.Price:F2}"
+                        })
+                })
+                .ToArray();
+
+            return JsonConvert.SerializeObject(cars, Formatting.Indented);
+        }
+
+        public static string GetTotalSalesByCustomer(CarDealerContext context)
+        {
+            var customers = context.Customers
+                .Where(c => c.Sales.Any())
+                .Select(c => new
+                {
+                    fullName = c.Name,
+                    boughtCars = c.Sales.Count,
+                    spentMoney = (c.Sales.SelectMany(s => s.Car.PartsCars.Select(pc => pc.Part.Price))).Sum()
+                })
+                .OrderByDescending(c => c.spentMoney)
+                .ThenByDescending(c => c.boughtCars)
+                .ToArray();
+
+            return JsonConvert.SerializeObject(customers, Formatting.Indented);
+        }
+
+        public static string GetSalesWithAppliedDiscount(CarDealerContext context)
+        {
+            var sales = context.Sales
+                .Take(10)
+                .Select(s => new
+                {
+                    car = new
+                    {
+                        Make = s.Car.Make,
+                        Model = s.Car.Model,
+                        TraveledDistance = s.Car.TraveledDistance,
+                    },
+                    customerName = s.Customer.Name,
+                    discount = $"{s.Discount:F2}",
+                    price = $"{s.Car.PartsCars.Sum(p => p.Part.Price):F2}",
+                    priceWithDiscount = $"{s.Car.PartsCars.Sum(p => p.Part.Price) * (1 - s.Discount / 100):F2}"
+                })
+                .ToArray();
+
+                return JsonConvert.SerializeObject(sales, Formatting.Indented);
         }
 
         private static IMapper CreateMapper()

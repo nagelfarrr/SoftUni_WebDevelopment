@@ -8,7 +8,7 @@ namespace CarDealer.DTOs.Import
 
         public string Model { get; set; } = null!;
 
-        public long TravelledDistance { get; set; }
+        public long TraveledDistance { get; set; }
 
         public ICollection<int> PartsId { get; set; } = new HashSet<int>();
     }
