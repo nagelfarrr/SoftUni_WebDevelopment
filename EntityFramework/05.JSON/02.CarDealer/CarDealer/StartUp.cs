@@ -15,9 +15,10 @@
 
             string jsonSuppliers = File.ReadAllText(@"../../../Datasets/suppliers.json");
             string jsonParts = File.ReadAllText(@"../../../Datasets/parts.json");
+            string jsonCars = File.ReadAllText(@"../../../Datasets/cars.json");
 
 
-            Console.WriteLine(ImportParts(context,jsonParts));
+            Console.WriteLine(ImportCars(context, jsonCars));
         }
 
         public static string ImportSuppliers(CarDealerContext context, string inputJson)
@@ -73,6 +74,44 @@
             context.SaveChanges();
 
             return $"Successfully imported {validParts.Count}.";
+        }
+
+        public static string ImportCars(CarDealerContext context, string inputJson)
+        {
+            var jsonSettings = CamelCaseSettings();
+
+            ImportCarDto[] carsPartsDtos = JsonConvert.DeserializeObject<ImportCarDto[]>(inputJson);
+
+            ICollection<Car> validCars = new HashSet<Car>();
+            ICollection<PartCar> parts = new HashSet<PartCar>();
+
+            foreach (var carDto in carsPartsDtos)
+            {
+                Car car = new Car()
+                {
+                    Make = carDto.Make,
+                    Model = carDto.Model,
+                    TravelledDistance = carDto.TravelledDistance
+                };
+
+                validCars.Add(car);
+
+                foreach (var part in carDto.PartsId.Distinct())
+                {
+                    PartCar partCar = new PartCar()
+                    {
+                        Car = car,
+                        PartId = part,
+                    };
+                    parts.Add(partCar);
+                }
+            }
+
+            context.Cars.AddRange(validCars);
+            context.PartsCars.AddRange(parts);
+            context.SaveChanges();
+
+            return $"Successfully imported {validCars.Count}.";
         }
 
         private static IMapper CreateMapper()
