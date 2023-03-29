@@ -43,11 +43,11 @@ namespace Footballers
 
             PrintAndExportEntityToFile(coaches, exportDir + "Actual Result - ImportCoaches.txt");
 
-            //var teams =
-            // DataProcessor.Deserializer.ImportTeams(context,
-            //     File.ReadAllText(baseDir + "teams.json"));
+            var teams =
+             DataProcessor.Deserializer.ImportTeams(context,
+                 File.ReadAllText(baseDir + "teams.json"));
 
-            //PrintAndExportEntityToFile(teams, exportDir + "Actual Result - ImportTeams.txt");
+            PrintAndExportEntityToFile(teams, exportDir + "Actual Result - ImportTeams.txt");
         }
 
         private static void ExportEntities(FootballersContext context, string exportDir)

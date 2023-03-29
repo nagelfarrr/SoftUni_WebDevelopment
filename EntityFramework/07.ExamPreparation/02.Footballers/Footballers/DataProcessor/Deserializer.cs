@@ -4,10 +4,14 @@
     using System.ComponentModel.DataAnnotations;
     using System.Globalization;
     using System.Text;
+    using System.Text.RegularExpressions;
     using System.Xml.Linq;
     using Footballers.Data.Models;
     using Footballers.Data.Models.Enums;
+    using Footballers.DataProcessor.ImportDto;
     using Microsoft.EntityFrameworkCore.Storage;
+    using Newtonsoft.Json;
+    using System.Xml.Serialization;
 
     public class Deserializer
     {
@@ -21,87 +25,113 @@
 
         public static string ImportCoaches(FootballersContext context, string xmlString)
         {
-            StringBuilder sb = new StringBuilder();
+            ImportCoachDto[] coaches = Deserialize<ImportCoachDto[]>(xmlString, "Coaches");
 
-            XDocument xmlDocument = XDocument.Parse(xmlString);
+            StringBuilder stringBuilder = new StringBuilder();
 
-            var coaches = xmlDocument.Root.Elements();
-
-            ICollection<Coach> validCoaches = new HashSet<Coach>();
-
-            foreach (XElement xmlCoach in coaches)
+            foreach (var coachDto in coaches)
             {
-                if (xmlCoach.Element("Name").Value.Length < 3 || xmlCoach.Element("Name").Value.Length > 40)
+                if (!IsValid(coachDto) || string.IsNullOrEmpty(coachDto.Nationality))
                 {
-                    sb.AppendLine(ErrorMessage);
-                    continue;
-                }
-
-                if (string.IsNullOrEmpty(xmlCoach.Element("Nationality").Value))
-                {
-                    sb.AppendLine(ErrorMessage);
+                    stringBuilder.AppendLine(ErrorMessage);
                     continue;
                 }
 
                 Coach coach = new Coach()
                 {
-                    Name = xmlCoach.Element("Name").Value,
-                    Nationality = xmlCoach.Element("Nationality").Value
+                    Name = coachDto.Name,
+                    Nationality = coachDto.Nationality,
                 };
 
-                ICollection<Footballer> validFootballers = new HashSet<Footballer>();
+                List<Footballer> footballers = new List<Footballer>();
 
-                foreach (XElement xmlFootballer in xmlCoach.Element("Footballers").Elements())
+                foreach (var footballerDto in coachDto.Footballers)
                 {
-                    if (xmlFootballer.Element("Name").Value.Length < 2 ||
-                        xmlFootballer.Element("Name").Value.Length > 40)
+                    if (!IsValid(footballerDto) || string.IsNullOrEmpty(footballerDto.ContractStartDate) || string.IsNullOrEmpty(footballerDto.ContractEndDate))
                     {
-                        sb.AppendLine(ErrorMessage);
+                        stringBuilder.AppendLine(ErrorMessage);
                         continue;
                     }
 
-                    DateTime validStartDate;
-                    bool isStartDateValid = DateTime.TryParseExact(xmlFootballer.Element("ContractStartDate").Value,
-                        "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out validStartDate);
+                    bool startDate = DateTime.TryParseExact(footballerDto.ContractStartDate, "dd/MM/yyyy",
+                        CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime start);
 
-                    DateTime validEndDate;
-                    bool isEndDateValid = DateTime.TryParseExact(xmlFootballer.Element("ContractEndDate").Value,
-                        "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out validEndDate);
+                    bool endDate = DateTime.TryParseExact(footballerDto.ContractEndDate, "dd/MM/yyyy",
+                        CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime end);
 
-                    if (!isStartDateValid || !isEndDateValid || validEndDate < validStartDate)
+                    if (!startDate || !endDate || start > end)
                     {
-                        sb.Append(ErrorMessage);
+                        stringBuilder.AppendLine(ErrorMessage);
                         continue;
                     }
 
                     Footballer footballer = new Footballer()
                     {
-                        Name = xmlFootballer.Element("Name").Value,
-                        ContractStartDate = validStartDate,
-                        ContractEndDate = validEndDate,
-                        BestSkillType = Enum.Parse<BestSkillType>(xmlFootballer.Element("BestSkillType").Value),
-                        PositionType = Enum.Parse<PositionType>(xmlFootballer.Element("PositionType").Value)
+                        Name = footballerDto.Name,
+                        ContractStartDate = start,
+                        ContractEndDate = end,
+                        BestSkillType = (BestSkillType)footballerDto.BestSkillType,
+                        PositionType = (PositionType)footballerDto.PositionType
                     };
 
-                    validFootballers.Add(footballer);
+                    footballers.Add(footballer);
                 }
 
-                coach.Footballers = validFootballers;
+                coach.Footballers = footballers;
+                context.Coaches.Add(coach);
 
-                validCoaches.Add(coach);
-
-                sb.AppendLine(string.Format(SuccessfullyImportedCoach, coach.Name, validFootballers.Count));
+                stringBuilder.AppendLine(string.Format(SuccessfullyImportedCoach, coach.Name, coach.Footballers.Count));
             }
 
-            context.Coaches.AddRange(validCoaches);
             context.SaveChanges();
 
-            return sb.ToString().TrimEnd();
+            return stringBuilder.ToString().TrimEnd();
         }
 
         public static string ImportTeams(FootballersContext context, string jsonString)
         {
-            throw new NotImplementedException();
+            ImportTeamDto[] teams = JsonConvert.DeserializeObject<ImportTeamDto[]>(jsonString);
+
+            StringBuilder stringBuilder = new StringBuilder();
+
+            foreach (var teamDto in teams)
+            {
+                if (!IsValid(teamDto) || string.IsNullOrEmpty(teamDto.Nationality) || teamDto.Trophies == 0)
+                {
+                    stringBuilder.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                Team team = new Team()
+                {
+                    Name = teamDto.Name,
+                    Nationality = teamDto.Nationality,
+                    Trophies = teamDto.Trophies
+                };
+
+                foreach (var footballerId in teamDto.Footballers.Distinct())
+                {
+                    if (!context.Footballers.Any(f => f.Id == footballerId))
+                    {
+                        stringBuilder.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    team.TeamsFootballers.Add(new TeamFootballer()
+                    {
+                        Team = team,
+                        Footballer = context.Footballers.FirstOrDefault(f => f.Id == footballerId)
+                    });
+                }
+
+                context.Teams.Add(team);
+
+                stringBuilder.AppendLine(string.Format(SuccessfullyImportedTeam, team.Name, team.TeamsFootballers.Count));
+            }
+
+            context.SaveChanges();
+
+            return stringBuilder.ToString().TrimEnd();
         }
 
         private static bool IsValid(object dto)
@@ -110,6 +140,17 @@
             var validationResult = new List<ValidationResult>();
 
             return Validator.TryValidateObject(dto, validationContext, validationResult, true);
+        }
+
+        private static T Deserialize<T>(string inputXml, string rootName)
+        {
+            XmlRootAttribute root = new XmlRootAttribute(rootName);
+            XmlSerializer serializer = new XmlSerializer(typeof(T), root);
+
+            using StringReader reader = new StringReader(inputXml);
+
+            T dtos = (T)serializer.Deserialize(reader);
+            return dtos;
         }
     }
 }

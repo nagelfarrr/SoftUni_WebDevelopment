@@ -1,6 +1,7 @@
 ﻿namespace Footballers.Data.Models
 {
     using System.ComponentModel.DataAnnotations;
+    using Newtonsoft.Json;
 
     public class Team
     {
@@ -23,6 +24,7 @@
         [Required]
         public int Trophies { get; set; }
 
+        [JsonProperty("Footballers")]
         public ICollection<TeamFootballer> TeamsFootballers { get; set; }
     }
 }
