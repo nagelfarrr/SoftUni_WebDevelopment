@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Plays>
+  <Play Title="A Raisin in the Sun" Duration="01:40:00" Rating="5.4" Genre="Drama">
+    <Actors>
+      <Actor FullName="Wren O'Noland" MainCharacter="Plays main character in 'A Raisin in the Sun'." />
+      <Actor FullName="Debra Leeder" MainCharacter="Plays main character in 'A Raisin in the Sun'." />
+      <Actor FullName="Chris Lindley" MainCharacter="Plays main character in 'A Raisin in the Sun'." />
+      <Actor FullName="Ashly Manchett" MainCharacter="Plays main character in 'A Raisin in the Sun'." />
+    </Actors>
+  </Play>
+  <Play Title="Awake and Sing" Duration="02:41:00" Rating="3.8" Genre="Drama">
+    <Actors>
+      <Actor FullName="Jamey Medgwick" MainCharacter="Plays main character in 'Awake and Sing'." />
+      <Actor FullName="Hersh Birdis" MainCharacter="Plays main character in 'Awake and Sing'." />
+      <Actor FullName="Elke Kavanagh" MainCharacter="Plays main character in 'Awake and Sing'." />
+    </Actors>
+  </Play>
+  <Play Title="Candida" Duration="02:21:00" Rating="6.5" Genre="Romance">
+    <Actors>
+      <Actor FullName="Vincenty Dodsworth" MainCharacter="Plays main character in 'Candida'." />
+      <Actor FullName="Rochette Polleye" MainCharacter="Plays main character in 'Candida'." />
+      <Actor FullName="Jefferson Chell" MainCharacter="Plays main character in 'Candida'." />
+      <Actor FullName="Currey Le Frank" MainCharacter="Plays main character in 'Candida'." />
+    </Actors>
+  </Play>
+  <Play Title="Dutchman" Duration="02:11:44" Rating="5.1" Genre="Comedy">
+    <Actors>
+      <Actor FullName="Rafaello Licari" MainCharacter="Plays main character in 'Dutchman'." />
+      <Actor FullName="Nerti Ridel" MainCharacter="Plays main character in 'Dutchman'." />
+      <Actor FullName="Hildagarde Itzkowicz" MainCharacter="Plays main character in 'Dutchman'." />
+    </Actors>
+  </Play>
+  <Play Title="Everyman" Duration="02:11:00" Rating="4.1" Genre="Drama">
+    <Actors>
+      <Actor FullName="Sylvia Felipe" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Sella Mains" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Sela Hillett" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Rodney O'Neill" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Robbert Tuvey" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Reamonn Maleby" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Loutitia Joy" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Irving Houlridge" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Cristine Van Brug" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Clerissa Fellgate" MainCharacter="Plays main character in 'Everyman'." />
+      <Actor FullName="Caye Blacklawe" MainCharacter="Plays main character in 'Everyman'." />
+    </Actors>
+  </Play>
+  <Play Title="Fences" Duration="03:20:00" Rating="4.7" Genre="Musical">
+    <Actors>
+      <Actor FullName="Shirlene Canedo" MainCharacter="Plays main character in 'Fences'." />
+      <Actor FullName="Rhianna McLurg" MainCharacter="Plays main character in 'Fences'." />
+      <Actor FullName="Maisie Hymas" MainCharacter="Plays main character in 'Fences'." />
+      <Actor FullName="Colet Biernat" MainCharacter="Plays main character in 'Fences'." />
+      <Actor FullName="Clement Pykett" MainCharacter="Plays main character in 'Fences'." />
+      <Actor FullName="Branden Drewe" MainCharacter="Plays main character in 'Fences'." />
+      <Actor FullName="Anastasie McNally" MainCharacter="Plays main character in 'Fences'." />
+    </Actors>
+  </Play>
+  <Play Title="Hamlet" Duration="02:11:00" Rating="4.1" Genre="Comedy">
+    <Actors />
+  </Play>
+  <Play Title="Hedda Gabler" Duration="03:50:00" Rating="1" Genre="Musical">
+    <Actors>
+      <Actor FullName="Zacherie Rainforth" MainCharacter="Plays main character in 'Hedda Gabler'." />
+      <Actor FullName="Webster Filson" MainCharacter="Plays main character in 'Hedda Gabler'." />
+      <Actor FullName="Munroe Bringloe" MainCharacter="Plays main character in 'Hedda Gabler'." />
+      <Actor FullName="Monro Cord" MainCharacter="Plays main character in 'Hedda Gabler'." />
+      <Actor FullName="Madella Van Son" MainCharacter="Plays main character in 'Hedda Gabler'." />
+      <Actor FullName="Lorraine Thorwarth" MainCharacter="Plays main character in 'Hedda Gabler'." />
+      <Actor FullName="Elwyn Callister" MainCharacter="Plays main character in 'Hedda Gabler'." />
+    </Actors>
+  </Play>
+  <Play Title="Life With Father" Duration="04:21:00" Rating="Premier" Genre="Comedy">
+    <Actors>
+      <Actor FullName="Tyson Antonellini" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Smitty Beaty" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Sigismondo Pettiford" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Monroe Spraggon" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Mabel Belfit" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Ingaborg Oakenfield" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Evita Ridler" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Aurore Blazej" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Andriana Joskowicz" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Alica O'Hanley" MainCharacter="Plays main character in 'Life With Father'." />
+      <Actor FullName="Alexine Rickhuss" MainCharacter="Plays main character in 'Life With Father'." />
+    </Actors>
+  </Play>
+  <Play Title="Look Back in Anger" Duration="01:50:00" Rating="5.3" Genre="Musical">
+    <Actors>
+      <Actor FullName="Rafaelita Karp" MainCharacter="Plays main character in 'Look Back in Anger'." />
+      <Actor FullName="Louie Sherratt" MainCharacter="Plays main character in 'Look Back in Anger'." />
+      <Actor FullName="Isis Bessey" MainCharacter="Plays main character in 'Look Back in Anger'." />
+      <Actor FullName="Gregoire Hardan" MainCharacter="Plays main character in 'Look Back in Anger'." />
+      <Actor FullName="Flora Greenaway" MainCharacter="Plays main character in 'Look Back in Anger'." />
+      <Actor FullName="Corabelle Frankcomb" MainCharacter="Plays main character in 'Look Back in Anger'." />
+      <Actor FullName="Annabel Elvidge" MainCharacter="Plays main character in 'Look Back in Anger'." />
+    </Actors>
+  </Play>
+  <Play Title="Mission Drift" Duration="03:21:00" Rating="7.1" Genre="Comedy">
+    <Actors />
+  </Play>
+  <Play Title="Oedipus Rex" Duration="01:13:00" Rating="7.2" Genre="Musical">
+    <Actors>
+      <Actor FullName="Waring Ducaen" MainCharacter="Plays main character in 'Oedipus Rex'." />
+      <Actor FullName="Rory Jarad" MainCharacter="Plays main character in 'Oedipus Rex'." />
+      <Actor FullName="Renell Rosenbush" MainCharacter="Plays main character in 'Oedipus Rex'." />
+      <Actor FullName="Kenny Shegog" MainCharacter="Plays main character in 'Oedipus Rex'." />
+      <Actor FullName="Giacomo Belward" MainCharacter="Plays main character in 'Oedipus Rex'." />
+      <Actor FullName="Donnie Stonard" MainCharacter="Plays main character in 'Oedipus Rex'." />
+      <Actor FullName="Carce Nuth" MainCharacter="Plays main character in 'Oedipus Rex'." />
+      <Actor FullName="Alfi Grasser" MainCharacter="Plays main character in 'Oedipus Rex'." />
+      <Actor FullName="Abbe Bage" MainCharacter="Plays main character in 'Oedipus Rex'." />
+    </Actors>
+  </Play>
+  <Play Title="Playboy of the Western World" Duration="03:21:00" Rating="6.1" Genre="Comedy">
+    <Actors>
+      <Actor FullName="Vonny Henlon" MainCharacter="Plays main character in 'Playboy of the Western World'." />
+      <Actor FullName="Traci Burgis" MainCharacter="Plays main character in 'Playboy of the Western World'." />
+      <Actor FullName="Heidie Pudsey" MainCharacter="Plays main character in 'Playboy of the Western World'." />
+      <Actor FullName="Durand Rapper" MainCharacter="Plays main character in 'Playboy of the Western World'." />
+      <Actor FullName="Darryl Shobbrook" MainCharacter="Plays main character in 'Playboy of the Western World'." />
+      <Actor FullName="Chilton D'Ambrogi" MainCharacter="Plays main character in 'Playboy of the Western World'." />
+      <Actor FullName="Brod Doy" MainCharacter="Plays main character in 'Playboy of the Western World'." />
+    </Actors>
+  </Play>
+  <Play Title="Stuff Happens" Duration="03:10:00" Rating="6.3" Genre="Comedy">
+    <Actors>
+      <Actor FullName="Xenia Osipov" MainCharacter="Plays main character in 'Stuff Happens'." />
+      <Actor FullName="Ernaline Gayforth" MainCharacter="Plays main character in 'Stuff Happens'." />
+      <Actor FullName="Emily Crawforth" MainCharacter="Plays main character in 'Stuff Happens'." />
+    </Actors>
+  </Play>
+  <Play Title="Tartuffe" Duration="02:45:00" Rating="Premier" Genre="Drama">
+    <Actors>
+      <Actor FullName="Zorana Kitcat" MainCharacter="Plays main character in 'Tartuffe'." />
+      <Actor FullName="Torrin Darke" MainCharacter="Plays main character in 'Tartuffe'." />
+      <Actor FullName="Jocelyne Dartnell" MainCharacter="Plays main character in 'Tartuffe'." />
+      <Actor FullName="Alair Cattonnet" MainCharacter="Plays main character in 'Tartuffe'." />
+      <Actor FullName="Adolf Gally" MainCharacter="Plays main character in 'Tartuffe'." />
+    </Actors>
+  </Play>
+  <Play Title="The Importance of Being" Duration="04:21:00" Rating="1.3" Genre="Musical">
+    <Actors>
+      <Actor FullName="Wylma Tillerton" MainCharacter="Plays main character in 'The Importance of Being'." />
+      <Actor FullName="Raymund Odlin" MainCharacter="Plays main character in 'The Importance of Being'." />
+      <Actor FullName="Mattie GiacobbiniJacob" MainCharacter="Plays main character in 'The Importance of Being'." />
+    </Actors>
+  </Play>
+  <Play Title="The Persian" Duration="02:11:00" Rating="4.1" Genre="Comedy">
+    <Actors>
+      <Actor FullName="Odilia Jasiak" MainCharacter="Plays main character in 'The Persian'." />
+      <Actor FullName="Nathalie Neiland" MainCharacter="Plays main character in 'The Persian'." />
+      <Actor FullName="Nance Pollie" MainCharacter="Plays main character in 'The Persian'." />
+    </Actors>
+  </Play>
+  <Play Title="Three Kingdoms" Duration="02:55:00" Rating="6.1" Genre="Drama">
+    <Actors />
+  </Play>
+  <Play Title="Uncle Vanya" Duration="03:10:00" Rating="Premier" Genre="Drama">
+    <Actors>
+      <Actor FullName="Leupold Prenty" MainCharacter="Plays main character in 'Uncle Vanya'." />
+      <Actor FullName="Legra Strong" MainCharacter="Plays main character in 'Uncle Vanya'." />
+      <Actor FullName="Caddric Beasley" MainCharacter="Plays main character in 'Uncle Vanya'." />
+    </Actors>
+  </Play>
+  <Play Title="What the Butler Saw" Duration="02:25:00" Rating="5.2" Genre="Comedy">
+    <Actors>
+      <Actor FullName="Salaidh Dedon" MainCharacter="Plays main character in 'What the Butler Saw'." />
+      <Actor FullName="Linnea Edgeley" MainCharacter="Plays main character in 'What the Butler Saw'." />
+      <Actor FullName="Celine Kerwick" MainCharacter="Plays main character in 'What the Butler Saw'." />
+      <Actor FullName="Carley Lomansey" MainCharacter="Plays main character in 'What the Butler Saw'." />
+    </Actors>
+  </Play>
+  <Play Title="Woyzeck" Duration="01:30:00" Rating="3.4" Genre="Drama">
+    <Actors>
+      <Actor FullName="Silvana Flegg" MainCharacter="Plays main character in 'Woyzeck'." />
+      <Actor FullName="Kessia Oliphant" MainCharacter="Plays main character in 'Woyzeck'." />
+      <Actor FullName="Ganny Kenrick" MainCharacter="Plays main character in 'Woyzeck'." />
+      <Actor FullName="Fonsie Soughton" MainCharacter="Plays main character in 'Woyzeck'." />
+      <Actor FullName="Brock Palle" MainCharacter="Plays main character in 'Woyzeck'." />
+      <Actor FullName="Bartholomeus Pentecust" MainCharacter="Plays main character in 'Woyzeck'." />
+      <Actor FullName="Agatha Tomashov" MainCharacter="Plays main character in 'Woyzeck'." />
+    </Actors>
+  </Play>
+</Plays>
