@@ -1,0 +1,14 @@
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\ForumApp.Data.csproj.AssemblyReference.cache
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\ForumApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\ForumApp.Data.AssemblyInfoInputs.cache
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\ForumApp.Data.AssemblyInfo.cs
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\ForumApp.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\bin\Debug\net6.0\ForumApp.Data.deps.json
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\bin\Debug\net6.0\ForumApp.Data.runtimeconfig.json
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\bin\Debug\net6.0\ForumApp.Data.dll
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\bin\Debug\net6.0\ForumApp.Data.pdb
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\ForumApp.Data.dll
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\refint\ForumApp.Data.dll
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\ForumApp.Data.pdb
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\ForumApp.Data.genruntimeconfig.cache
+D:\SoftUni\ASP.Net Fundamentals\ForumApp\ForumApp.Data\obj\Debug\net6.0\ref\ForumApp.Data.dll
