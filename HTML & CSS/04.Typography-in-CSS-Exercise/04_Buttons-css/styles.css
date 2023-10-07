@@ -1,0 +1,55 @@
+@import url(https://use.fontawesome.com/releases/v5.6.3/css/all.css);
+
+body {
+    background-color: lightgray;
+    font-family: FontAwesome, sans-serif;
+}
+
+h2{
+    margin:10px;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 10px;
+}
+
+ul.filled-buttons li, ul.icon-buttons li {
+    background-color: gray;
+    color: white;
+}
+
+ul  li {
+    display: inline-block;
+}
+
+li {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 7px;
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    background: none;
+    border: none;
+    outline: none;
+    font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+    cursor: pointer;
+    text-align: inherit;
+    text-decoration: none;
+    appearance: none;
+}
+
+li.hover:hover {
+    background-color: green;
+    color: white;
+}
