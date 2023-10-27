@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=PT+Serif");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700");
+
+html {
+    font: 12px/1.5 "PT Serif", "PT Sans", serif, sans-serif;
+}

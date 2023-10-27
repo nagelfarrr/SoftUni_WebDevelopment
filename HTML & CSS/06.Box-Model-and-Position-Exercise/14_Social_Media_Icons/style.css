@@ -1,0 +1,29 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css);
+
+.fa-brands {
+    margin: 10px;
+    background-color: lightgrey;
+    border: 5px solid lightgrey;
+    border-radius: 50%;
+}
+
+
+.fa-facebook:hover {
+    color: blue;
+}
+
+.fa-twitter:hover {
+    color: lightblue;
+}
+
+.fa-google-plus:hover {
+    color: red;
+}
+
+.fa-linkedin:hover {
+    color: darkblue;
+}
+
+.fa-instagram:hover {
+    color: darkgreen;
+}

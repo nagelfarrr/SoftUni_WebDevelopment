@@ -1,0 +1,24 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+h1, nav, ul, li, a  {
+    display: inline-block;
+}
+
+ul {
+    margin-left: 50px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+    padding: 10px;
+    margin: 2px;
+}
+
+header {
+    border-bottom: 2px solid black;
+}

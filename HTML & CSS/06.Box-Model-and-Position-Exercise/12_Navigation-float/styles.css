@@ -1,0 +1,85 @@
+body {
+    padding: 5em;
+    margin: 0;
+    background-color: rgb(238, 238, 238);
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font: 1em/1.2 Georgia, serif;
+    font-weight: bold;
+}
+
+blockquote {
+    width: 50%;
+    float: right;
+    font-family: Georgia, serif;
+    border-left: 1px solid grey;
+    padding-left: 1.3em;
+    font-style: italic;
+    color: grey;
+}
+
+blockquote p.author {
+    float: right;
+}
+
+header.site-header {
+    border-bottom: 2px solid black;
+    width: 100%;
+}
+
+header > p {
+    font-size: 2em;
+    font-weight: bold;
+    display: inline-block;
+}
+
+nav.main-nav  {
+    float: right;
+}
+
+.main-nav  li {
+    padding: 1.05em;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 102, 0);
+    font-size: 1.2em;
+}
+
+article {
+    position: relative;
+    max-width: 70%;
+}
+
+aside {
+    font-size: 1.1em;
+    position: absolute;
+    top: 20%;
+    right: 10%;
+}
+
+aside h3 {
+    font-weight: bold;
+}
+
+.first-image {
+    position: relative;
+    display: block;
+    float: right;
+    padding: 0.5em;
+    margin: 0.8em;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border: 3px solid black;
+}
+
+.second-image {
+    float: left;
+    padding: 0.5em;
+    margin: 0 0.8em 0 0;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid black;
+}

@@ -1,0 +1,176 @@
+body {
+    padding: 2em 3em;
+    background-color: white;
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 500px;
+    background-position: center top;
+    align-items: center;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+header {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+header > ul {
+    list-style-type: none;
+    justify-content: end;
+}
+
+nav > ul li {
+    display: inline;
+}
+
+nav > ul li a {
+    padding-right: 2em;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #b7cee2;
+}
+
+.logo {
+    margin-left: 2em;
+    display: block;
+    width: auto;
+    height: 50px;
+}
+
+section {
+    background-color: white;
+}
+
+.about {
+    background-color: transparent;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 400px;
+}
+
+.about-title {
+    font-size: 3em;
+    text-align: left;
+}
+
+.about-content {
+    font-size: 1.1em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: left;
+    margin-right: 985px;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+
+.main-container{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 230px;
+    padding-right: 230px;
+}
+
+.main-section {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #d7d7d7;
+    gap: 3em
+}
+
+.aims > h4, .objectives > h4 {
+    font-size: 3em;
+    padding-bottom: 0.7em;
+}
+
+article {
+    padding: 6em 0;
+}
+
+.aims {
+    padding-left: 9em;
+}
+
+.objectives {
+    padding-right: 9em;
+}
+
+article > p {
+    padding-bottom: 3em;
+}
+
+.more-info {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #af7f59;
+    border: 1px solid #af7f59;
+    padding: 0.5em 0.8em;
+}
+
+
+.sponsors {
+    padding-top: 3em;
+}
+
+.sponsors > h3 {
+    font-size: 3em;
+    font-weight: 500;
+    text-align: center;
+    color: #af7f59;
+    margin-bottom: 0.5em;
+}
+
+.sponsors p {
+    text-align: center;
+}
+
+.sponsor-logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.sponsor-logos > ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.sponsor-logos ul li {
+    display: inline;
+    display: flex;
+    align-items: center;
+}
+
+.sponsor-logos ul li a{
+    display: flex;
+    justify-content: center;
+}
+
+.sponsor-logos img {
+    display: inline-block;
+    width: 15%;
+    height: 15%;
+}

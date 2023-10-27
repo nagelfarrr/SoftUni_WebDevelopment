@@ -1,0 +1,48 @@
+
+
+html {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: rgb(238,238,238);
+    color: rgb(51,51,51);
+}
+
+article {
+    margin: auto;    
+    margin-left: 0;
+    padding: 2em;
+    position: relative;
+    max-width: 60%;
+}
+
+
+aside {
+    position: absolute;
+    top: 1%;
+    right: 40%;
+    transform: translateX(100%);
+    box-sizing: border-box;
+    width: 20%;
+    line-height: 1.2em;
+}
+
+aside ul
+{
+    list-style-position: inside;
+}
+img {
+    display: block;
+    width: 70%;
+    height: auto;
+}
+
+footer {
+    padding-left: 2em;
+}
