@@ -8,10 +8,8 @@ function sameDigits(num) {
         sum += currentDigit;
         num = Math.floor(num/10);
 
-
         if(digit !== currentDigit) {
             isDigitsSame = false;
-            
         } else {
             isDigitsSame = true;
         }
