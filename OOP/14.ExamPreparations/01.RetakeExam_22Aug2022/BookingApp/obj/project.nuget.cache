@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dYExQcclgHFRsbT5kRVTcRpSfcvXXolzlANzarNtRZLyixPgBQ9+V5eDHytf0M2cF+CdaZ9OP8TEHW3ZEuDb4g==",
+  "dgSpecHash": "Ohs/Vg0xqugBoP5+40g2EH/o4CasuCkLHRqkL1CIaBAW9q4tzkxCeLEhgXv/9OT1eSYadBwEyU8+umgPaFONzA==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\01.RetakeExam_22Aug2022\\BookingApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\SoftUni\\OOP\\14.ExamPreparations\\01.RetakeExam_22Aug2022\\BookingApp\\BookingApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

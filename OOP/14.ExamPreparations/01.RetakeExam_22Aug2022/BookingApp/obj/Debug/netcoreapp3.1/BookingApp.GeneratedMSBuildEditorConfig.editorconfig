@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = BookingApp
-build_property.ProjectDir = D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\
+build_property.ProjectDir = D:\SoftUni\OOP\14.ExamPreparations\01.RetakeExam_22Aug2022\BookingApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
